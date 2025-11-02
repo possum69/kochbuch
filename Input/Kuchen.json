@@ -1,0 +1,126 @@
+[
+    {
+        "Name": "Kirsch-Nuss-Kuchen",
+        "Zutaten": [
+            "500 g Kirschen, entsteint",
+            "150 g Butter",
+            "150 g Zucker",
+            "4 Eier",
+            "100 g Schokolade, gerieben",
+            "200 g gemahlene Haselnüsse"
+        ],
+        "Anleitung": [
+            "Butter und Zucker schaumig rühren.",
+            "Eier trennen. Eigelbe nacheinander unter die Buttermasse rühren.",
+            "Schokolade und gemahlene Haselnüsse hinzufügen.",
+            "Eiweiße steif schlagen und unterheben.",
+            "Teig in eine Springform füllen, Kirschen darauf verteilen.",
+            "Im vorgeheizten Ofen bei 180°C auf der unteren Schiene 1 Stunde backen.",
+            "Kuchen 10 Minuten im ausgeschalteten Ofen auskühlen lassen, anschließend mit Puderzucker bestreuen."
+        ],
+        "Serves": 8,
+        "Dauer": 75,
+        "Notes": "Eier trennen und Eiweiß steif schlagen für lockere Konsistenz."
+    },
+    {
+        "Name": "Ostpreußischer Pfefferkuchen",
+        "Zutaten": [
+            "500 g Honig",
+            "500 g Zucker",
+            "200 g Butter oder Margarine",
+            "1500 g Mehl",
+            "200 g gemahlene Haselnüsse",
+            "100 g gehacktes Zitronat",
+            "2 EL Kakao",
+            "2 TL Neunerlei-Gewürz",
+            "1 Päckchen Backpulver",
+            "6 Eier"
+        ],
+        "Anleitung": [
+            "Honig, Zucker, Butter/Margarine zusammen erwärmen und verrühren, dann abkühlen lassen.",
+            "Mehl, Nüsse, Zitronat, Kakao, Gewürz, Backpulver mischen.",
+            "Abgekühlte Honigmasse dazugeben und alles gut verkneten.",
+            "Teig kaltstellen, ca. 1 cm dick ausrollen, Plätzchen ausstechen.",
+            "Bei mittlerer Hitze 15-20 Minuten backen."
+        ],
+        "Serves": 12,
+        "Dauer": 60,
+        "Notes": "Gewürzkuchen entfaltet sein volles Aroma erst nach einem Tag."
+    },
+    {
+        "Name": "Gewürzkuchen",
+        "Zutaten": [
+            "200 g weiche Butter",
+            "250 g Zucker",
+            "2 TL Vanillezucker",
+            "4 Eier",
+            "200 g gemahlene Haselnüsse",
+            "1 TL Zimtpulver",
+            "je 1 Messerspitze Gewürznelken- und Ingwerpulver",
+            "250 g Mehl",
+            "3 TL Backpulver",
+            "2 EL Rum"
+        ],
+        "Anleitung": [
+            "Butter, Zucker und Vanillezucker schaumig rühren.",
+            "Eier nach und nach unterrühren.",
+            "Nüsse, Gewürze und Mehl mit Backpulver mischen und unter den Teig heben.",
+            "Rum unterrühren, Teig in Kuchenform füllen.",
+            "Bei 200°C auf mittlerer Schiene 1 Stunde backen."
+        ],
+        "Serves": 8,
+        "Dauer": 70,
+        "Notes": "Teig entfaltet erst nach einem Tag sein volles Aroma."
+    },
+    {
+        "Name": "Klassischer Marmorkuchen",
+        "Zutaten": [
+            "250 g Butter oder Margarine",
+            "250 g Zucker",
+            "1 Päckchen Vanillezucker",
+            "4 Eier",
+            "400 g Mehl",
+            "100 g Speisestärke",
+            "1 Päckchen Backpulver",
+            "1 Prise Salz",
+            "100 ml Milch",
+            "30 g Kakaopulver"
+        ],
+        "Anleitung": [
+            "Butter, Zucker und Vanillezucker schaumig rühren, Eier unterrühren.",
+            "Mehl, Speisestärke, Backpulver und Salz mischen und abwechselnd mit Milch unter den Teig rühren.",
+            "Hälfte des Teigs in vorbereitete Form füllen, Kakaopulver unter den restlichen Teig mischen und darüber geben.",
+            "Mit einer Gabel leicht marmorieren, bei 180°C 1 Stunde backen.",
+            "Mit Puderzucker bestreuen."
+        ],
+        "Serves": 8,
+        "Dauer": 70,
+        "Notes": "Garprobe mit Holzspieß durchführen."
+    },
+    {
+        "Name": "Tiroler Schokoladenkuchen",
+        "Zutaten": [
+            "200 g weiche Butter oder Margarine",
+            "200 g Zucker",
+            "6 Eigelbe",
+            "125 g Mehl",
+            "1 TL Backpulver",
+            "200 g gemahlene Mandeln",
+            "150 g geraspelte Zartbitterschokolade",
+            "6 Eiweiße",
+            "ein paar Tropfen Rum-Aroma",
+            "200 g Schokoladen-Fettglasur"
+        ],
+        "Anleitung": [
+            "Butter und Zucker schaumig rühren, Eigelbe unterrühren.",
+            "Mehl mit Backpulver sieben, auf die Schaum-Masse geben.",
+            "Mandeln und Schokolade unterheben.",
+            "Eiweiße steif schlagen und mit Rum-Aroma unter den Teig ziehen.",
+            "Teig in gebutterte und mit Semmelbrösel ausgestreute Form geben, glattstreichen, bei 180°C 1 Stunde backen.",
+            "Schokoladenglasur im Wasserbad auflösen und Kuchen damit bestreichen."
+        ],
+        "Serves": 8,
+        "Dauer": 80,
+        "Notes": "Teig vorsichtig unterheben, um die Luftigkeit zu erhalten."
+    }
+]

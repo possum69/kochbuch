@@ -1,0 +1,34 @@
+\documentclass[11pt,oneside]{book}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{lmodern}
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{parskip}
+\usepackage{booktabs}
+\usepackage[colorlinks]{hyperref}
+\usepackage{imakeidx}
+\graphicspath{{Quellen/}}
+
+\makeindex[title=Index, intoc]  % Index in ToC aufnehmen
+
+% Simple recipe environment
+\newcommand{\RecipeMeta}[2]{\noindent\textbf{Für} #1 {Personen}\quad | \quad \textbf{Zubereitungsdauer:} #2 {min}\vspace{4pt}\par}
+\newenvironment{ingredients}{\paragraph{Zutaten:}\begin{itemize}[leftmargin=*]}{\end{itemize}}
+\newenvironment{directions}{\paragraph{Anleitung:}\begin{enumerate}[leftmargin=*]}{\end{enumerate}}
+\newcommand{\Notes}[1]{\paragraph{Notes:}#1}
+
+\title{Meine Lieblingsrezepte}
+\author{Bernd Mattern}
+
+\begin{document}
+\maketitle
+\frontmatter
+\renewcommand{\contentsname}{Inhalt}
+\renewcommand{\chaptername}{Kapitel}
+\tableofcontents
+\mainmatter

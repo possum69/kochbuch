@@ -1,0 +1,150 @@
+% File: C:/Kochbuch/Main.latex
+\documentclass[11pt,oneside]{book}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{lmodern}
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{booktabs}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    pdftitle={Kochbuch},
+    pdfauthor={Bernd Mattern}
+}
+
+% Simple recipe environment
+\newcommand{\RecipeMeta}[2]{\noindent\textbf{Für} #1 {Personen}\quad | \quad \textbf{Zubereitungsdauer:} #2\vspace{4pt}\par}
+\newenvironment{ingredients}{\paragraph{Zutaten:}\begin{itemize}[leftmargin=*]}{\end{itemize}}
+\newenvironment{directions}{\paragraph{Anleitung:}\begin{enumerate}[leftmargin=*]}{\end{enumerate}}
+\newcommand{\Notes}[1]{\paragraph{Notes:}#1}
+
+\title{Mein Kochbuch}
+\author{Bernd Mattern}
+\date{\today}
+
+\begin{document}
+\maketitle
+\frontmatter
+\renewcommand{\contentsname}{Inhalt}
+\tableofcontents
+\mainmatter
+
+\chapter{Frühstück}
+\section{Classic Pancakes}
+\RecipeMeta{4}{20 min}
+\begin{ingredients}
+    \item 200 g plain flour
+    \item 2 tbsp sugar
+    \item 2 tsp baking powder
+    \item pinch of salt
+    \item 300 ml milk
+    \item 1 large egg
+    \item 2 tbsp melted butter (plus extra for frying)
+\end{ingredients}
+\begin{directions}
+    \item Mix dry ingredients in a bowl.
+    \item Whisk milk, egg and melted butter; combine with dry mixture until just blended.
+    \item Heat a non-stick pan over medium heat, add a little butter.
+    \item Pour 2–3 tablespoons batter per pancake; cook until bubbles form, flip and cook 1–2 minutes more.
+    \item Serve warm with syrup, fruit or yogurt.
+\end{directions}
+\Notes{Do not overmix the batter; small lumps are fine. For fluffier pancakes let batter rest 10 minutes.}
+
+\chapter{Salads \& Starters}
+\section{Caesar Salad (Simple)}
+\RecipeMeta{2--3}{15 min}
+\begin{ingredients}
+    \item 1 romaine lettuce, washed and chopped
+    \item 50 g grated Parmesan
+    \item 2 slices bread, cubed (for croutons)
+    \item 2 tbsp olive oil
+    \item Dressing: 1 egg yolk (or 1 tbsp mayonnaise), 1 tsp mustard, 1 small garlic clove (minced), 2 tbsp lemon juice, 3 tbsp olive oil, salt and pepper
+\end{ingredients}
+\begin{directions}
+    \item Make croutons: toss bread cubes with 2 tbsp olive oil, toast in oven at 200°C until golden.
+    \item Whisk dressing ingredients together until emulsified.
+    \item Toss lettuce with dressing, top with croutons and Parmesan.
+\end{directions}
+\Notes{Anchovies are traditional in Caesar dressing — add 2 chopped anchovy fillets if desired.}
+
+\chapter{Main Courses}
+\section{Spaghetti Bolognese}
+\RecipeMeta{4}{1 h}
+\begin{ingredients}
+    \item 350 g spaghetti
+    \item 400 g minced beef (or mixed pork/beef)
+    \item 1 onion, finely chopped
+    \item 2 cloves garlic, minced
+    \item 1 carrot, finely diced
+    \item 1 celery stalk, finely diced
+    \item 400 g canned tomatoes (crushed)
+    \item 2 tbsp tomato paste
+    \item 150 ml beef or vegetable stock
+    \item 1 bay leaf, salt, pepper, olive oil
+\end{ingredients}
+\begin{directions}
+    \item Heat oil in a pan; sauté onion, carrot and celery until soft.
+    \item Add garlic and mince; brown the meat thoroughly.
+    \item Stir in tomato paste, canned tomatoes and stock; add bay leaf.
+    \item Simmer gently 30–40 minutes until thick; season to taste.
+    \item Cook spaghetti according to package, drain and combine with sauce or serve sauce on top.
+\end{directions}
+\Notes{For richer flavor, simmer longer or finish with a splash of milk or cream.}
+
+\section{Vegetable Stir-Fry (Quick)}
+\RecipeMeta{2--3}{20 min}
+\begin{ingredients}
+    \item 1 red pepper, sliced
+    \item 1 small broccoli (florets)
+    \item 1 carrot, julienned
+    \item 150 g snap peas
+    \item 2 tbsp soy sauce, 1 tbsp sesame oil, 1 tsp honey or sugar, 1 garlic clove minced, 1 tsp grated ginger
+    \item 2 tbsp vegetable oil for frying
+\end{ingredients}
+\begin{directions}
+    \item Mix soy sauce, sesame oil, honey, garlic and ginger into a sauce.
+    \item Heat wok or large pan on high, add oil and stir-fry harder vegetables first (carrot, broccoli) 2–3 minutes.
+    \item Add remaining vegetables, pour sauce, toss 1–2 minutes until vegetables are crisp-tender.
+    \item Serve over rice or noodles.
+\end{directions}
+
+\chapter{Desserts}
+\section{Simple Chocolate Cake}
+\RecipeMeta{8}{45 min (including baking)}
+\begin{ingredients}
+    \item 200 g sugar
+    \item 175 g plain flour
+    \item 75 g cocoa powder
+    \item 1.5 tsp baking powder
+    \item 1.5 tsp bicarbonate of soda
+    \item 2 eggs
+    \item 240 ml milk
+    \item 120 ml vegetable oil
+    \item 2 tsp vanilla extract
+\end{ingredients}
+\begin{directions}
+    \item Preheat oven to 180°C. Grease and line a 23 cm cake tin.
+    \item Mix dry ingredients in a bowl. Whisk eggs, milk, oil and vanilla; combine with dry mix until smooth.
+    \item Pour into tin and bake 30–35 minutes or until a skewer comes out clean.
+    \item Cool on a rack before slicing; optionally top with frosting or dust with icing sugar.
+\end{directions}
+\Notes{This recipe is easily halved for a smaller cake. Use espresso in place of some milk for deeper chocolate flavor.}
+
+\backmatter
+\chapter*{Index}
+\addcontentsline{toc}{chapter}{Index}
+% Simple manual index entries (expand as needed)
+Pancakes \dotfill 1\\
+Spaghetti Bolognese \dotfill 6\\
+Chocolate Cake \dotfill 10
+
+\end{document}
