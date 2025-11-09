@@ -1,0 +1,55 @@
+{
+    "total": 2,
+    "documents": [
+        {
+            "Zutaten": [
+                "200g Mehl",
+                "2 EL Zucker",
+                "2 TL Backpulver",
+                "1 Prise Salz",
+                "300 ml Milch",
+                "1-2 Eier",
+                "2 EL geschmolzene Butter + Butter zum Braten"
+            ],
+            "Anleitung": [
+                "Zutaten vermischen",
+                "2-3 EL pro Pfannkuchen in die Pfanne geben",
+                "Warm servieren"
+            ],
+            "Bild": null,
+            "Name": "Pfannkuchen",
+            "Kapitel": "Frühstück & Brunch",
+            "Serves": 4,
+            "Dauer": 20,
+            "Notes": "Ganz einfach"
+        },
+        {
+            "Zutaten": [
+                "500 g Farinzucker",
+                "3 EL Honig",
+                "4 Eier",
+                "20 g Zimt",
+                "525 g Mehl",
+                "1 Päckchen Backpulver",
+                "100 g Zitronat oder Orangat",
+                "100g gemahlene Mandeln oder Nüsse",
+                "Honigwasser zum Bestreichen"
+            ],
+            "Anleitung": [
+                "Farinzucker, Honig und Eier schaumig rühren.",
+                "Zimt, Mehl, Backpulver, Zitronat und Mandeln oder Nüsse hinzufügen und vermengen.",
+                "Mit Knethaken einen Teig herstellen.",
+                "Mit leicht bemehlten Händen kleine Kugeln formen.",
+                "Auf gefettetes Blech oder Backpapier legen und mit Honigwasser bestreichen.",
+                "Bei Mittelhitze (150°C) 15-20 Minuten backen.",
+                "Noch heiß nochmals mit Honigwasser bestreichen."
+            ],
+            "Bild": null,
+            "Name": "Nürnberger Busserl",
+            "Kapitel": "Kuchen und Gebäck",
+            "Serves": 1,
+            "Dauer": 30,
+            "Notes": "Kleine Honigplätzchen, typisch weihnachtlich."
+        }
+    ]
+}

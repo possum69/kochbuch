@@ -1,20 +1,28 @@
 import os
 import json
 
-import pytesseract
+try:
+    import pytesseract
+except ImportError:
+    print("pytesseract not found, OCR functionality will be disabled.")
+    pytesseract = None
 
 IMAGES_FOLDER = "Quellen"
 LOST_AND_FOUND = "Lost and Found"
+NAME = "Name"
+ANLEITUNG = "Anleitung"
+ZUTATEN = "Zutaten"
+NOTES = "Notes"
 
 class Kochbuch():
     def __init__(self):
         with open("Kochbuch.json", "r", encoding="utf-8") as f:
             self.kochbuch = json.load(f)
-        self.known_names = [doc["Name"] for doc in self.kochbuch["documents"]]
+        self.known_names = [doc[NAME] for doc in self.kochbuch["documents"]]
 
     def upload_documents(self, documents):
         for doc in documents:
-            name = doc.get("Name","Unnamed")
+            name = doc.get(NAME,"Unnamed")
             if name in self.known_names:
                 print("Existing document found!", name)
                 continue
@@ -25,7 +33,7 @@ class Kochbuch():
                 doc["Serves"] = 1
 
             self.kochbuch["documents"].append(doc)
-            print("Uploaded document: ", doc["Name"])
+            print("Uploaded document: ", doc[NAME])
             self.known_names.append(name)
 
     # === OCR Function ===
@@ -70,7 +78,7 @@ def main():
         with open(inputfile, "r", encoding="utf-8") as f:
             input = json.load(f)
             for rec in input:
-                print("adding recepie: ", rec.get("Name", "Unnamed"))
+                print("adding recepie: ", rec.get(NAME, "Unnamed"))
                 receipies.append(rec)
 
     kochbuch.upload_documents(receipies)
