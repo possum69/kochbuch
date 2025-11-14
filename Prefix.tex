@@ -12,6 +12,7 @@
 \usepackage{booktabs}
 \usepackage[colorlinks]{hyperref}
 \usepackage{imakeidx}
+\usepackage{tocloft}
 \graphicspath{{Quellen/}}
 
 \makeindex[title=Index, intoc]  % Index in ToC aufnehmen
@@ -22,13 +23,15 @@
 \newenvironment{directions}{\paragraph{Anleitung:}\begin{enumerate}[leftmargin=*]}{\end{enumerate}}
 \newcommand{\Notes}[1]{\paragraph{Notes:}#1}
 
-\title{Meine Lieblingsrezepte}
-\author{Bernd Mattern}
+\title{Gesammelte Rezepte}
+\author{von Bernd Mattern}
 
 \begin{document}
 \maketitle
 \frontmatter
 \renewcommand{\contentsname}{Inhalt}
 \renewcommand{\chaptername}{Kapitel}
-\tableofcontents
+\renewcommand{\listfigurename}{Bilderverzeichnis}
+\cftsetindents{section}{1.5em}{3em}
+\tableofcontents 
 \mainmatter
