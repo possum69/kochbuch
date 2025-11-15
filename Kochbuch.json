@@ -1,5 +1,5 @@
 {
-    "total": 110,
+    "total": 117,
     "documents": [
         {
             "Zutaten": [
@@ -3036,6 +3036,201 @@
             ],
             "Bild": [],
             "Notes": "Lieblingsgericht! Spinat leicht anbraten für besseren Geschmack."
+        },
+        {
+            "Name": "Möhrensuppe mit Ingwer",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 6,
+            "Dauer": 30,
+            "Zutaten": [
+                "2 EL Butter oder Margarine",
+                "1 Zwiebel, gehackt",
+                "1 Stange Sellerie, geschnitten",
+                "1 mittlere Kartoffel, in Stücke",
+                "700 g Möhren, geschnitten",
+                "2 TL frische Ingwerwurzel, gehackt",
+                "1,2 Liter Hühnerbrühe",
+                "4 EL Schlagsahne",
+                "Muskat",
+                "Salz und schwarzer Pfeffer"
+            ],
+            "Anleitung": [
+                "Butter zerlassen, Zwiebel und Sellerie 5 Minuten dünsten.",
+                "Kartoffel, Möhren, Ingwer und Brühe zugeben, 20 Minuten köcheln.",
+                "Suppe pürieren, Sahne und Muskat einrühren, mit Salz und Pfeffer abschmecken."
+            ],
+            "Bild": [],
+            "Notes": "Schnell und einfach, ideal für kalte Tage."
+        },
+        {
+            "Name": "Pilzcremesuppe",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 4,
+            "Dauer": 40,
+            "Zutaten": [
+                "275 g weiße Pilze",
+                "1 kleine Zwiebel, gehackt",
+                "1 EL Butter",
+                "2 EL Mehl",
+                "750 ml Gemüsebrühe",
+                "500 ml Milch",
+                "2-3 EL saure Sahne",
+                "frisches Basilikum"
+            ],
+            "Anleitung": [
+                "Pilze und Zwiebel in Butter anbraten, 6–7 Minuten dünsten.",
+                "Mehl einrühren, 1 Minute braten.",
+                "Brühe und Milch zugeben, würzen und 10 Minuten köcheln.",
+                "Suppe pürieren, zurück in den Topf geben.",
+                "Pilze separat braten, zur Suppe geben, mit Sahne und Basilikum servieren."
+            ],
+            "Bild": [],
+            "Notes": "Lieblingssuppe! Erst Milch, dann Brühe zugeben."
+        },
+        {
+            "Name": "Borschtsch",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 6,
+            "Dauer": 60,
+            "Zutaten": [
+                "2 Zwiebeln, gehackt",
+                "450 g rote Bete, geschält",
+                "2 Selleriestangen, klein geschnitten",
+                "1 große Kartoffel, klein geschnitten",
+                "1 großer Apfel, klein geschnitten",
+                "2 EL Butter",
+                "2 EL Sonnenblumenöl",
+                "1 Liter Brühe oder Wasser",
+                "1 TL Kreuzkümmelsamen",
+                "1 TL Thymian",
+                "1 Lorbeerblatt",
+                "1 TL Zitronensaft",
+                "Salz und Pfeffer",
+                "Sahne und Dill zum Garnieren"
+            ],
+            "Anleitung": [
+                "Gemüse und Apfel mit Butter, Öl und Brühe 15 Minuten kochen.",
+                "Kümmel und Gewürze zugeben, 1 Minute kochen.",
+                "Restliche Brühe und Gewürze einrühren, 30 Minuten köcheln.",
+                "Gemüse pürieren, zurück in den Topf geben.",
+                "Erhitzen, abschmecken, mit Sahne und Dill servieren."
+            ],
+            "Bild": [],
+            "Notes": "Am besten einen Tag vorher zubereiten für intensiven Geschmack."
+        },
+        {
+            "Name": "Kürbissuppe",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 4,
+            "Dauer": 35,
+            "Zutaten": [
+                "1 EL Sonnenblumenöl",
+                "2 EL Butter",
+                "1 große Zwiebel, in Scheiben",
+                "700 g Kürbisstücke",
+                "450 g Kartoffelscheiben",
+                "600 ml Gemüsebrühe",
+                "600 ml Milch",
+                "1 TL Estragon",
+                "1 TL Zitronensaft",
+                "Muskat",
+                "Salz und schwarzer Pfeffer"
+            ],
+            "Anleitung": [
+                "Öl und Butter erhitzen, Zwiebel 4–5 Minuten dünsten.",
+                "Kürbis und Kartoffeln zugeben, 10 Minuten dünsten.",
+                "Brühe, Muskat, Estragon und Gewürze einrühren, 10 Minuten köcheln.",
+                "Suppe pürieren, Milch und Zitronensaft einrühren, abschmecken."
+            ],
+            "Bild": [],
+            "Notes": "Optional: Crème fraîche, Cumin, Chili."
+        },
+        {
+            "Name": "Lauchsuppe mit Thymian",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 4,
+            "Dauer": 40,
+            "Zutaten": [
+                "900 g Lauch",
+                "450 g Kartoffeln",
+                "115 g Butter",
+                "1 Thymianzweig",
+                "300 ml Milch",
+                "Salz und schwarzer Pfeffer",
+                "Sahne zum Servieren"
+            ],
+            "Anleitung": [
+                "Lauch putzen und in Scheiben schneiden, Kartoffeln würfeln.",
+                "Butter erhitzen, Lauch mit Thymian 4–5 Minuten dünsten.",
+                "Kartoffeln und Wasser zugeben, 30 Minuten köcheln.",
+                "Milch einrühren, würzen, weitere 30 Minuten köcheln.",
+                "Vor dem Servieren mit Sahne und Thymian garnieren."
+            ],
+            "Bild": [],
+            "Notes": "Unbedingt wieder machen!"
+        },
+        {
+            "Name": "Französische Zwiebelsuppe",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 6,
+            "Dauer": 90,
+            "Zutaten": [
+                "1 EL Butter",
+                "2 EL Olivenöl",
+                "4 große Zwiebeln, fein geschnitten",
+                "2-5 Knoblauchzehen",
+                "1 TL Zucker",
+                "1/4 TL Thymian",
+                "2 EL Mehl",
+                "120 ml Weißwein",
+                "2 Liter Rinderbrühe",
+                "2 EL Cognac (optional)",
+                "6-8 Baguettescheiben",
+                "350 g Greyerzer-Käse"
+            ],
+            "Anleitung": [
+                "Butter und Öl erhitzen, Zwiebeln 10–12 Minuten braten.",
+                "Knoblauch zugeben, Zucker und Thymian einrühren, 30–35 Minuten weiterbraten.",
+                "Mehl einrühren, mit Wein und Brühe ablöschen, 45 Minuten köcheln.",
+                "Brot rösten, mit Knoblauch einreiben, Suppe in Schalen füllen.",
+                "Mit Käse überbacken, 3–4 Minuten gratinieren."
+            ],
+            "Bild": [],
+            "Notes": "Perfekt für kalte Tage, mit Cognac verfeinern."
+        },
+        {
+            "Name": "Mulligatawny Soup",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 6,
+            "Dauer": 60,
+            "Zutaten": [
+                "2 EL Butter oder Ghee",
+                "1 große Zwiebel, gehackt",
+                "2 Knoblauchzehen, gehackt",
+                "1 Stück Ingwer (ca. 3 cm), fein gehackt",
+                "2 TL Currypulver",
+                "1 TL Kreuzkümmel",
+                "1 TL Kurkuma",
+                "2 Karotten, gewürfelt",
+                "1 Apfel, gewürfelt",
+                "150 g rote Linsen",
+                "1 Liter Hühner- oder Gemüsebrühe",
+                "400 ml Kokosmilch",
+                "Salz und schwarzer Pfeffer",
+                "Saft von 1 Zitrone",
+                "Frischer Koriander zum Garnieren"
+            ],
+            "Anleitung": [
+                "Butter oder Ghee in einem großen Topf erhitzen. Zwiebel, Knoblauch und Ingwer darin glasig dünsten.",
+                "Currypulver, Kreuzkümmel und Kurkuma einrühren und kurz anrösten.",
+                "Karotten und Apfel zugeben, 2–3 Minuten mitdünsten.",
+                "Linsen und Brühe hinzufügen, aufkochen und bei mittlerer Hitze ca. 25 Minuten köcheln lassen, bis die Linsen weich sind.",
+                "Kokosmilch einrühren, mit Salz, Pfeffer und Zitronensaft abschmecken.",
+                "Optional: Suppe teilweise pürieren für cremige Konsistenz.",
+                "Mit frischem Koriander servieren."
+            ],
+            "Bild": [],
+            "Notes": "Indisch inspiriert, würzig und leicht cremig. Perfekt mit Naan-Brot."
         }
     ]
 }
