@@ -2,7 +2,7 @@ import os
 import re
 import json
 
-from Kochbuch import Kochbuch
+from Extend_Kochbuch import Kochbuch
 
 OUT_PATH = "Kochbuch.tex"
 PICTURES_PATH = "Bilder"

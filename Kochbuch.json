@@ -1,5 +1,5 @@
 {
-    "total": 79,
+    "total": 93,
     "documents": [
         {
             "Zutaten": [
@@ -545,7 +545,7 @@
             ],
             "Bild": null,
             "Name": "Paprikacremesuppe",
-            "Kapitel": "Suppen",
+            "Kapitel": "Suppen und Eintöpfe",
             "Serves": 4,
             "Dauer": 40,
             "Notes": "Die Suppe kann je nach Geschmack mit mehr Chilipulver scharf abgeschmeckt werden."
@@ -1031,7 +1031,7 @@
             "Name": "Rollfisch",
             "Notes": "",
             "Serves": 1,
-            "Kapitel": "Fisch",
+            "Kapitel": "Fischgerichte",
             "Dauer": 60,
             "Zutaten": [
                 "1 Goldbarschfilet (200g)",
@@ -1169,7 +1169,7 @@
             "Name": "Selleriesüppchen",
             "Notes": "",
             "Serves": 1,
-            "Kapitel": "Suppen",
+            "Kapitel": "Suppen und Eintöpfe",
             "Dauer": 30,
             "Zutaten": [
                 "1 Staude Bleichsellerie",
@@ -1436,7 +1436,7 @@
                 "Ergibt ca. 12 Stück."
             ],
             "Notes": "Variante: Tomaten mit dem Pürieraufsatz der Gemüsepresse pürieren und hinzufügen.",
-            "Kapitel": "Fisch",
+            "Kapitel": "Fischgerichte",
             "Serves": 12,
             "Dauer": 20
         },
@@ -2100,6 +2100,392 @@
             "Serves": 12,
             "Dauer": 90,
             "Notes": "Optisch beeindruckend."
+        },
+        {
+            "Name": "Putenspießchen mit Erdnusssauce",
+            "Kapitel": "Geflügelgerichte",
+            "Serves": 4,
+            "Dauer": 30,
+            "Zutaten": [
+                "1 Paprikaschote (rot)",
+                "1 Paprikaschote (gelb)",
+                "1 Paprikaschote (grün)",
+                "1 Bund Frühlingszwiebeln",
+                "3 EL Öl",
+                "schwarzer Pfeffer",
+                "12 Putenspießchen (fertig aus dem Tiefkühlregal)",
+                "2 EL Erdnusscreme",
+                "1 TL Zitronensaft",
+                "Sesamsamen zum Bestreuen"
+            ],
+            "Anleitung": [
+                "Paprikaschoten putzen, waschen und in 1 cm breite Streifen schneiden.",
+                "Frühlingszwiebeln putzen und waschen.",
+                "Paprikastreifen und Frühlingszwiebeln in Öl anbraten.",
+                "Putenspießchen dazugeben und unter Wenden 8 Minuten braten.",
+                "Erdnusssauce aus Erdnusscreme, Zitronensaft, Salz und Wasser anrühren, kräftig kochen.",
+                "Gemüse und Fleisch auf Spieße stecken, mit Erdnusssauce beträufeln.",
+                "Mit Sesamsamen bestreuen und sofort servieren."
+            ],
+            "Bild": null,
+            "Notes": "Raffiniert und schnell zubereitet."
+        },
+        {
+            "Name": "Hühnerleber-Pfanne",
+            "Kapitel": "Geflügelgerichte",
+            "Serves": 4,
+            "Dauer": 35,
+            "Zutaten": [
+                "300 g frische Hühnerleber",
+                "2 cl Sherry (ursprünglich Portwein)",
+                "2 Schalotten",
+                "1 Knoblauchzehe",
+                "1 Bund glatte Petersilie",
+                "2 EL Öl",
+                "1 EL Butter",
+                "Salz",
+                "schwarzer Pfeffer aus der Mühle",
+                "1 TL eingelegte grüne Pfefferkörner",
+                "1 Schuss trockener Rotwein",
+                "125 g Sahne"
+            ],
+            "Anleitung": [
+                "Hühnerleber in etwa 1 cm breite Stücke schneiden, mit Sherry begießen und kurz ziehen lassen.",
+                "Schalotten, Knoblauch und Petersilie fein hacken.",
+                "Öl in einer Pfanne erhitzen, Schalotten, Knoblauch und die Hälfte der Petersilie anbraten.",
+                "Butter in der Pfannenmitte zerlassen, Hühnerleber portionsweise darin unter Rühren anbraten.",
+                "Alles mischen, mit Salz, frisch gemahlenem Pfeffer und grünem Pfeffer würzen.",
+                "Den aufgefangenen Sherry, Rotwein und Sahne angießen, bei mittlerer Hitze ca. 5 Minuten köcheln lassen.",
+                "Mit restlicher Petersilie bestreuen und heiß servieren."
+            ],
+            "Bild": null,
+            "Notes": "Beilage: Baguette oder Toast. Handschriftliche Notiz: 'Stark! 12.01.02 als Hauptgericht für zwei.'"
+        },
+        {
+            "Name": "Pikante Tomaten-Käse-Suppe",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 4,
+            "Dauer": 50,
+            "Zutaten": [
+                "1 kg Fleischtomaten",
+                "4 mittelgroße Zwiebeln",
+                "4 EL Öl",
+                "1 TL Sambal Oelek (scharfe Würzpaste)",
+                "1 Knoblauchzehe",
+                "schwarzer Pfeffer aus der Mühle",
+                "2 EL ungesalzene Sesamsamen",
+                "2 Scheiben Toastbrot",
+                "100 g würziger Edelpilzkäse"
+            ],
+            "Anleitung": [
+                "Tomaten über Kreuz einritzen, kurz in kochendes Wasser tauchen, häuten und ohne Stielansatz würfeln.",
+                "Zwiebeln hacken.",
+                "Öl in einem Topf erhitzen, Zwiebelwürfel glasig dünsten, Tomatenstücke zugeben.",
+                "Mit Sambal Oelek würzen, zugedeckt bei milder Hitze ca. 20 Minuten kochen.",
+                "Toastbrot würfeln, in einer Pfanne ohne Fett goldbraun rösten.",
+                "Edelpilzkäse würfeln und unter die Suppe rühren.",
+                "Mit Sesamsamen bestreuen und servieren."
+            ],
+            "Bild": null,
+            "Notes": "Handschriftliche Notiz: 'Lecker! Aber süßer abschmecken, 8-10 min länger kochen. Ideal für Einladung!' Tipp: Wenn Sie sich das Häuten der Tomaten sparen möchten, fertige Suppe pürieren und durch ein Sieb streichen."
+        },
+        {
+            "Name": "Vichyssoise",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 4,
+            "Dauer": 40,
+            "Zutaten": [
+                "250 g zarte Lauchstangen",
+                "200 g Kartoffeln (mehligkochend)",
+                "2 EL Olivenöl",
+                "1 Knoblauchzehe",
+                "2 TL frische Majoranblättchen",
+                "100 ml trockener Weißwein",
+                "1 l Hühnerbrühe",
+                "150 g Schmand (24% Fett)",
+                "Salz",
+                "schwarzer Pfeffer aus der Mühle",
+                "frisch geriebene Muskatnuss",
+                "1-2 EL Zitronensaft",
+                "einige Tropfen Tabasco"
+            ],
+            "Anleitung": [
+                "Lauch putzen, waschen, ein kleines Stück in Frischhaltefolie wickeln und kühlen. Restlichen Lauch in feine Ringe schneiden.",
+                "Kartoffeln waschen, schälen und in kleine Würfel schneiden.",
+                "Öl erhitzen, Lauch und Kartoffeln darin andünsten. Knoblauch dazupressen, Majoran einrühren.",
+                "Wein und Brühe angießen, aufkochen und zugedeckt bei milder Hitze ca. 30 Minuten köcheln lassen.",
+                "Suppe pürieren, Schmand einrühren, mit Salz, Pfeffer, Muskat, Zitronensaft und Tabasco abschmecken.",
+                "Über Nacht kühl stellen, am nächsten Tag nochmals durchrühren und abschmecken.",
+                "Den gekühlten Lauch in Ringe schneiden und auf die Suppe streuen."
+            ],
+            "Bild": null,
+            "Notes": "Handschriftliche Notiz: '15.11.2008 mit Sherry + etwas Sahne'. Tipp: Lauchcreme schmeckt auch heiß ausgezeichnet. Variante: Statt Schmand kann Crème fraîche oder Sahne verwendet werden."
+        },
+        {
+            "Name": "Rotbarsch in Kräutersauce",
+            "Kapitel": "Fischgerichte",
+            "Serves": 4,
+            "Dauer": 45,
+            "Zutaten": [
+                "600 g Rotbarschfilets",
+                "1 Zitrone",
+                "Salz, Pfeffer",
+                "1 Bund Basilikum",
+                "1 Bund Petersilie",
+                "2 Zweige Thymian",
+                "1 Zwiebel",
+                "1 EL Butterschmalz",
+                "100 ml Weißwein",
+                "100 ml Brühe",
+                "100 g Frischkäse",
+                "100 g Kirschtomaten"
+            ],
+            "Anleitung": [
+                "Fisch würfeln, mit Zitronensaft beträufeln.",
+                "Zwiebel hacken, in Butterschmalz dünsten.",
+                "Kräuter zugeben, mit Wein und Brühe ablöschen.",
+                "Frischkäse einrühren, würzen.",
+                "Fischstücke in Sauce ziehen lassen, Tomaten zugeben."
+            ],
+            "Bild": null,
+            "Notes": "Wieder machen! Tipp: Für Kinder Wein durch Brühe ersetzen."
+        },
+        {
+            "Name": "Chili con carne",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 8,
+            "Dauer": 150,
+            "Zutaten": [
+                "3 Zwiebeln",
+                "3 Knoblauchzehen",
+                "250 g Möhren",
+                "200 g Sellerie",
+                "Paprika",
+                "750 g Tomaten",
+                "4 EL Öl",
+                "500 g Rinderhack",
+                "1/4 l Rotwein",
+                "1/4 l Brühe",
+                "Thymian",
+                "Chilipulver",
+                "Salz, Pfeffer",
+                "Kidneybohnen",
+                "frische Kräuter"
+            ],
+            "Anleitung": [
+                "Gemüse hacken, Tomaten häuten.",
+                "Hackfleisch anbraten, Zwiebeln und Knoblauch zugeben.",
+                "Gemüse und Tomaten einrühren.",
+                "Mit Wein und Brühe ablöschen, würzen.",
+                "1-1,5 Std. schmoren, Bohnen zugeben, weitere 15 Min. kochen."
+            ],
+            "Bild": null,
+            "Notes": "Lecker, aber mild – nachwürzen!"
+        },
+        {
+            "Name": "Schnelles Puten-Chili",
+            "Kapitel": "Geflügelgerichte",
+            "Serves": 4,
+            "Dauer": 35,
+            "Zutaten": [
+                "600 g Putenbrust",
+                "2 EL Sojasauce",
+                "2 EL Zitronensaft",
+                "4 EL Öl",
+                "Pfeffer",
+                "Chilipulver",
+                "Frühlingszwiebeln",
+                "Kidneybohnen",
+                "Tomatenmark",
+                "Hühnerfond",
+                "Salz"
+            ],
+            "Anleitung": [
+                "Putenfleisch würfeln, marinieren.",
+                "Zwiebeln hacken, Bohnen abtropfen.",
+                "Fleisch anbraten, Bohnen und Tomatenmark zugeben.",
+                "Mit Fond angießen, 15 Min. garen.",
+                "Mit Salz, Pfeffer und Chili abschmecken."
+            ],
+            "Bild": null,
+            "Notes": "Schnell & lecker, wieder machen!"
+        },
+        {
+            "Name": "Hähnchenbrust-Curry",
+            "Kapitel": "Geflügelgerichte",
+            "Serves": 4,
+            "Dauer": 50,
+            "Zutaten": [
+                "Hähnchenbrustfilets",
+                "Zwiebel",
+                "Knoblauch",
+                "Ingwer",
+                "Öl",
+                "Kurkuma",
+                "Koriander",
+                "Kreuzkümmel",
+                "Cayennepfeffer",
+                "Hühnerbrühe",
+                "Joghurt",
+                "Sahne",
+                "Tomaten",
+                "Petersilie",
+                "Zitrone"
+            ],
+            "Anleitung": [
+                "Fleisch würzen, anbraten.",
+                "Zwiebel, Knoblauch, Ingwer dünsten, Gewürze zugeben.",
+                "Mit Brühe ablöschen, Joghurt und Sahne einrühren.",
+                "Tomaten und Petersilie zugeben, 20 Min. garen.",
+                "Mit Zitronenschnitzen servieren."
+            ],
+            "Bild": null,
+            "Notes": "Super-mega-lecker!"
+        },
+        {
+            "Name": "Zwiebelkuchen",
+            "Kapitel": "Herzhafte Kuchen",
+            "Serves": 6,
+            "Dauer": 60,
+            "Zutaten": [
+                "Mehl",
+                "Hefe",
+                "Zucker",
+                "Öl",
+                "Salz",
+                "Zwiebeln",
+                "Butterschmalz",
+                "Pfeffer",
+                "Majoran",
+                "Crème fraîche",
+                "Eier",
+                "Speck",
+                "Sonnenblumenkerne"
+            ],
+            "Anleitung": [
+                "Teig herstellen und gehen lassen.",
+                "Zwiebeln dünsten, würzen.",
+                "Backofen vorheizen, Teig ausrollen.",
+                "Belag auf Teig verteilen, backen."
+            ],
+            "Bild": null,
+            "Notes": "Schmeckt frisch oder lauwarm, kann eingefroren werden."
+        },
+        {
+            "Name": "Apfel-, Kirschen- oder Zwetschgennudeln",
+            "Kapitel": "Süßspeisen",
+            "Serves": 15,
+            "Dauer": 60,
+            "Zutaten": [
+                "Hefeteig (Grundrezept mittelfest)",
+                "4 Äpfel oder entsprechende Menge Kirschen/Zwetschgen",
+                "500 g Kirschen oder Zwetschgen",
+                "60 g Zucker",
+                "8 g Fett zum Backen",
+                "Zucker oder Vanillezucker zum Bestreuen"
+            ],
+            "Anleitung": [
+                "Mittelfesten Hefeteig herstellen und gehen lassen.",
+                "Teig in gleichmäßige Stücke teilen, etwas ausrollen und in die Mitte Obst geben.",
+                "Teig darüber zusammenschlagen, zu runden Nudeln formen.",
+                "In heißem Fett bei Mittelhitze (180–190 °C) backen, bis goldbraun.",
+                "Kurz abkühlen lassen, mit Zucker oder Vanillezucker bestreuen und servieren."
+            ],
+            "Bild": null,
+            "Notes": "Beilage: Kompott oder Vanillesoße."
+        },
+        {
+            "Name": "Hefeteig (Grundrezept Nr. 1241)",
+            "Kapitel": "Grundrezepte",
+            "Serves": 1,
+            "Dauer": null,
+            "Zutaten": [
+                "500 g Mehl (Type 405)",
+                "125–150 g Butter oder Margarine",
+                "30–40 g Hefe",
+                "1 Ei",
+                "1/8 l Milch",
+                "1 Prise Salz",
+                "Optional: Zucker je nach Rezept"
+            ],
+            "Anleitung": [
+                "Mehl in Schüssel sieben, Salz zugeben.",
+                "Hefe in lauwarmer Milch auflösen, mit Ei und Butter verrühren.",
+                "Flüssigkeit zum Mehl geben, zu glattem Teig verarbeiten.",
+                "Teig zugedeckt an warmem Ort gehen lassen, bis er sich verdoppelt hat.",
+                "Teig ausrollen und nach Rezept weiterverarbeiten."
+            ],
+            "Bild": null,
+            "Notes": "Handschriftliche Notiz: Für Rohrnudeln: 100 g Zucker, 2 Eier, 3 Eigelb, 300–350 ml Milch, 100 g Fett."
+        },
+        {
+            "Name": "Nudelteig (Grundrezept Nr. 917)",
+            "Kapitel": "Grundrezepte",
+            "Serves": 1,
+            "Dauer": null,
+            "Zutaten": [
+                "250–300 g Mehl",
+                "Salz",
+                "2 Eier",
+                "2–4 EL Wasser (je nach Mehlmenge und Eiergröße)",
+                "Optional: 1 EL Öl (Handschriftliche Notiz)"
+            ],
+            "Anleitung": [
+                "Mehl auf Brett sieben, Salz zugeben.",
+                "In der Mehlgrube Wasser und Eier nach und nach vorsichtig einrühren.",
+                "Teig herstellen, restliches Mehl einarbeiten, bis Teig glatt ist.",
+                "Teig in 2–3 Portionen teilen, ausrollen und trocknen lassen.",
+                "Für Nudeln: Streifen schneiden, auf Brett trocknen.",
+                "Bei elektrischen Geräten: Mehl und Flüssigkeit in Schüssel geben, mit Knethaken verarbeiten."
+            ],
+            "Bild": null,
+            "Notes": "Handschriftliche Notiz: 'Nach Oma: 1 Ei, 1/8 l Milch statt Wasser, 1 EL Öl'. Verwendung: Suppennudeln, Maultaschen, Ravioli, Cannelloni, Süßspeisen."
+        },
+        {
+            "Name": "Apfelstrudel aus Nudelteig",
+            "Kapitel": "Desserts & Gebäck",
+            "Serves": 8,
+            "Dauer": 50,
+            "Zutaten": [
+                "Nudelteig nach Grundrezept Nr. 917 (300 g Mehl, 1 Ei, Öl)",
+                "3-8 Butterflöckchen",
+                "125 ml saure Sahne",
+                "50 g Rosinen oder Weinbeeren",
+                "100 g Zucker",
+                "50 g Nüsse oder Mandeln",
+                "30 g Butter zum Backen"
+            ],
+            "Anleitung": [
+                "Nudelteig herstellen und in 3 Portionen teilen.",
+                "Sehr dünn ausrollen, mit Butterflöckchen und saurer Sahne bestreichen.",
+                "Rosinen, Zucker und gehackte Nüsse gleichmäßig darauf verteilen.",
+                "Teig locker aufrollen, auf gefettetes Backblech legen.",
+                "Mit Butter bestreichen und bei 175 °C Ober-/Unterhitze 30–40 Min. backen.",
+                "Kurz ruhen lassen, in Portionen schneiden und mit Puderzucker bestreut servieren."
+            ],
+            "Bild": null,
+            "Notes": "Handschriftliche Notiz: '150 Umluft, 175 Ober-/Unterhitze'. Strudel hat etwas blättrige Beschaffenheit."
+        },
+        {
+            "Name": "Rohrnudeln",
+            "Kapitel": "Süßspeisen",
+            "Serves": 12,
+            "Dauer": 60,
+            "Zutaten": [
+                "Mittelfester Hefeteig (Grundrezept Nr. 1211)",
+                "ca. 70 g Fett zum Backen",
+                "Zucker oder Vanillezucker zum Bestreuen"
+            ],
+            "Anleitung": [
+                "Mittelfesten Hefeteig herstellen und gehen lassen.",
+                "Kleine Nudeln abstechen, mit der Hand auf Brett runden.",
+                "In zerlassener Butter wenden, nicht zu eng setzen.",
+                "Nochmal gehen lassen, dann bei 180–190 °C ca. 30 Min. backen.",
+                "Kurz abkühlen lassen, stürzen und sofort mit Zucker oder Vanillezucker bestreuen.",
+                "Etwas abgekühlt Nudeln voneinander lösen, auskühlen lassen und servieren."
+            ],
+            "Bild": null,
+            "Notes": "Beilage: Kompott oder Vanillesoße."
         }
     ]
 }

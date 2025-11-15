@@ -76,10 +76,15 @@ def main():
         print("reading ", f)
         inputfile = os.path.join("Input", f)
         with open(inputfile, "r", encoding="utf-8") as f:
-            input = json.load(f)
-            for rec in input:
-                print("adding recepie: ", rec.get(NAME, "Unnamed"))
-                receipies.append(rec)
+            try:
+                input = json.load(f)
+                if isinstance(input, dict):
+                    input = [input]
+                for rec in input:
+                    print("adding recepie: ", rec.get(NAME, "Unnamed"))
+                    receipies.append(rec)
+            except json.JSONDecodeError as e:
+                print(f"❌ Failed to parse {inputfile}: {e}")
 
     kochbuch.upload_documents(receipies)
 
