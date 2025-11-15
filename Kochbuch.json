@@ -821,7 +821,7 @@
         },
         {
             "Bild": [],
-            "Name": "gekochte Klöße ala Papa",
+            "Name": "Gekochte Klöße ala Papa",
             "Notes": "Eier machen den Teig weicher. Daher sparsam mit den Eier umgehen. Wasser sollte nachdem die Knödel drin sind, nicht mehr sprudeln. Temperatur reduzieren! Natürlich kommen auch hier geröstetes Brot in die Klöße. Es muss aber kein Weißbrot sein!",
             "Serves": 5,
             "Kapitel": "Beilagen & Dips",
@@ -3231,6 +3231,51 @@
             ],
             "Bild": [],
             "Notes": "Indisch inspiriert, würzig und leicht cremig. Perfekt mit Naan-Brot."
+        },
+        {
+            "Name": "Nasi Goreng ala Papa",
+            "Kapitel": "Vegetarische Gerichte",
+            "Serves": 5,
+            "Dauer": 30,
+            "Zutaten": [
+                "1 Tasse Langkornreis (gekocht und erkaltet)",
+                "2 TL Kurkumapulver",
+                "500 g Hähnchenbrustfilet oder Hackfleisch (optional)",
+                "500 g Garnelen",
+                "1+ 2 EL Sesamöl",
+                "1 Zwiebel",
+                "2 Knoblauchzehe",
+                "1 daumengroßes Stück Ingwer",
+                "2 Karotten (optional)",
+                "150 g braune Champignons (optional)",
+                "1 Paprika (optional)",
+                "2 Lauchzwiebeln (optional)",
+                "150 g TK-Erbsen (optional)",
+                "3 EL Sojasauce",
+                "1 TL Fischsauce",
+                "1 EL Worcester Sauce",
+                "1 EL Currypulver",
+                "Chiliflocken",
+                "Salz und Pfeffer",
+                "2-3 Eier",
+                "1 Kopf Weißkraut"
+            ],
+            "Anleitung": [
+                "Eier mit etwas Wasser aufschlagen und portionsweise in einer Pfanne beidseitig braten, aus der Pfanne nehmen, abkühlen lassen und in Streifen schneiden",
+                "Fleisch im Wok anbraten, nach Geschmack würzen und beiseite stellen",
+                "Knoblauch und Ingwer klein schneiden",
+                "Zwiebeln in Ringe schneiden",
+                "Weißkraut hobeln oder kleinschneiden",
+                "Restliches Gemüse, putzen, waschen und ggf. klein schneiden",
+                "Im Wok zuerst das Weißkraut mit Öl, Knoblauch und Ingwer weichkochen dann",
+                "restliches Gemüse nach ihrer Art nach und nach untermischen und mitgaren",
+                "dann das Fleisch zugeben und ",
+                "alles zusammen mit den Saucen und den Gewürzen abschmecken.",
+                "Gekochten Reis unter die Mischung heben und unterständigem Rühren mit anbraten, bis er warm ist.",
+                "Ggf. mit Saucen und Gewürzen nachwürzen. Der Reis schluckt Flüssigkeit und Geschmack!",
+                "Vor dem Servieren noch die Eier auf dem Essen verteilen."
+            ],
+            "Notes": "Vorsicht mit der Fischsauce. Die ist sehr geschmacksbestimmend."
         }
     ]
 }

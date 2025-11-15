@@ -13,6 +13,7 @@ except ImportError:
 IMAGE_PATH = "Bilder"
 
 class RecipeBook:
+    image_index = 0
     def __init__(self, root):
         self.root = root
         self.root.title("Kochbuch")
@@ -112,16 +113,24 @@ class RecipeBook:
         button_frame = ttk.Frame(middle_panel)
         button_frame.pack(pady=10)
         
+        # Add button
+        add_button = ttk.Button(button_frame, text="Neu", command=self.add_recipe)
+        add_button.pack(side=tk.LEFT, padx=5)
+        
         # Save button
         save_button = ttk.Button(button_frame, text="Speichern", command=self.save_recipe)
         save_button.pack(side=tk.LEFT, padx=5)
+
+        # Rotate image button
+        rotate_button = ttk.Button(button_frame, text="Nächstes Bild", command=self.display_image)
+        rotate_button.pack(side=tk.LEFT, padx=5)
         
         # Delete button
         delete_button = ttk.Button(button_frame, text="Löschen", command=self.delete_recipe, style="Delete.TButton")
         delete_button.pack(side=tk.LEFT, padx=5)
         
         # Delete button
-        image_delete_button = ttk.Button(button_frame, text="Bild löschen", command=self.delete_image, style="Delete.TButton")
+        image_delete_button = ttk.Button(button_frame, text="Bilder löschen", command=self.delete_image, style="Delete.TButton")
         image_delete_button.pack(side=tk.LEFT, padx=5)
         
         # Create a style for the delete button
@@ -146,6 +155,7 @@ class RecipeBook:
                 self.display_recipe(recipe)
 
     def display_recipe(self, recipe):
+        self.recipe = recipe
         # Clear previous content
         self.name_var.set(recipe.get('Name', ''))
         self.chapter_var.set(recipe.get('Kapitel', ''))
@@ -168,11 +178,16 @@ class RecipeBook:
             self.notes_text.insert('1.0', recipe['Notes'])
 
         # Display image if available
-        self.display_image(recipe.get('Bild'))
+        self.display_image(index=0)
 
-    def display_image(self, image_names):
-        if len(image_names) > 0 and Image and ImageTk:
-            image_name = image_names[0]  # Display the first image for now
+    def display_image(self, index=None):
+        image_names = self.recipe.get('Bild')
+        if image_names and len(image_names) > 0 and Image and ImageTk:
+            if not index:
+                index = self.image_index
+                index = (index + 1) % len(image_names)
+            image_name = image_names[index]  # Display the first image for now
+            self.image_index = index
             try:
                 # Look for image in Input directory
                 image_path = os.path.join(IMAGE_PATH, image_name)
@@ -305,6 +320,30 @@ class RecipeBook:
                 self.populate_recipe_list(self.search_var.get())
             except Exception as e:
                 messagebox.showerror("Error", f"Could not save recipe: {e}")
+
+    def add_recipe(self):
+        recipe_name = self.name_var.get()
+        self.recipes.append({
+            'Name': self.name_var.get(),
+            'Kapitel': self.chapter_var.get(),
+            'Serves': int(self.serves_var.get()) if self.serves_var.get().isdigit() else 1,
+            'Dauer': int(self.duration_var.get()) if self.duration_var.get().isdigit() else 60,
+            'Zutaten': self.ingredients_text.get('1.0', tk.END).strip().split('\n'),
+            'Anleitung': self.instructions_text.get('1.0', tk.END).strip().split('\n'),
+            'Notes': self.notes_text.get('1.0', tk.END).strip()
+        })
+
+        # Save to file
+        try:
+            with open('Kochbuch.json', 'w', encoding='utf-8') as f:
+                json.dump({'total': len(self.recipes), 'documents': self.recipes}, 
+                        f, ensure_ascii=False, indent=4)
+            messagebox.showinfo("Success", "Recipe saved successfully!")
+            
+            # Refresh the recipe list
+            self.populate_recipe_list(self.search_var.get())
+        except Exception as e:
+            messagebox.showerror("Error", f"Could not save recipe: {e}")                
 
 if __name__ == "__main__":
     root = tk.Tk()
