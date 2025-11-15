@@ -1,5 +1,5 @@
 {
-    "total": 99,
+    "total": 104,
     "documents": [
         {
             "Zutaten": [
@@ -679,7 +679,9 @@
             ]
         },
         {
-            "Bild": ["Gefüllte Plätzchen.jpg"],
+            "Bild": [
+                "Gefüllte Plätzchen.jpg"
+            ],
             "Name": "Gefüllte Plätzchen",
             "Notes": "",
             "Serves": 1,
@@ -783,7 +785,10 @@
             ]
         },
         {
-            "Bild": ["Klöße Grün1.jpg", "Klöße Grün2.jpg"],
+            "Bild": [
+                "Klöße Grün1.jpg",
+                "Klöße Grün2.jpg"
+            ],
             "Name": "Grüne Klöße",
             "Notes": "Das Wasser darf nur am Anfang sprudeln. Zum Ziehen lassen den Topf nicht zudecken!",
             "Serves": 5,
@@ -862,7 +867,9 @@
             ]
         },
         {
-            "Bild": ["Oma's Quarktorte.jpg"],
+            "Bild": [
+                "Oma's Quarktorte.jpg"
+            ],
             "Name": "Oma's Quarktorte",
             "Notes": "",
             "Serves": 8,
@@ -941,7 +948,9 @@
             ]
         },
         {
-            "Bild": ["Rahmchampingions.jpg"],
+            "Bild": [
+                "Rahmchampingions.jpg"
+            ],
             "Name": "Rahmchampignions",
             "Notes": "Als Beilage zu Fleisch oder Hauptgericht mit Reis.",
             "Serves": 2,
@@ -1001,7 +1010,9 @@
             ]
         },
         {
-            "Bild": ["Rollfisch.JPG"],
+            "Bild": [
+                "Rollfisch.JPG"
+            ],
             "Name": "Rollfisch",
             "Notes": "",
             "Serves": 1,
@@ -1070,19 +1081,21 @@
             ]
         },
         {
-            "Bild": ["Rouladen.jpg"],
+            "Bild": [
+                "Rouladen.jpg"
+            ],
             "Name": "Rouladen",
             "Notes": "",
             "Serves": 2,
             "Kapitel": "Braten",
             "Dauer": 120,
-            "Zutaten": [
-            ],
-            "Anleitung": [
-            ]
+            "Zutaten": [],
+            "Anleitung": []
         },
         {
-            "Bild": ["Schoko-Mandel-Plätzchen.jpg"],
+            "Bild": [
+                "Schoko-Mandel-Plätzchen.jpg"
+            ],
             "Name": "Schoko-Mandel-Plätzchen",
             "Notes": "",
             "Serves": 5,
@@ -1137,7 +1150,9 @@
             ]
         },
         {
-            "Bild": ["Selleriesüppchen.jpg"],
+            "Bild": [
+                "Selleriesüppchen.jpg"
+            ],
             "Name": "Selleriesüppchen",
             "Notes": "",
             "Serves": 1,
@@ -1208,7 +1223,9 @@
             ]
         },
         {
-            "Bild": ["Sylwesterpunsch.jpg"],
+            "Bild": [
+                "Sylwesterpunsch.jpg"
+            ],
             "Name": "Sylvesterpunsch",
             "Notes": "",
             "Serves": 1,
@@ -1257,7 +1274,10 @@
             ]
         },
         {
-            "Bild": ["Weinachtsgans 1.jpg", "Weinachtsgans 2.jpg"],
+            "Bild": [
+                "Weinachtsgans 1.jpg",
+                "Weinachtsgans 2.jpg"
+            ],
             "Name": "Weihnachtsgans",
             "Notes": "Falls die Gans gefroren ist 24h vorher bei Raumtemperatur auftauen.\nFlügel mit dem Kragen und den Innereien zu einer Suppe kochen.",
             "Serves": 6,
@@ -1288,7 +1308,9 @@
             ]
         },
         {
-            "Bild": ["Würzmischung für Hackbällchen.jpg"],
+            "Bild": [
+                "Würzmischung für Hackbällchen.jpg"
+            ],
             "Name": "Würzmischung für Hackbällchen",
             "Notes": "z.B. für Brühefondue\nSemmelbrösel nach Bedarf, damit Klößchen nicht auseinander fallen",
             "Serves": 1,
@@ -1314,7 +1336,9 @@
             ]
         },
         {
-            "Bild": ["Zuchiniauflauf (Mama).jpg"],
+            "Bild": [
+                "Zuchiniauflauf (Mama).jpg"
+            ],
             "Name": "Zucchini-Auflauf á la Mami",
             "Notes": "",
             "Serves": 4,
@@ -1343,7 +1367,9 @@
             ]
         },
         {
-            "Bild": ["Zuchiniauflauf Veggie.jpg"],
+            "Bild": [
+                "Zuchiniauflauf Veggie.jpg"
+            ],
             "Name": "Zucchini-Auflauf vegetarisch",
             "Notes": "",
             "Serves": 1,
@@ -1369,16 +1395,16 @@
             ]
         },
         {
-            "Bild": ["Butterplätzchen.jpg"],
+            "Bild": [
+                "Butterplätzchen.jpg"
+            ],
             "Name": "Butterplätzchen",
             "Notes": "",
             "Serves": 5,
             "Kapitel": "Süßspeisen",
             "Dauer": 60,
-            "Zutaten": [
-            ],
-            "Anleitung": [
-            ]
+            "Zutaten": [],
+            "Anleitung": []
         },
         {
             "Name": "Gemüsetörtchen mit Lachs",
@@ -1818,16 +1844,16 @@
             "Dauer": 60
         },
         {
-            "Bild": ["Kräuertoast (Ida).jpg"],
+            "Bild": [
+                "Kräuertoast (Ida).jpg"
+            ],
             "Name": "Kräuertoast (Ida)",
             "Notes": "",
             "Serves": 1,
             "Kapitel": "Schnelle Küche",
             "Dauer": 20,
-            "Zutaten": [
-            ],
-            "Anleitung": [
-            ]
+            "Zutaten": [],
+            "Anleitung": []
         },
         {
             "Zutaten": [
@@ -2715,6 +2741,119 @@
             ],
             "Bild": [],
             "Notes": "25.1.04 B+M+P Sehr gut!\nSoße schwer durch Nüsse\nWintergericht!"
+        },
+        {
+            "Name": "Lauch mit Kräutern und grünem Pfeffer",
+            "Kapitel": "Fermentiertes Gemüse",
+            "Serves": 10,
+            "Dauer": 45,
+            "Zutaten": [
+                "4–5 Stangen Lauch",
+                "40 g unraffiniertes Meersalz",
+                "1 TL getrocknetes Bohnenkraut",
+                "2 TL getrockneter grüner Pfeffer",
+                "3–4 Zweige getrockneter Thymian"
+            ],
+            "Anleitung": [
+                "Lauch putzen, äußere Schichten entfernen, in 1 cm Ringe schneiden und ins Glas geben.",
+                "Salz in 1 l kaltem Wasser auflösen, Bohnenkraut, Pfeffer und Thymian zugeben.",
+                "Salzwasser bis 3 cm unter den Rand angießen, Lauch beschweren und Glas verschließen.",
+                "1–2 Wochen bei 20–22 °C fermentieren, dann 4–5 Wochen bei 16–18 °C weiter fermentieren."
+            ],
+            "Bild": [],
+            "Notes": "Schmeckt köstlich zu Brotzeit oder als Beilage zu Eintöpfen."
+        },
+        {
+            "Name": "Kimchi aus Chinakohl",
+            "Kapitel": "Fermentiertes Gemüse",
+            "Serves": 10,
+            "Dauer": 60,
+            "Zutaten": [
+                "2 kg kleine Chinakohlstauden",
+                "200 g grobes, unraffiniertes Meersalz",
+                "Für die Kimchi-Paste:",
+                "2 Bund Frühlingszwiebeln",
+                "5 Knoblauchzehen",
+                "40 g frischer Ingwer",
+                "200 g Rettich",
+                "100–150 g koreanisches Chilipulver (Gochugaru)",
+                "1 EL Fischsauce",
+                "1 EL Zucker",
+                "1–2 EL unraffiniertes Meersalz"
+            ],
+            "Anleitung": [
+                "Chinakohl halbieren, mit Salz zwischen die Blätter schichten, mit Wasser bedecken und 24 Std. stehen lassen.",
+                "Frühlingszwiebeln, Knoblauch, Ingwer und Rettich fein hacken, mit Chilipulver, Fischsauce, Zucker und Salz zu Paste verarbeiten.",
+                "Kohl abspülen, Paste zwischen die Blätter streichen, Hälften locker zusammenrollen und ins Gärgefäß legen.",
+                "24 Std. bei Raumtemperatur fermentieren, dann 7–10 Tage im Kühlschrank weiter fermentieren."
+            ],
+            "Bild": [],
+            "Notes": "Variation: Rettich-Kimchi mit Radieschen möglich."
+        },
+        {
+            "Name": "Rosenkohl mit Oregano",
+            "Kapitel": "Fermentiertes Gemüse",
+            "Serves": 10,
+            "Dauer": 50,
+            "Zutaten": [
+                "800 g Rosenkohl",
+                "1 TL getrockneter Oregano (oder Bergbohnenkraut)",
+                "20 g unraffiniertes Meersalz"
+            ],
+            "Anleitung": [
+                "Rosenkohl putzen, in 4–5 mm Scheiben schneiden und ins Glas schichten.",
+                "Salz in 700 ml Wasser auflösen, über den Rosenkohl gießen, Glas verschließen.",
+                "4–6 Wochen bei 20–22 °C fermentieren, bei Bedarf weitere 1–2 Wochen bis zart."
+            ],
+            "Bild": [],
+            "Notes": "Braucht deutlich länger! Mindestens 8 Wochen!. Tipp: Ideal zu kräftigem Käse."
+        },
+        {
+            "Name": "Grüne Spitzpaprika mit Minze",
+            "Kapitel": "Fermentiertes Gemüse",
+            "Serves": 10,
+            "Dauer": 60,
+            "Zutaten": [
+                "1,4 kg kleine hellgrüne türkische Spitzpaprikaschoten",
+                "1 großes Bund frische Minze",
+                "6 Knoblauchzehen",
+                "1 EL getrocknete Kichererbsen",
+                "40 g unraffiniertes Meersalz",
+                "1 TL Zitronensäure",
+                "1 TL Zucker",
+                "300 ml Weißweinessig"
+            ],
+            "Anleitung": [
+                "Paprikaschoten waschen, Stiele kürzen, an den Spitzen kreuzweise 1,5 cm tief einschneiden.",
+                "Ein Drittel der Minze auf den Glasboden legen, restliche Minze in Stücke schneiden.",
+                "Paprikaschoten dicht ins Glas stecken, Knoblauch halbieren und zwischen die Paprika legen, Kichererbsen obenauf streuen.",
+                "Salz, Zitronensäure und Zucker in 1,5 l Wasser auflösen, Essig unterrühren, Mischung über die Paprika gießen.",
+                "Mit restlicher Minze bedecken, Gläser verschließen, 2 Tage warm (20–22 °C), dann 3–4 Wochen kühl (16–18 °C) fermentieren."
+            ],
+            "Bild": [],
+            "Notes": "Köstlich zu Hacksteaks, Salaten oder Brot."
+        },
+        {
+            "Name": "Karamellisiertes Apfelkompott",
+            "Kapitel": "Süßspeisen",
+            "Serves": 10,
+            "Dauer": 100,
+            "Zutaten": [
+                "2½ kg säuerliche Äpfel (z. B. Alkmene, Gloster oder Jakob Fischer)",
+                "2 Bourbon-Vanilleschoten",
+                "2 Zitronen",
+                "150 g Zucker"
+            ],
+            "Anleitung": [
+                "Äpfel waschen, schälen, vierteln, entkernen, in kleine Stücke schneiden.",
+                "Vanilleschoten längs aufschneiden, Mark herauskratzen, Schoten in Stücke schneiden.",
+                "800 ml Wasser abmessen, Zitronen auspressen, Saft zum Wasser geben.",
+                "Zucker in großem Topf karamellisieren, mit Zitronenwasser ablöschen, Vanille zugeben.",
+                "Äpfel zugeben, bei mittlerer Hitze 15–25 Min. kochen, bis sie zerfallen.",
+                "Backofen auf 100 °C vorheizen, Gläser mit Kompott füllen, einkochen ca. 40 Min."
+            ],
+            "Bild": [],
+            "Notes": "Ideal für Pfannkuchen, Kartoffelpuffer oder Milchreis."
         }
     ]
 }
