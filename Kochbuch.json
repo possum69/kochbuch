@@ -1,5 +1,5 @@
 {
-    "total": 93,
+    "total": 99,
     "documents": [
         {
             "Zutaten": [
@@ -16,9 +16,9 @@
                 "2-3 EL pro Pfannkuchen in die Pfanne geben",
                 "Warm servieren"
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Pfannkuchen",
-            "Kapitel": "Süßspeißen",
+            "Kapitel": "Süßspeisen",
             "Serves": 4,
             "Dauer": 20,
             "Notes": "Ganz einfach"
@@ -44,9 +44,9 @@
                 "Bei Mittelhitze (150°C) 15-20 Minuten backen.",
                 "Noch heiß nochmals mit Honigwasser bestreichen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Nürnberger Busserl",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 1,
             "Dauer": 30,
             "Notes": "Kleine Honigplätzchen, typisch weihnachtlich."
@@ -72,9 +72,9 @@
                 "Je zwei Plätzchen mit Marmelade zusammensetzen.",
                 "Mit Puderzucker übersieben."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Hildatörtchen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 65,
             "Dauer": 45,
             "Notes": "Klassische Doppelkekse mit Marmeladefüllung."
@@ -109,38 +109,12 @@
                 "Im vorgeheizten Ofen bei 175-200 °C (Gas 2-3) ca. 60 Minuten backen.",
                 "Noch heiß mit Butter oder Sanella bepinseln und mit Puderzucker bestäuben."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Quarkstollen",
-            "Kapitel": "Süßspeißen",
+            "Kapitel": "Süßspeisen",
             "Serves": 25,
             "Dauer": 90,
             "Notes": "Saftiger Stollen mit Quark statt Hefe."
-        },
-        {
-            "Zutaten": [
-                "25 g frische Hefe (oder 1 Päckchen Trockenhefe)",
-                "300 ml lauwarme Milch",
-                "1 Prise Zucker",
-                "500 g Mehl",
-                "40 g Zucker (für süße Variante, weglassen bei salziger)",
-                "1 TL Salz (für salzige Variante etwas mehr)",
-                "60 g Sanella oder Butter, zerlassen"
-            ],
-            "Anleitung": [
-                "Hefe in lauwarmer Milch mit 1 Prise Zucker auflösen und 5-10 Minuten an einem warmen Ort zugedeckt gehen lassen.",
-                "Mehl, Zucker (bei süßer Variante), Salz und zerlassenes Fett in eine Schüssel geben.",
-                "Die Hefemilch dazugeben und alles kräftig zu einem glatten Teig kneten.",
-                "Teig mit Folie abdecken und an einem warmen Ort gehen lassen, bis er sich verdoppelt hat.",
-                "Dann nochmals durchkneten und nach Belieben weiterverarbeiten (z. B. zu Hefezopf, Kleingebäck, Weißbrot, Butter- oder Obstkuchen).",
-                "Für salziges Gebäck den Zucker weglassen.",
-                "Bei Verwendung von Trockenhefe: Inhalt des Päckchens mit 1 TL Zucker und 5 EL lauwarmer Milch (von der Gesamtmenge) verrühren, 15 Minuten gehen lassen und dann wie oben fortfahren."
-            ],
-            "Bild": null,
-            "Name": "Hefeteig (süß oder salzig)",
-            "Kapitel": "Grundrezepte",
-            "Serves": 8,
-            "Dauer": 90,
-            "Notes": "Nicht über 60°C erhitzen - Hefe stirbt sonst ab. Teig kräftig kneten, ggf. Küchenmaschine nutzen. Lässt sich 2-3 Monate tiefgefrieren; dafür halbe Hefemenge und etwas mehr Zucker verwenden. Erst nach dem Auftauen gehen lassen."
         },
         {
             "Zutaten": [
@@ -161,9 +135,9 @@
                 "Mandeln zugeben und alles gut verrühren.",
                 "Masse auf Oblaten streichen (1 gehäufter Teelöffel pro Oblate) und bei schwacher Hitze 15-20 Minuten backen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Nürnberger Lebkuchen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 20,
             "Dauer": 40,
             "Notes": "Schwache Hitze verwenden, damit die Lebkuchen nicht zu dunkel werden."
@@ -184,9 +158,9 @@
                 "Eiweiß steif schlagen, Zucker dazugeben, geriebene Nüsse unterheben.",
                 "Plätzchen mit 1 TL Makronenmasse belegen, bei 180-200°C 20-25 Minuten backen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Bischofshütchen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 30,
             "Dauer": 45,
             "Notes": "Makronenmasse vorsichtig unterheben, damit die Masse luftig bleibt."
@@ -207,9 +181,9 @@
                 "Teig 0,5 cm dick ausrollen, Plätzchen ausstechen und bei mittlerer Hitze ca. 15 Minuten backen.",
                 "Plätzchen mit Marmelade aufeinander setzen, oben und seitlich mit Schokoladenglasur bestreichen und nach Belieben mit Pistazien oder Mandeln bestreuen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Ischler Plätzchen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 30,
             "Dauer": 50,
             "Notes": "Kalt lagern, schmecken nach einigen Tagen noch besser."
@@ -228,9 +202,9 @@
                 "Teig 0,5 cm dick ausrollen, Plätzchen ausstechen und bei mittlerer Hitze 15-20 Minuten backen.",
                 "Je 2 Plätzchen mit Marmelade zusammensetzen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Spitzbuben",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 60,
             "Dauer": 50,
             "Notes": "Plätzchen lassen sich gut einfrieren."
@@ -251,9 +225,9 @@
                 "Baiser aus 1 Eiweiß und 50 g Puderzucker herstellen, Plätzchen damit bestreichen.",
                 "Bei schwacher Hitze ca. 20 Minuten backen, mehr trocknen als backen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Zimtsterne",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 40,
             "Dauer": 40,
             "Notes": "Schwache Hitze verwenden, damit die Baiserhaube nicht bräunt."
@@ -277,9 +251,9 @@
                 "Nougatmasse im Wasserbad erwärmen, Hälfte der Plätzchen damit bestreichen, andere Hälfte darauflegen.",
                 "Kuvertüre im Wasserbad schmelzen, Enden der Plätzchen eintauchen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Nougatecken",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 30,
             "Dauer": 45,
             "Notes": "Nougatmasse vorher glatt rühren, nicht zu heiß verwenden."
@@ -302,9 +276,9 @@
                 "Im vorgeheizten Ofen bei 180°C auf der unteren Schiene 1 Stunde backen.",
                 "Kuchen 10 Minuten im ausgeschalteten Ofen auskühlen lassen, anschließend mit Puderzucker bestreuen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Kirsch-Nuss-Kuchen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 8,
             "Dauer": 75,
             "Notes": "Eier trennen und Eiweiß steif schlagen für lockere Konsistenz."
@@ -329,9 +303,9 @@
                 "Teig kaltstellen, ca. 1 cm dick ausrollen, Plätzchen ausstechen.",
                 "Bei mittlerer Hitze 15-20 Minuten backen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Ostpreußischer Pfefferkuchen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 12,
             "Dauer": 60,
             "Notes": "Gewürzkuchen entfaltet sein volles Aroma erst nach einem Tag."
@@ -356,9 +330,9 @@
                 "Rum unterrühren, Teig in Kuchenform füllen.",
                 "Bei 200°C auf mittlerer Schiene 1 Stunde backen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Gewürzkuchen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 8,
             "Dauer": 70,
             "Notes": "Teig entfaltet erst nach einem Tag sein volles Aroma."
@@ -383,9 +357,9 @@
                 "Mit einer Gabel leicht marmorieren, bei 180°C 1 Stunde backen.",
                 "Mit Puderzucker bestreuen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Klassischer Marmorkuchen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 8,
             "Dauer": 70,
             "Notes": "Garprobe mit Holzspieß durchführen."
@@ -411,9 +385,9 @@
                 "Teig in gebutterte und mit Semmelbrösel ausgestreute Form geben, glattstreichen, bei 180°C 1 Stunde backen.",
                 "Schokoladenglasur im Wasserbad auflösen und Kuchen damit bestreichen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Tiroler Schokoladenkuchen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 8,
             "Dauer": 80,
             "Notes": "Teig vorsichtig unterheben, um die Luftigkeit zu erhalten."
@@ -438,9 +412,9 @@
                 "Hälfte der Stangen mit Aprikosen-Konfitüre bestreichen, die übrigen darauflegen.",
                 "Kuvertüre im Wasserbad erwärmen, Enden der Stangen eintauchen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Gefüllte Mandelstangen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 30,
             "Dauer": 45,
             "Notes": "Teig kaltstellen erleichtert das Ausrollen. Mandeln gleichmäßig verteilen."
@@ -466,9 +440,9 @@
                 "Nougatmasse im Wasserbad geschmeidig rühren, Hälfte der Plätzchen damit bestreichen, andere Hälfte fest dagegen drücken.",
                 "Kuvertüre im Wasserbad schmelzen, Enden der Plätzchen eintauchen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Gefüllte Schokoladenhörnchen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 30,
             "Dauer": 50,
             "Notes": "Hörnchen auf Pergamentpapier spritzen, damit sie nicht kleben."
@@ -488,9 +462,9 @@
                 "Ca. 1 cm dicke Rollen formen, in 5 cm lange Stücke schneiden.",
                 "Mit verrührtem Eigelb bestreichen, auf gefettetem Blech bei schwacher Hitze 10-15 Minuten backen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Nußstangen",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 30,
             "Dauer": 40,
             "Notes": "Kaltstellen erleichtert das Formen der Rollen."
@@ -512,9 +486,9 @@
                 "Nach Belieben mit Eigelb bestreichen. Bei mittlerer Hitze 10-15 Minuten backen.",
                 "Noch warm in Zucker wenden oder mit Puderzucker bestreuen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Butterblumen (Butterplätzchen)",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 30,
             "Dauer": 40,
             "Notes": "Kaltstellen erleichtert das Ausrollen."
@@ -543,7 +517,7 @@
                 "Mit Salz, Pfeffer, Chilipulver und Essig abschmecken, erneut erhitzen.",
                 "Mit Paprikawürfeln und Petersilie garnieren. Dazu passt frisches Brot mit Butter."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Paprikacremesuppe",
             "Kapitel": "Suppen und Eintöpfe",
             "Serves": 4,
@@ -571,7 +545,7 @@
                 "Kaninchenstücke herausnehmen, warm halten. Fond durch ein Sieb gießen und aufkochen.",
                 "Sahne und Mehl verquirlen, Fond damit binden. Grünen Pfeffer zugeben und Kaninchen in der Soße servieren."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Kaninchen in Pfeffersoße",
             "Kapitel": "Braten",
             "Serves": 4,
@@ -597,7 +571,7 @@
                 "Salat mit Essig, Öl, Pfeffer würzen. Knoblauch schälen, klein schneiden, mit Salz bestreuen, zerdrücken und über den Salat geben.",
                 "Salat gut durchmischen und 8 Minuten ziehen lassen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Paprikasalat mit Salami",
             "Kapitel": "Rohkost und Salate",
             "Serves": 4,
@@ -624,9 +598,9 @@
                 "Mit Salz, Pfeffer und ggf. etwas mehr Essig abschmecken.",
                 "In ein sauberes Glas füllen und mit einer dünnen Schicht Olivenöl bedecken, um das Pesto länger haltbar zu machen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Petersilienpesto",
-            "Kapitel": "Brotaufstrich",
+            "Kapitel": "Beilagen & Dips",
             "Serves": 4,
             "Dauer": 15,
             "Notes": "Passt hervorragend zu Pasta, Kartoffeln, gegrilltem Gemüse oder als Brotaufstrich. Im Kühlschrank mit Öl bedeckt ca. 1 Woche haltbar."
@@ -652,14 +626,14 @@
             "Kapitel": "Schnelle Küche"
         },
         {
-            "Bild": "Dattelcreme.jpg",
+            "Bild": [],
             "Name": "Dattelcreme",
             "Notes": "von Felix G.",
             "Serves": 10,
-            "Kapitel": "Brotaufstrich",
+            "Kapitel": "Beilagen & Dips",
             "Dauer": 10,
             "Zutaten": [
-                "90g Datteln",
+                "90g Datteln (Kluth)",
                 "235g Frischkäse",
                 "250g Schmand",
                 "1 TL Currypulver",
@@ -672,11 +646,11 @@
             ]
         },
         {
-            "Bild": "Fladenbrot.jpg",
+            "Bild": [],
             "Name": "Fladenbrot",
             "Notes": "",
             "Serves": 4,
-            "Kapitel": "Beilagen",
+            "Kapitel": "Beilagen & Dips",
             "Dauer": 60,
             "Zutaten": [
                 "300ml Milch",
@@ -705,12 +679,12 @@
             ]
         },
         {
-            "Bild": "Gefüllte Plätzchen.jpg",
+            "Bild": ["Gefüllte Plätzchen.jpg"],
             "Name": "Gefüllte Plätzchen",
             "Notes": "",
             "Serves": 1,
-            "Kapitel": "Kuchen, Torten und Gebäck",
-            "Dauer": 0,
+            "Kapitel": "Süßspeisen",
+            "Dauer": 60,
             "Zutaten": [
                 "120g Zucker",
                 "150g Mehl",
@@ -740,7 +714,7 @@
             ]
         },
         {
-            "Bild": "Gemüse Lasagne(Pia und Leno).jpg",
+            "Bild": [],
             "Name": "Pia (& Lenos) Gemüse Lasagne ",
             "Notes": "Backzeit ca. 20-25min",
             "Serves": 3,
@@ -789,11 +763,11 @@
             ]
         },
         {
-            "Bild": "Indischer Milchreis.jpg",
+            "Bild": [],
             "Name": "Indischer Milchreis",
             "Notes": "Am besten während das Aufkochens die Milch beobachten und regelmässig umrühren. Danach den Topf von der Hitze nehmen und zugedeckt ca. 20 min ziehen lassen.",
             "Serves": 1,
-            "Kapitel": "Süßspeißen",
+            "Kapitel": "Süßspeisen",
             "Dauer": 30,
             "Zutaten": [
                 "250g Rundkornreis",
@@ -809,11 +783,11 @@
             ]
         },
         {
-            "Bild": "Klöße Grün1.jpg",
+            "Bild": ["Klöße Grün1.jpg", "Klöße Grün2.jpg"],
             "Name": "Grüne Klöße",
             "Notes": "Das Wasser darf nur am Anfang sprudeln. Zum Ziehen lassen den Topf nicht zudecken!",
             "Serves": 5,
-            "Kapitel": "Beilagen",
+            "Kapitel": "Beilagen & Dips",
             "Dauer": 60,
             "Zutaten": [
                 "20 Kartoffeln, mehlig kochende",
@@ -841,11 +815,11 @@
             ]
         },
         {
-            "Bild": "Klöße.jpg",
+            "Bild": [],
             "Name": "gekochte Klöße ala Papa",
             "Notes": "Eier machen den Teig weicher. Daher sparsam mit den Eier umgehen. Wasser sollte nachdem die Knödel drin sind, nicht mehr sprudeln. Temperatur reduzieren! Natürlich kommen auch hier geröstetes Brot in die Klöße. Es muss aber kein Weißbrot sein!",
             "Serves": 5,
-            "Kapitel": "Beilagen",
+            "Kapitel": "Beilagen & Dips",
             "Dauer": 60,
             "Zutaten": [
                 "1kg mehlig Kartoffeln",
@@ -864,11 +838,11 @@
             ]
         },
         {
-            "Bild": "Nußkreuz.jpg",
+            "Bild": [],
             "Name": "Nußkranz",
             "Notes": "",
             "Serves": 4,
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Dauer": 60,
             "Zutaten": [
                 "Etwas Fett",
@@ -888,11 +862,11 @@
             ]
         },
         {
-            "Bild": "Oma's Quarktorte.jpg",
+            "Bild": ["Oma's Quarktorte.jpg"],
             "Name": "Oma's Quarktorte",
             "Notes": "",
             "Serves": 8,
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Dauer": 90,
             "Zutaten": [
                 "125g Butter",
@@ -910,11 +884,11 @@
             ]
         },
         {
-            "Bild": "Ottilien Kuchen.jpg",
+            "Bild": [],
             "Name": "Ottilien Kuchen",
             "Notes": "",
             "Serves": 8,
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Dauer": 60,
             "Zutaten": [
                 "250g Butter",
@@ -945,7 +919,7 @@
             ]
         },
         {
-            "Bild": "Pizza Toast.jpg",
+            "Bild": [],
             "Name": "Pizza Toast",
             "Notes": "",
             "Serves": 1,
@@ -967,11 +941,11 @@
             ]
         },
         {
-            "Bild": "Rahmchampingions.jpg",
+            "Bild": ["Rahmchampingions.jpg"],
             "Name": "Rahmchampignions",
             "Notes": "Als Beilage zu Fleisch oder Hauptgericht mit Reis.",
             "Serves": 2,
-            "Kapitel": "Beilagen",
+            "Kapitel": "Beilagen & Dips",
             "Dauer": 30,
             "Zutaten": [
                 "400g frische Champignons",
@@ -992,7 +966,7 @@
             ]
         },
         {
-            "Bild": "Reissalat.jpg",
+            "Bild": [],
             "Name": "Reissalat",
             "Notes": "1 Kaffeetopf als Menge",
             "Serves": 1,
@@ -1027,11 +1001,11 @@
             ]
         },
         {
-            "Bild": "Rollfisch.JPG",
+            "Bild": ["Rollfisch.JPG"],
             "Name": "Rollfisch",
             "Notes": "",
             "Serves": 1,
-            "Kapitel": "Fischgerichte",
+            "Kapitel": "Fisch & Meeresfrüchte",
             "Dauer": 60,
             "Zutaten": [
                 "1 Goldbarschfilet (200g)",
@@ -1068,11 +1042,11 @@
             ]
         },
         {
-            "Bild": "Rotweinkuchen.jpg",
+            "Bild": [],
             "Name": "Rotweinkuchen",
             "Notes": "",
             "Serves": 9,
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Dauer": 120,
             "Zutaten": [
                 "200g Butter",
@@ -1096,25 +1070,23 @@
             ]
         },
         {
-            "Bild": "Rouladen.jpg",
+            "Bild": ["Rouladen.jpg"],
             "Name": "Rouladen",
             "Notes": "",
             "Serves": 2,
             "Kapitel": "Braten",
             "Dauer": 120,
             "Zutaten": [
-                ""
             ],
             "Anleitung": [
-                ""
             ]
         },
         {
-            "Bild": "Schoko-Mandel-Plätzchen.jpg",
+            "Bild": ["Schoko-Mandel-Plätzchen.jpg"],
             "Name": "Schoko-Mandel-Plätzchen",
             "Notes": "",
             "Serves": 5,
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Dauer": 30,
             "Zutaten": [
                 "500g Schokolade (Vollmilch oder Zartbitter)",
@@ -1130,7 +1102,7 @@
             ]
         },
         {
-            "Bild": "Schweinebraten.jpg",
+            "Bild": [],
             "Name": "Schweinebraten",
             "Notes": "",
             "Serves": 5,
@@ -1165,7 +1137,7 @@
             ]
         },
         {
-            "Bild": "Selleriesüppchen.jpg",
+            "Bild": ["Selleriesüppchen.jpg"],
             "Name": "Selleriesüppchen",
             "Notes": "",
             "Serves": 1,
@@ -1190,11 +1162,11 @@
             ]
         },
         {
-            "Bild": "Spargel.jpg",
+            "Bild": [],
             "Name": "Spargel",
             "Notes": "Hält mehrere Tage im Sud, wenn man keine Mitesser hat :-)",
             "Serves": 4,
-            "Kapitel": "Beilagen",
+            "Kapitel": "Beilagen & Dips",
             "Dauer": 15,
             "Zutaten": [
                 "1 kg Spargel",
@@ -1216,7 +1188,7 @@
             ]
         },
         {
-            "Bild": "Streusel.jpg",
+            "Bild": [],
             "Name": "Streusel",
             "Notes": "",
             "Serves": 1,
@@ -1226,7 +1198,6 @@
                 "1 Teil Butter",
                 "1 Teil Zucker",
                 "2 Teile Mehl",
-                "",
                 "1 Teil = 250g für eine großes Blech"
             ],
             "Anleitung": [
@@ -1237,7 +1208,7 @@
             ]
         },
         {
-            "Bild": "Sylwesterpunsch.jpg",
+            "Bild": ["Sylwesterpunsch.jpg"],
             "Name": "Sylvesterpunsch",
             "Notes": "",
             "Serves": 1,
@@ -1264,11 +1235,11 @@
             ]
         },
         {
-            "Bild": "Waffeln.jpg",
+            "Bild": [],
             "Name": "Waffeln",
             "Notes": "",
             "Serves": 8,
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Dauer": 30,
             "Zutaten": [
                 "200g Butter",
@@ -1286,7 +1257,7 @@
             ]
         },
         {
-            "Bild": "Weinachtsgans 1.jpg",
+            "Bild": ["Weinachtsgans 1.jpg", "Weinachtsgans 2.jpg"],
             "Name": "Weihnachtsgans",
             "Notes": "Falls die Gans gefroren ist 24h vorher bei Raumtemperatur auftauen.\nFlügel mit dem Kragen und den Innereien zu einer Suppe kochen.",
             "Serves": 6,
@@ -1317,12 +1288,12 @@
             ]
         },
         {
-            "Bild": "Würzmischung für Hackbällchen.jpg",
+            "Bild": ["Würzmischung für Hackbällchen.jpg"],
             "Name": "Würzmischung für Hackbällchen",
             "Notes": "z.B. für Brühefondue\nSemmelbrösel nach Bedarf, damit Klößchen nicht auseinander fallen",
             "Serves": 1,
             "Kapitel": "Fondue",
-            "Dauer": 0,
+            "Dauer": 30,
             "Zutaten": [
                 "Pro Person 250g Hackfleisch (Rind oder Schwein oder gemischt)",
                 "1/2 TL Paprika rosenscharf",
@@ -1343,7 +1314,7 @@
             ]
         },
         {
-            "Bild": "Zuchiniauflauf (Mama).jpg",
+            "Bild": ["Zuchiniauflauf (Mama).jpg"],
             "Name": "Zucchini-Auflauf á la Mami",
             "Notes": "",
             "Serves": 4,
@@ -1372,7 +1343,7 @@
             ]
         },
         {
-            "Bild": "Zuchiniauflauf Veggie.jpg",
+            "Bild": ["Zuchiniauflauf Veggie.jpg"],
             "Name": "Zucchini-Auflauf vegetarisch",
             "Notes": "",
             "Serves": 1,
@@ -1398,17 +1369,15 @@
             ]
         },
         {
-            "Bild": "Butterplätzchen.jpg",
+            "Bild": ["Butterplätzchen.jpg"],
             "Name": "Butterplätzchen",
             "Notes": "",
-            "Serves": 1,
-            "Kapitel": "Kuchen, Torten und Gebäck",
-            "Dauer": 0,
+            "Serves": 5,
+            "Kapitel": "Süßspeisen",
+            "Dauer": 60,
             "Zutaten": [
-                ""
             ],
             "Anleitung": [
-                ""
             ]
         },
         {
@@ -1436,7 +1405,7 @@
                 "Ergibt ca. 12 Stück."
             ],
             "Notes": "Variante: Tomaten mit dem Pürieraufsatz der Gemüsepresse pürieren und hinzufügen.",
-            "Kapitel": "Fischgerichte",
+            "Kapitel": "Fisch & Meeresfrüchte",
             "Serves": 12,
             "Dauer": 20
         },
@@ -1494,7 +1463,7 @@
                 "Mit gebräunter Butter übergießen und zu Sauerkraut oder Weißkraut servieren."
             ],
             "Notes": "Zubereitungszeit inkl. Ruhezeit: ca. 45 Minuten. Nährwerte pro Portion: 370 kcal, 19 g Eiweiß, 21 g Fett, 25 g Kohlenhydrate.",
-            "Kapitel": "Beilagen",
+            "Kapitel": "Beilagen & Dips",
             "Serves": 1,
             "Dauer": 45
         },
@@ -1524,7 +1493,7 @@
                 "Noch heiß mit Puderzucker bestäuben. Warm oder kalt servieren."
             ],
             "Notes": "Ergibt ca. 10 Stück. Backzeit: ca. 30 Minuten.",
-            "Kapitel": "Süßspeißen",
+            "Kapitel": "Süßspeisen",
             "Serves": 1,
             "Dauer": 30
         },
@@ -1573,7 +1542,7 @@
                 "Warm oder kalt servieren."
             ],
             "Notes": "Ergibt ca. 8 Stücke. Backzeit insgesamt ca. 30 Minuten.",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 8,
             "Dauer": 30
         },
@@ -1604,7 +1573,7 @@
                 "Orangenschale darüberstreuen."
             ],
             "Notes": "Backzeit ca. 20 Minuten. Ergibt ein Blech.",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 1,
             "Dauer": 20
         },
@@ -1635,7 +1604,7 @@
                 "Bei mittlerer Hitze 15–20 Minuten backen."
             ],
             "Notes": "Klassisches Weihnachtsgebäck. Backzeit: 15–20 Minuten.",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 1,
             "Dauer": 20
         },
@@ -1660,7 +1629,7 @@
                 "Weitere 15 Min. backen."
             ],
             "Notes": "Ergibt ein Blech.",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 1,
             "Dauer": 45
         },
@@ -1685,7 +1654,7 @@
                 "Mit Zitronensaft und Zucker tränken."
             ],
             "Notes": "Ergibt eine Springform.",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 1,
             "Dauer": 60
         },
@@ -1757,7 +1726,7 @@
                 "Deckel aufsetzen, mit Puderzucker bestäuben."
             ],
             "Notes": "Ergibt ca. 10 Stück.",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 10,
             "Dauer": 45
         },
@@ -1794,7 +1763,7 @@
                 "Schnitten füllen, Deckel aufsetzen."
             ],
             "Notes": "Ergibt ca. 12 Stück.",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 12,
             "Dauer": 35
         },
@@ -1844,36 +1813,20 @@
                 "Abtropfen lassen, mit Puderzucker bestäuben."
             ],
             "Notes": "Ergibt ca. 25 Stück.",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 25,
             "Dauer": 60
         },
         {
-            "Bild": "Hefeteig.jpg",
-            "Name": "Hefeteig",
-            "Notes": "",
-            "Serves": 1,
-            "Kapitel": "Grundrezepte",
-            "Dauer": 0,
-            "Zutaten": [
-                ""
-            ],
-            "Anleitung": [
-                ""
-            ]
-        },
-        {
-            "Bild": "Kräuertoast (Ida).jpg",
+            "Bild": ["Kräuertoast (Ida).jpg"],
             "Name": "Kräuertoast (Ida)",
             "Notes": "",
             "Serves": 1,
             "Kapitel": "Schnelle Küche",
-            "Dauer": 0,
+            "Dauer": 20,
             "Zutaten": [
-                ""
             ],
             "Anleitung": [
-                ""
             ]
         },
         {
@@ -1887,7 +1840,7 @@
                 "Mit French Dressing und Pfeffer mischen.",
                 "Etwa 15 Minuten durchziehen lassen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Fenchelrohkost",
             "Kapitel": "Rohkost und Salate",
             "Serves": 1,
@@ -1917,7 +1870,7 @@
                 "Über die Zutaten gießen, 10 Minuten ziehen lassen.",
                 "Schinken und Kräuter untermischen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Bunter Fenchelsalat",
             "Kapitel": "Rohkost und Salate",
             "Serves": 3,
@@ -1946,9 +1899,9 @@
                 "Zitronenscheiben und Thymian entfernen, abkühlen lassen.",
                 "Mit Salz, Zucker und gehackten Kräutern bestreuen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Marinierte Zwiebeln",
-            "Kapitel": "Beilagen",
+            "Kapitel": "Beilagen & Dips",
             "Serves": 6,
             "Dauer": 30,
             "Notes": "Ideal als Vorspeise oder Beilage."
@@ -1974,7 +1927,7 @@
                 "Brühe erhitzen, Fleisch und Ananas darin garen.",
                 "Mit Sauce und Baguette servieren."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Geflügelfondue mit Ingwersauce",
             "Kapitel": "Fondue",
             "Serves": 4,
@@ -2006,7 +1959,7 @@
                 "Brühe erhitzen, Klößchen darin garen.",
                 "Mit Apfelsauce servieren."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Hackfleischklößchen-Fondue",
             "Kapitel": "Fondue",
             "Serves": 4,
@@ -2034,9 +1987,9 @@
                 "Restlichen Teig ausrollen, auflegen, mit Milch bepinseln.",
                 "Bei 180°C 35-40 Minuten backen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Marzipanschnitten",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 12,
             "Dauer": 50,
             "Notes": "Weihnachtlich und aromatisch."
@@ -2063,9 +2016,9 @@
                 "Kuchen halbieren, mit Marmelade füllen.",
                 "Guss aus Puderzucker, Rum und Wasser herstellen und auftragen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Gewürzschnitten",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 12,
             "Dauer": 45,
             "Notes": "Würzig und festlich."
@@ -2094,9 +2047,9 @@
                 "Torte aushöhlen, Obst einfüllen, Sahne kuppelartig auftragen.",
                 "Mit Kuchenkrümeln, Puderzucker und Kakao bestreuen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Name": "Maulwurftorte",
-            "Kapitel": "Kuchen, Torten und Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 12,
             "Dauer": 90,
             "Notes": "Optisch beeindruckend."
@@ -2127,7 +2080,7 @@
                 "Gemüse und Fleisch auf Spieße stecken, mit Erdnusssauce beträufeln.",
                 "Mit Sesamsamen bestreuen und sofort servieren."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Raffiniert und schnell zubereitet."
         },
         {
@@ -2158,7 +2111,7 @@
                 "Den aufgefangenen Sherry, Rotwein und Sahne angießen, bei mittlerer Hitze ca. 5 Minuten köcheln lassen.",
                 "Mit restlicher Petersilie bestreuen und heiß servieren."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Beilage: Baguette oder Toast. Handschriftliche Notiz: 'Stark! 12.01.02 als Hauptgericht für zwei.'"
         },
         {
@@ -2186,7 +2139,7 @@
                 "Edelpilzkäse würfeln und unter die Suppe rühren.",
                 "Mit Sesamsamen bestreuen und servieren."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Handschriftliche Notiz: 'Lecker! Aber süßer abschmecken, 8-10 min länger kochen. Ideal für Einladung!' Tipp: Wenn Sie sich das Häuten der Tomaten sparen möchten, fertige Suppe pürieren und durch ein Sieb streichen."
         },
         {
@@ -2218,12 +2171,12 @@
                 "Über Nacht kühl stellen, am nächsten Tag nochmals durchrühren und abschmecken.",
                 "Den gekühlten Lauch in Ringe schneiden und auf die Suppe streuen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Handschriftliche Notiz: '15.11.2008 mit Sherry + etwas Sahne'. Tipp: Lauchcreme schmeckt auch heiß ausgezeichnet. Variante: Statt Schmand kann Crème fraîche oder Sahne verwendet werden."
         },
         {
             "Name": "Rotbarsch in Kräutersauce",
-            "Kapitel": "Fischgerichte",
+            "Kapitel": "Fisch & Meeresfrüchte",
             "Serves": 4,
             "Dauer": 45,
             "Zutaten": [
@@ -2247,7 +2200,7 @@
                 "Frischkäse einrühren, würzen.",
                 "Fischstücke in Sauce ziehen lassen, Tomaten zugeben."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Wieder machen! Tipp: Für Kinder Wein durch Brühe ersetzen."
         },
         {
@@ -2279,7 +2232,7 @@
                 "Mit Wein und Brühe ablöschen, würzen.",
                 "1-1,5 Std. schmoren, Bohnen zugeben, weitere 15 Min. kochen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Lecker, aber mild – nachwürzen!"
         },
         {
@@ -2307,7 +2260,7 @@
                 "Mit Fond angießen, 15 Min. garen.",
                 "Mit Salz, Pfeffer und Chili abschmecken."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Schnell & lecker, wieder machen!"
         },
         {
@@ -2339,7 +2292,7 @@
                 "Tomaten und Petersilie zugeben, 20 Min. garen.",
                 "Mit Zitronenschnitzen servieren."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Super-mega-lecker!"
         },
         {
@@ -2368,7 +2321,7 @@
                 "Backofen vorheizen, Teig ausrollen.",
                 "Belag auf Teig verteilen, backen."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Schmeckt frisch oder lauwarm, kann eingefroren werden."
         },
         {
@@ -2391,18 +2344,18 @@
                 "In heißem Fett bei Mittelhitze (180–190 °C) backen, bis goldbraun.",
                 "Kurz abkühlen lassen, mit Zucker oder Vanillezucker bestreuen und servieren."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Beilage: Kompott oder Vanillesoße."
         },
         {
-            "Name": "Hefeteig (Grundrezept Nr. 1241)",
+            "Name": "Hefeteig",
             "Kapitel": "Grundrezepte",
             "Serves": 1,
-            "Dauer": null,
+            "Dauer": 60,
             "Zutaten": [
                 "500 g Mehl (Type 405)",
                 "125–150 g Butter oder Margarine",
-                "30–40 g Hefe",
+                "30–40 g Hefe oder ein Päckchen Trockenhefe",
                 "1 Ei",
                 "1/8 l Milch",
                 "1 Prise Salz",
@@ -2410,19 +2363,20 @@
             ],
             "Anleitung": [
                 "Mehl in Schüssel sieben, Salz zugeben.",
-                "Hefe in lauwarmer Milch auflösen, mit Ei und Butter verrühren.",
+                "Hefe in lauwarmer Milch auflösen, mit Ei und Butter verrühren oder",
+                "Trockenhefe gut mit dem Mehl vermischen",
                 "Flüssigkeit zum Mehl geben, zu glattem Teig verarbeiten.",
-                "Teig zugedeckt an warmem Ort gehen lassen, bis er sich verdoppelt hat.",
-                "Teig ausrollen und nach Rezept weiterverarbeiten."
+                "Teig zugedeckt an warmem Ort gehen lassen, bis er sich verdoppelt hat. (ca.20-30 min)",
+                "Teig ausrollen, etwas gehenlassen (10 min) und nach Rezept weiterverarbeiten."
             ],
-            "Bild": null,
-            "Notes": "Handschriftliche Notiz: Für Rohrnudeln: 100 g Zucker, 2 Eier, 3 Eigelb, 300–350 ml Milch, 100 g Fett."
+            "Bild": [],
+            "Notes": "Für Rohrnudeln: 100 g Zucker, 2 Eier, 3 Eigelb, 300–350 ml Milch, 100 g Fett."
         },
         {
-            "Name": "Nudelteig (Grundrezept Nr. 917)",
+            "Name": "Nudelteig",
             "Kapitel": "Grundrezepte",
             "Serves": 1,
-            "Dauer": null,
+            "Dauer": 20,
             "Zutaten": [
                 "250–300 g Mehl",
                 "Salz",
@@ -2438,12 +2392,12 @@
                 "Für Nudeln: Streifen schneiden, auf Brett trocknen.",
                 "Bei elektrischen Geräten: Mehl und Flüssigkeit in Schüssel geben, mit Knethaken verarbeiten."
             ],
-            "Bild": null,
-            "Notes": "Handschriftliche Notiz: 'Nach Oma: 1 Ei, 1/8 l Milch statt Wasser, 1 EL Öl'. Verwendung: Suppennudeln, Maultaschen, Ravioli, Cannelloni, Süßspeisen."
+            "Bild": [],
+            "Notes": "Handschriftliche Notiz: 'Nach Oma: 1 Ei, 1/8 l Milch statt Wasser, 1 EL Öl'. \nVerwendung: Suppennudeln, Maultaschen, Ravioli, Cannelloni, Süßspeisen."
         },
         {
             "Name": "Apfelstrudel aus Nudelteig",
-            "Kapitel": "Desserts & Gebäck",
+            "Kapitel": "Süßspeisen",
             "Serves": 8,
             "Dauer": 50,
             "Zutaten": [
@@ -2463,7 +2417,7 @@
                 "Mit Butter bestreichen und bei 175 °C Ober-/Unterhitze 30–40 Min. backen.",
                 "Kurz ruhen lassen, in Portionen schneiden und mit Puderzucker bestreut servieren."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Handschriftliche Notiz: '150 Umluft, 175 Ober-/Unterhitze'. Strudel hat etwas blättrige Beschaffenheit."
         },
         {
@@ -2484,8 +2438,283 @@
                 "Kurz abkühlen lassen, stürzen und sofort mit Zucker oder Vanillezucker bestreuen.",
                 "Etwas abgekühlt Nudeln voneinander lösen, auskühlen lassen und servieren."
             ],
-            "Bild": null,
+            "Bild": [],
             "Notes": "Beilage: Kompott oder Vanillesoße."
+        },
+        {
+            "Name": "Baingan Kachri (Pikante Auberginenscheiben)",
+            "Kapitel": "Vegetarische Gerichte",
+            "Serves": 12,
+            "Dauer": 30,
+            "Zutaten": [
+                "1 EL Zitronensaft",
+                "½ TL Salz",
+                "3 EL Pflanzenöl",
+                "1 große Aubergine (in ca. 1 cm dicke Scheiben geschnitten)",
+                "1 mittelgroße Zwiebel (fein gehackt)",
+                "1 TL fein gehackter Knoblauch",
+                "1 kleine grüne Chilischote (entkernt und fein gehackt, nach Belieben)",
+                "1 EL gemahlene Koriandersamen",
+                "1 EL gemahlene Kreuzkümmelsamen",
+                "Salz nach Geschmack",
+                "1 große Tomate (in kleine Würfel geschnitten)",
+                "2 EL gehacktes Koriandergrün",
+                "½ TL schwarzer Pfeffer",
+                "1 TL getrocknetes Mangopulver oder 1 TL Zitronensaft",
+                "6 Kirschtomaten (halbiert, zum Garnieren)"
+            ],
+            "Anleitung": [
+                "Zitronensaft, Salz und 2 EL Öl mischen und Auberginenscheiben auf beiden Seiten bestreichen.",
+                "Auberginenscheiben in einer Pfanne braten, bis sie weich und hellbraun sind, warm halten.",
+                "Restliches Öl erhitzen, Zwiebel, Knoblauch und Chili glasig dünsten.",
+                "Koriander, Kreuzkümmel und Salz zugeben, kurz anrösten.",
+                "Tomatenwürfel und Pfeffer hinzufügen, kurz erhitzen.",
+                "Auberginenscheiben mit der Mischung belegen, mit Kirschtomaten garnieren.",
+                "Als Vorspeise oder Beilage servieren, dazu Chapati oder Reis."
+            ],
+            "Bild": [],
+            "Notes": "T+B 5.6.2017 lecker, wiedermachen"
+        },
+        {
+            "Name": "Murgi Malai Kabab (Sahnige Hühnerkababs)",
+            "Kapitel": "Geflügelgerichte",
+            "Serves": 6,
+            "Dauer": 360,
+            "Zutaten": [
+                "400 g Hühnerfleisch (in Würfel geschnitten)",
+                "1 EL Pflanzenöl (zum Bepinseln)",
+                "Für die Marinade:",
+                "2 EL Mandelpaste",
+                "3 EL Sahne",
+                "1 EL Knoblauchpaste",
+                "1 TL Ingwerpaste",
+                "½ TL gemahlene Muskatblüte",
+                "½ TL gemahlene Muskatnuss",
+                "½ TL Chilipulver (nach Geschmack)",
+                "½ TL Pfeffer",
+                "2 TL Maisstärke",
+                "1 EL gehacktes Koriandergrün",
+                "Salz nach Geschmack"
+            ],
+            "Anleitung": [
+                "Alle Zutaten für die Marinade in einer Schüssel mischen.",
+                "Hühnerfleisch zugeben und gut verrühren.",
+                "Zudecken und 5–6 Stunden (besser über Nacht) im Kühlschrank marinieren.",
+                "Vor dem Grillen auf Zimmertemperatur bringen.",
+                "Fleischstücke auf Holzspieße stecken.",
+                "Grillen oder braten, dabei alle paar Minuten mit Öl bepinseln und wenden, bis das Fleisch gar und saftig ist (ca. 15–20 Min.).",
+                "Als Vorspeise mit Pudina Chutney servieren oder als Hauptgericht mit Gemüse, Naan, Chapati und Raita."
+            ],
+            "Bild": [],
+            "Notes": "1.2.04 M+D+D.-Z. sehr lecker"
+        },
+        {
+            "Name": "Kachoomber Raita (Verschiedene Gemüse in Joghurt)",
+            "Kapitel": "Beilagen & Dips",
+            "Serves": 4,
+            "Dauer": 15,
+            "Zutaten": [
+                "500 g fettarmer Naturjoghurt",
+                "½ TL gerösteter, gemahlener Kreuzkümmel",
+                "1 TL Kreuzkümmelpulver",
+                "½ TL Pfeffer",
+                "½ TL Paprikapulver",
+                "1 TL geriebene Zitronenschale",
+                "90 g geraspelte Salatgurke",
+                "70 g gewürfelte Tomate",
+                "250 g fein geschnittener, knackiger Salat",
+                "1 EL fein gehackte Zwiebel",
+                "1 EL fein gehackte frische Minze",
+                "Salz nach Geschmack",
+                "Paprikapulver oder gerösteter Kreuzkümmel zum Garnieren"
+            ],
+            "Anleitung": [
+                "Joghurt, Gewürze und Zitronenschale in einer Schüssel mit Schneebesen verrühren.",
+                "Gemüse und Salz zugeben, gut untermischen.",
+                "Gekühlt servieren, mit Paprikapulver oder Kreuzkümmel bestreuen."
+            ],
+            "Bild": [],
+            "Notes": "28.1.04 Auch gut als Dressing, zu Salat\nVariation: Statt Gurke, Tomate und Salat 300 g gekochte Kartoffelwürfel verwenden für Aloo Raita."
+        },
+        {
+            "Name": "Sabzi Aur Channe (Verschiedene Gemüse mit Kichererbsen)",
+            "Kapitel": "Vegetarische Gerichte",
+            "Serves": 6,
+            "Dauer": 45,
+            "Zutaten": [
+                "2 EL Tomatenmark",
+                "250 g fettarmer Naturjoghurt",
+                "¼ TL Chilipulver",
+                "1 TL Paprikapulver",
+                "1 TL Garam Masala",
+                "½ TL Pfeffer",
+                "½ TL gemahlene Muskatblüte",
+                "1 TL Ingwerpaste",
+                "400 g Kichererbsen (aus der Dose)",
+                "2 EL Pflanzenöl",
+                "1 EL Butter",
+                "1 Zimtstange",
+                "2 Kardamomkapseln (Samen davon)",
+                "2 Lorbeerblätter",
+                "1 grob gehackte Zwiebel",
+                "1 TL Knoblauchpaste",
+                "1 geschälte Kartoffel (in 2 cm Würfel geschnitten)",
+                "400 g kleine Blumenkohlröschen",
+                "10 grüne Bohnen (in 2 cm Stücke geschnitten)",
+                "1 mittelgroße Zucchini (in Scheiben geschnitten)",
+                "gehacktes Koriandergrün",
+                "120 ml heißes Wasser (bei Bedarf mehr)",
+                "Salz nach Geschmack",
+                "4 EL Sahne",
+                "2 TL gerösteter Sesam (zum Garnieren)"
+            ],
+            "Anleitung": [
+                "Tomatenmark, Joghurt, Gewürze und Ingwerpaste mit ½ TL Salz zu einer glatten Creme verrühren.",
+                "Kichererbsen abspülen und abtropfen lassen.",
+                "Öl und Butter in einer Pfanne erhitzen, Zimtstange, Kardamom, Lorbeerblätter, Zwiebel und Knoblauchpaste anbraten, bis Zwiebel goldbraun ist.",
+                "Joghurtmischung zugeben, kurz aufkochen, Hitze reduzieren und 3–4 Min. köcheln lassen.",
+                "Gemüse, Koriandergrün und Wasser zugeben, zugedeckt köcheln, bis Gemüse zart, aber bissfest ist.",
+                "Sahne einrühren, erneut kurz aufkochen.",
+                "Mit Sesam bestreuen und servieren."
+            ],
+            "Bild": [],
+            "Notes": "28.9.2025 B+T\nTipp: Passt zu Reis, Raita oder Naturjoghurt."
+        },
+        {
+            "Name": "Gobi Aloo (Blumenkohl mit Kartoffeln)",
+            "Kapitel": "Vegetarische Gerichte",
+            "Serves": 4,
+            "Dauer": 35,
+            "Zutaten": [
+                "1 EL Pflanzenöl",
+                "1 TL Kreuzkümmelsamen",
+                "1 TL fein gehackter Knoblauch",
+                "1 TL frischer Ingwer (fein gehackt)",
+                "½ TL Kurkuma",
+                "½ TL Paprikapulver",
+                "1 TL Kreuzkümmelpulver",
+                "1 TL Garam Masala",
+                "Salz nach Geschmack",
+                "2 mittelgroße Kartoffeln (geschält, in kleine Stücke geschnitten)",
+                "450 g Blumenkohl (in kleine Röschen geteilt)",
+                "1 EL gehacktes Koriandergrün"
+            ],
+            "Anleitung": [
+                "Öl in einer Pfanne erhitzen, Kreuzkümmelsamen kurz anrösten.",
+                "Knoblauch und Ingwer zugeben, 1 Minute anbraten.",
+                "Hitze reduzieren, Gewürze, Salz und Kartoffeln zugeben.",
+                "5–7 Minuten zugedeckt köcheln lassen, gelegentlich umrühren.",
+                "Blumenkohl und Koriandergrün zugeben, Hitze auf Minimum reduzieren.",
+                "So lange garen, bis Blumenkohl weich, aber bissfest ist.",
+                "Gelegentlich umrühren, damit nichts anbrennt."
+            ],
+            "Bild": [],
+            "Notes": "21.08.09 M+B lecker! (Kohlröschen klein machen)'. \nTipp: Damit das Gemüse nicht anbrennt, etwas Wasser angießen."
+        },
+        {
+            "Name": "Shahi Korma (Lamm in Mandel-Joghurtsauce)",
+            "Kapitel": "Fisch & Meeresfrüchte",
+            "Serves": 4,
+            "Dauer": 60,
+            "Zutaten": [
+                "4 EL fettarmer Joghurt",
+                "¼ TL Kardamomsamen (zerstoßen)",
+                "2,5 cm Stück frischer Ingwer",
+                "1 EL gehackter Knoblauch",
+                "3 EL gehackte Mandeln",
+                "2 EL Pflanzenöl",
+                "450 g Lammfleisch ohne Knochen (in 2 cm Würfel geschnitten)",
+                "2 grob gehackte Zwiebeln",
+                "2 Lorbeerblätter",
+                "4 ganze Nelken",
+                "½ TL Paprikapulver",
+                "1 TL Kreuzkümmelpulver",
+                "Salz nach Geschmack",
+                "120 ml Sahne (vermischt mit 300 ml Wasser)",
+                "½ TL Garam Masala"
+            ],
+            "Anleitung": [
+                "Joghurt, Kardamom, Ingwer, Knoblauch und Mandeln zu einer Paste verarbeiten.",
+                "Öl in einer Pfanne erhitzen, Lammfleisch, Zwiebeln, Lorbeerblätter und Nelken 10 Min. anbraten.",
+                "Mandelpaste, Paprikapulver, Kreuzkümmel und Salz zugeben, rühren bis Flüssigkeit verdampft.",
+                "Sahne-Wasser-Mischung zugeben, aufkochen, Hitze reduzieren und 35–40 Min. köcheln lassen.",
+                "Mit Garam Masala bestreuen und servieren.",
+                "Beilage: Chapati, Naan, Reis oder Raita."
+            ],
+            "Bild": [],
+            "Notes": "B+M+T+P 29.1.2006 Leckere Soße, nicht scharf'. \nVariation: Für vegetarische Version Fleisch durch 650–700 g Gemüse ersetzen."
+        },
+        {
+            "Name": "Balti Masala Jhinga (Würzige, gebratene Garnelen)",
+            "Kapitel": "Fisch & Meeresfrüchte",
+            "Serves": 6,
+            "Dauer": 30,
+            "Zutaten": [
+                "2 EL Pflanzenöl",
+                "1 EL Butter",
+                "2 mittelgroße Zwiebeln (in Scheiben geschnitten)",
+                "5 Knoblauchzehen (fein gehackt)",
+                "2 EL Tomatenmark",
+                "2 TL zerstoßene Kreuzkümmelsamen",
+                "2 TL zerstoßene Koriandersamen",
+                "1 kleine grüne Chilischote (entkernt und fein gehackt, nach Belieben)",
+                "1 TL Garam Masala",
+                "½ rote Paprika (entkernt und in feine Streifen geschnitten)",
+                "½ grüne Paprika (entkernt und in feine Streifen geschnitten)",
+                "800 g rohe, geschälte Garnelen (Darmstränge entfernt)",
+                "Salz nach Geschmack"
+            ],
+            "Anleitung": [
+                "Öl und Butter in einer Pfanne oder einem Wok erhitzen.",
+                "Zwiebeln und Knoblauch glasig dünsten.",
+                "Tomatenmark und Gewürze zugeben, 1–2 Minuten unter Rühren mitdünsten.",
+                "Paprikastreifen zugeben, weitere 1 Minute dünsten.",
+                "Garnelen zugeben, unter Rühren 4–5 Minuten garen, bis sie rosa und gar sind.",
+                "Mit Salz abschmecken und sofort servieren.",
+                "Als Vorspeise oder Hauptgericht mit Hülsenfrüchten, Gemüse und Paratha servieren."
+            ],
+            "Bild": [],
+            "Notes": "28.12.2013 B+T"
+        },
+        {
+            "Name": "Tamater Wali Machhi (Fisch in Tomatensauce)",
+            "Kapitel": "Fisch & Meeresfrüchte",
+            "Serves": 4,
+            "Dauer": 60,
+            "Zutaten": [
+                "600 g festes, weißes Fischfilet",
+                "2 TL Ingwerpaste",
+                "1 TL Knoblauchpaste",
+                "½ TL Zitronensaft",
+                "1 TL Salz",
+                "1 TL Chilipulver oder Paprikapulver",
+                "1 TL getrocknete Kokosnusscreme",
+                "200 ml Wasser",
+                "1 EL grob gehackte Cashewnüsse",
+                "2 EL Sonnenblumenkerne",
+                "1 EL Pflanzenöl",
+                "1 TL fein gehackter Knoblauch",
+                "½ TL Kurkuma",
+                "1 TL Kreuzkümmelpulver",
+                "1 TL Paprikapulver",
+                "1 EL Tomatenmark",
+                "600 g reife Tomaten (püriert)",
+                "1 TL Garam Masala",
+                "4 EL gehacktes Koriandergrün",
+                "Salz nach Geschmack",
+                "4 EL Sahne"
+            ],
+            "Anleitung": [
+                "Fischfilets in 4 cm große Würfel schneiden, mit Ingwer, Knoblauchpaste, Zitronensaft, Salz und Chilipulver mischen, 30–40 Min. ziehen lassen.",
+                "Kokosnusscreme 5 Min. in Wasser einweichen, mit Cashewnüssen und Sonnenblumenkernen zu Paste verarbeiten.",
+                "Öl erhitzen, Knoblauch glasig dünsten, Kurkuma, Kreuzkümmel, Paprikapulver und Tomatenmark zugeben, kurz anrösten.",
+                "Tomatenpüree und Kokospaste einrühren, 2–3 Min. kochen.",
+                "Fisch und Hälfte des Korianders zugeben, 10 Min. garen, mit Salz abschmecken.",
+                "Sahne unterrühren, Sauce kurz aufkochen, mit restlichem Koriander bestreuen.",
+                "Mit Reis, Raita oder Weißbrot servieren."
+            ],
+            "Bild": [],
+            "Notes": "25.1.04 B+M+P Sehr gut!\nSoße schwer durch Nüsse\nWintergericht!"
         }
     ]
 }

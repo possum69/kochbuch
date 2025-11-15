@@ -99,12 +99,14 @@ class KochbuchTex(Kochbuch):
                         f.write("\\end{directions}\n")
 
                     if doc.get("Bild"):
-                        image_file = doc.get("Bild")
-                        file_path = f"{PICTURES_PATH}/{image_file}"
-                        if os.path.isfile(file_path):
+                        image_files = doc.get("Bild")
+                        if isinstance(image_files, list) and len(image_files) > 0:
                             f.write("\\begin{figure}[h]\n")
                             f.write("\\centering\n")
-                            f.write(f"\\includegraphics[width=0.75\\textwidth]{{{KochbuchTex.latex_escape(file_path)}}}\n")
+                            for image_file in image_files:
+                                file_path = f"{PICTURES_PATH}/{image_file}"
+                                if os.path.isfile(file_path):
+                                    f.write(f"\\includegraphics[height=0.5\\textheight]{{{KochbuchTex.latex_escape(file_path)}}}\n")
                             f.write(f"\\caption{{{title_tex}}}\n")
                             f.write("\\end{figure}\n")
 
@@ -126,7 +128,9 @@ def main():
     os.system(f"makeindex Kochbuch.idx")
     os.system(f"pdflatex -quiet {OUT_PATH}")
     os.system("del *.aux *.log *.idx *.ind *.toc *.out *.ilg *.lof")
-    os.system("move Kochbuch.pdf Output/Kochbuch.pdf")
+    os.system("move Kochbuch.pdf Output")
+    os.system("move Kochbuch.tex Output")
+    os.system("copy *.json Output")
 
 if __name__ == "__main__":
     main()

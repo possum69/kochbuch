@@ -10,6 +10,8 @@ except ImportError:
     Image = None
     ImageTk = None
 
+IMAGE_PATH = "Bilder"
+
 class RecipeBook:
     def __init__(self, root):
         self.root = root
@@ -118,6 +120,10 @@ class RecipeBook:
         delete_button = ttk.Button(button_frame, text="Löschen", command=self.delete_recipe, style="Delete.TButton")
         delete_button.pack(side=tk.LEFT, padx=5)
         
+        # Delete button
+        image_delete_button = ttk.Button(button_frame, text="Bild löschen", command=self.delete_image, style="Delete.TButton")
+        image_delete_button.pack(side=tk.LEFT, padx=5)
+        
         # Create a style for the delete button
         style = ttk.Style()
         style.configure("Delete.TButton", foreground="red")
@@ -164,11 +170,12 @@ class RecipeBook:
         # Display image if available
         self.display_image(recipe.get('Bild'))
 
-    def display_image(self, image_name):
-        if image_name and Image and ImageTk:
+    def display_image(self, image_names):
+        if len(image_names) > 0 and Image and ImageTk:
+            image_name = image_names[0]  # Display the first image for now
             try:
                 # Look for image in Input directory
-                image_path = os.path.join('Quellen', image_name)
+                image_path = os.path.join(IMAGE_PATH, image_name)
                 if os.path.exists(image_path):
                     image = Image.open(image_path)
                     # Resize image to fit the window while maintaining aspect ratio
@@ -185,7 +192,7 @@ class RecipeBook:
                 print(f"Error loading image: {e}")
                 self.image_label.configure(image='', text=f"Error loading image: {image_name}")
         else:
-            self.image_label.configure(image='', text="No image available" if image_name else "")
+            self.image_label.configure(image='', text="No images available" if image_names else "")
 
     def delete_recipe(self):
         selection = self.recipe_list.selection()
@@ -238,6 +245,33 @@ class RecipeBook:
         self.instructions_text.delete('1.0', tk.END)
         self.notes_text.delete('1.0', tk.END)
         self.image_label.configure(image='', text='')
+
+    def delete_image(self):
+        selection = self.recipe_list.selection()
+        if not selection:
+            messagebox.showwarning("Warnung", "Bitte wählen Sie ein Rezept zum Speichern aus.")
+            return
+
+        recipe_name = self.recipe_list.item(selection[0])['values'][0]
+        recipe_index = next((i for i, r in enumerate(self.recipes) if r['Name'] == recipe_name), None)
+        
+        if recipe_index is not None:
+            # Update recipe data
+            self.recipes[recipe_index].update({
+                'Bild': []
+            })
+
+            # Save to file
+            try:
+                with open('Kochbuch.json', 'w', encoding='utf-8') as f:
+                    json.dump({'total': self.total_recipes, 'documents': self.recipes}, 
+                            f, ensure_ascii=False, indent=4)
+                messagebox.showinfo("Success", "Recipe saved successfully!")
+                
+                # Refresh the recipe list
+                self.populate_recipe_list(self.search_var.get())
+            except Exception as e:
+                messagebox.showerror("Error", f"Could not save recipe: {e}")
 
     def save_recipe(self):
         selection = self.recipe_list.selection()
