@@ -1,3 +1,28 @@
+Scan alle Dokument, welche ich in diesem Chat hochlade und gebe eine json-Datei in dem folgenden Format zurück:
+
+[
+  {
+    "Name": "Rezeptname",
+    "Kapitel": "Kapitelname",
+    "Serves": Anzahl der Portionen als Zahl,
+    "Dauer": Zubereitungsdauer in Minuten als Zahl,
+    "Zutaten": [
+      "Zutat 1",
+      "Zutat 2",
+      "...",
+      "Zutat n"
+    ],
+    "Anleitung": [
+      "Schritt 1",
+      "Schritt 2",
+      "...",
+      "Schritt n"
+    ],
+    "Bild": [Array von Bild-URLs oder leeres Array],
+    "Notes": "Zusätzliche Notizen zum Rezept"
+  },
+  ...
+]
 [
     {
         "Zutaten": [
@@ -14,7 +39,7 @@
             "2-3 EL pro Pfannkuchen in die Pfanne geben",
             "Warm servieren"
         ],
-        "Bild": null,
+        "Bild": [],
         "Name": "Pfannkuchen",
         "Kapitel": "Frühstück & Brunch",
         "Serves": 4,
@@ -42,11 +67,11 @@
             "Bei Mittelhitze (150°C) 15-20 Minuten backen.",
             "Noch heiß nochmals mit Honigwasser bestreichen."
         ],
-        "Bild": null,
+        "Bild": [],
         "Name": "Nürnberger Busserl",
         "Kapitel": "Kuchen und Gebäck",
         "Serves": 1,
         "Dauer": 30,
         "Notes": "Kleine Honigplätzchen, typisch weihnachtlich."
     }
-    ]
+]

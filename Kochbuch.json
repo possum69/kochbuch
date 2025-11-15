@@ -1,5 +1,5 @@
 {
-    "total": 104,
+    "total": 110,
     "documents": [
         {
             "Zutaten": [
@@ -2854,6 +2854,188 @@
             ],
             "Bild": [],
             "Notes": "Ideal für Pfannkuchen, Kartoffelpuffer oder Milchreis."
+        },
+        {
+            "Name": "Grünes Gemüse-Curry mit Süßkartoffel und Aubergine",
+            "Kapitel": "Vegetarische Gerichte",
+            "Serves": 4,
+            "Dauer": 30,
+            "Zutaten": [
+                "1 EL Öl",
+                "1 mittelgroße Zwiebel (gehackt)",
+                "1–2 EL grüne Currypaste (Fertigpaste)",
+                "375 ml Kokosmilch",
+                "250 ml Wasser",
+                "1 mittelgroße Süßkartoffel (ca. 300 g, gewürfelt)",
+                "1 mittelgroße Aubergine (ca. 200 g, geviertelt und in Scheiben geschnitten)",
+                "6 Kaffir-Limettenblätter",
+                "2 EL Fischsauce",
+                "2 EL Limettensaft",
+                "2 TL Limettenschale",
+                "2 TL brauner Zucker",
+                "frische Korianderblätter zum Garnieren"
+            ],
+            "Anleitung": [
+                "Öl in einer Pfanne erhitzen, Zwiebel glasig dünsten.",
+                "Currypaste zugeben, kurz anrösten.",
+                "Kokosmilch und Wasser angießen, Süßkartoffel und Aubergine zugeben.",
+                "Kaffir-Limettenblätter, Fischsauce, Limettensaft, Limettenschale und Zucker einrühren.",
+                "Bei mittlerer Hitze ca. 15–20 Minuten köcheln lassen, bis Gemüse weich ist.",
+                "Mit frischem Koriander garnieren und servieren."
+            ],
+            "Bild": [],
+            "Notes": "Gut zu variieren mit anderem Gemüse oder auch Pilz-Fleisch'."
+        },
+        {
+            "Name": "Rogan Josh",
+            "Kapitel": "Fleischgerichte",
+            "Serves": 4,
+            "Dauer": 90,
+            "Zutaten": [
+                "1 kg Lammfleisch",
+                "1 EL Ghee oder Öl",
+                "2 mittelgroße Zwiebeln (gehackt)",
+                "125 g Joghurt",
+                "1 TL Chilipulver",
+                "1 TL Koriander (gemahlen)",
+                "1 TL Kreuzkümmel (gemahlen)",
+                "1 TL Kardamom (gemahlen)",
+                "½ TL Gewürznelken (gemahlen)",
+                "1 TL Kurkuma (gemahlen)",
+                "5 Knoblauchzehen (zerdrückt)",
+                "1 EL frischer Ingwer (gerieben)",
+                "1 TL Salz",
+                "410 g Dosentomaten (kleingeschnitten)",
+                "30 g Mandelsplitter",
+                "3 TL Garam Masala",
+                "gehackte Korianderblätter zum Garnieren"
+            ],
+            "Anleitung": [
+                "Lammfleisch in 2,5 cm große Würfel schneiden.",
+                "Ghee in einer großen Pfanne erhitzen, Zwiebeln glasig braten.",
+                "Joghurt, Koriander, Kreuzkümmel, Kardamom, Knoblauch, Ingwer, Gewürznelken, Kurkuma und Chilipulver zugeben, gut mischen.",
+                "Tomaten und Salz zugeben, ohne Deckel 5 Minuten köcheln lassen.",
+                "Lammfleisch zugeben, zugedeckt bei schwacher Hitze 1–1½ Stunden köcheln lassen, gelegentlich umrühren.",
+                "Mandeln in einer trockenen Pfanne 3–4 Minuten rösten, herausnehmen.",
+                "Lammfleisch mit Garam Masala bestreuen, durchmischen, mit Mandeln und Korianderblättern garnieren."
+            ],
+            "Bild": [],
+            "Notes": "Geht auch mit Rind, ist aber besser mit Lamm."
+        },
+        {
+            "Name": "Rippchen nach Singapur-Art",
+            "Kapitel": "Fleischgerichte",
+            "Serves": 6,
+            "Dauer": 50,
+            "Zutaten": [
+                "2 TL Sesamöl",
+                "1 TL frischer Ingwer (fein gehackt)",
+                "3 Knoblauchzehen (zerdrückt)",
+                "2 EL Sojasauce",
+                "2 EL chinesischer Reiswein",
+                "1 TL 5-Gewürze-Pulver",
+                "2 EL Honig",
+                "1 TL Sambal Oelek",
+                "½ TL Salz",
+                "2 kg Schweinerippchen (in einzelne Rippenteile zerteilt, überflüssiges Fett entfernt)",
+                "2 EL chinesischer Schnittlauch (gehackt)",
+                "2 Zitronen (in Stücke geschnitten)"
+            ],
+            "Anleitung": [
+                "Sesamöl, Ingwer, Knoblauch, Sojasauce, Reiswein, 5-Gewürze-Pulver, Honig, Sambal Oelek und Salz in einer großen Schüssel mischen.",
+                "Schweinerippchen zugeben, gut mit Marinade überziehen, abdecken und mindestens 4 Stunden (besser über Nacht) marinieren.",
+                "Backofen auf 180 °C (Gas: Stufe 4) vorheizen.",
+                "Rippchen mit Marinade in eine eingefettete Form geben, 15 Min. garen, dann wenden und weitere 15 Min. braten.",
+                "Falls Marinade zu stark reduziert, etwas Wasser zugeben.",
+                "Mit Schnittlauch bestreuen, Zitronenstücke dazu servieren."
+            ],
+            "Bild": [],
+            "Notes": "Tipp: Für knusprige Rippchen Deckel am Ende abnehmen."
+        },
+        {
+            "Name": "Anzac Biscuits",
+            "Kapitel": "Süßspeisen",
+            "Serves": 1,
+            "Dauer": 30,
+            "Zutaten": [
+                "150 g Haferflocken",
+                "120 g Weizenmehl",
+                "70 g Kokosraspel",
+                "130 g Zucker",
+                "125 g Butter",
+                "1 EL Rohrzuckersirup",
+                "1/2 TL Soda",
+                "Mehl zum Formen",
+                "Butter für die Bleche"
+            ],
+            "Anleitung": [
+                "Mehl, Kokosraspel und Zucker mischen.",
+                "Butter mit Sirup schmelzen, Soda in heißem Wasser auflösen und unterrühren.",
+                "Ofen auf 150°C vorheizen.",
+                "Trockene Zutaten mit Buttermischung zu Teig vermengen.",
+                "Teig portionsweise auf Bleche setzen und flachdrücken.",
+                "10–15 Minuten backen, auskühlen lassen und in Dose aufbewahren."
+            ],
+            "Bild": [],
+            "Notes": "Am besten eine Woche nach dem Backen genießen."
+        },
+        {
+            "Name": "Fish 'n' Chips",
+            "Kapitel": "Fisch & Meeresfrüchte",
+            "Serves": 4,
+            "Dauer": 40,
+            "Zutaten": [
+                "1 Zitrone",
+                "4 feste weiße Fischfilets (je 150 g)",
+                "weißer Pfeffer",
+                "1 Ei",
+                "100 g Mehl",
+                "90 g Kartoffelstärke",
+                "Salz",
+                "700 g festkochende Kartoffeln",
+                "ca. 3 kg Pflanzenfett",
+                "Mehl zum Wenden"
+            ],
+            "Anleitung": [
+                "Zitrone in Spalten schneiden, Fisch mit Saft einreiben und pfeffern.",
+                "Eigelb mit Wasser, Mehl, Stärke und Salz verrühren.",
+                "Kartoffeln zu Stäbchen schneiden und bei 160°C frittieren.",
+                "Fisch salzen, in Mehl wenden, durch Teig ziehen und bei 180°C frittieren.",
+                "Chips fertig frittieren, alles salzen und servieren."
+            ],
+            "Bild": [],
+            "Notes": "Mit Sauce Tartar und eiskaltem Bier servieren."
+        },
+        {
+            "Name": "Spinatpie",
+            "Kapitel": "Vegetarische Gerichte",
+            "Serves": 15,
+            "Dauer": 100,
+            "Zutaten": [
+                "250 g Mehl",
+                "30 g Butter, zerkleinert",
+                "60 ml Olivenöl",
+                "125 ml warmes Wasser",
+                "400 g Spinat",
+                "1 Porreestange (weiß), in Scheiben",
+                "4 TL Muskatnuss, gerieben",
+                "2 TL frischer Dill, gehackt",
+                "100 g Fetakäse, zerbröckelt",
+                "1 EL Paniermehl",
+                "3 Eier, leicht geschlagen",
+                "2 EL Olivenöl"
+            ],
+            "Anleitung": [
+                "Backform einfetten.",
+                "Mehl und Salz sieben, Butter zugeben und krümelig mischen.",
+                "Öl und Wasser einarbeiten, Teig kneten und kühl stellen.",
+                "Spinat und Gemüse vorbereiten, mit Käse, Dill und Gewürzen mischen.",
+                "Teig ausrollen, Hälfte in die Form legen, Füllung darauf verteilen.",
+                "Restlichen Teig auflegen, Ränder abschneiden, Oberfläche einschneiden.",
+                "Bei 220°C 45–50 Minuten backen, warm servieren."
+            ],
+            "Bild": [],
+            "Notes": "Lieblingsgericht! Spinat leicht anbraten für besseren Geschmack."
         }
     ]
 }
