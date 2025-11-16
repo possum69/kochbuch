@@ -1,5 +1,5 @@
 {
-    "total": 131,
+    "total": 133,
     "documents": [
         {
             "Zutaten": [
@@ -766,16 +766,29 @@
         },
         {
             "Bild": [],
-            "Name": "Kartoffelsalat",
-            "Notes": "",
+            "Name": "Kartoffelsalat àla Papa",
+            "Notes": "Falls die Kartoffeln zu trocken sind mit etwas Brühe zusätzlich zu Essig und Öl begießen. Kümmel dient vorallem dazu den erdigen Geruch der Kartoffeln beim Kochen zu reduzieren.",
             "Serves": 5,
             "Kapitel": "Beilagen & Dips",
             "Dauer": 60,
             "Zutaten": [
-                ""
+                "1 Schnellkochtopf voller festkochender Kartoffeln",
+                "Wasser",
+                "etwas Kümmel",
+                "1 Ziebel",
+                "1 Bund Schnittlauch",
+                "Essig",
+                "Öl",
+                "Salz",
+                "Pfeffer ",
+                "ggf. etwas Brühe"
             ],
             "Anleitung": [
-                ""
+                "Kartoffeln waschen und mit etwas Wasser, Salz und Kümmel ca. 20 min auf Stufe 2 des Schnellkochtopfes kochen.",
+                "Topf abkühlen lassen, bis er geöffnet werden kann.",
+                "Kartoffeln noch heiß schälen und in Scheiben schneiden.",
+                "Ziebel und Schnittlauch fein hacken und mit den Kartoffelscheiben vorsichtig vermengen.",
+                "Salz mit Essig, Öl, Salz und Pfeffer würzen und heiß servieren."
             ]
         },
         {
@@ -1044,12 +1057,35 @@
                 "Rouladen.jpg"
             ],
             "Name": "Rouladen",
-            "Notes": "",
+            "Notes": "Markknochen zu den Rouladen ins Wasser legen um die Soße zu verbessern.",
             "Serves": 2,
             "Kapitel": "Braten",
             "Dauer": 120,
-            "Zutaten": [],
-            "Anleitung": []
+            "Zutaten": [
+                "4 Rouladen zu je 150 g",
+                "1 TL Senf",
+                "Salz",
+                "Pfeffer",
+                "50 g Speck",
+                "2 große Gewürzgurken",
+                "1 große Ziebel",
+                "1 EL Fett",
+                "1 Lorbeerblatt",
+                "Crème fráiche",
+                "evtl. 1 Markknochen"
+            ],
+            "Anleitung": [
+                "Rouladen waschen und trocken tupfen.",
+                "Zwiebeln fein hacken.",
+                "Gurken halbieren.",
+                "Mit Salz, Pfeffer würzen und mit Senf bestreichen,",
+                "danach mit einer Gurkenhälfte und etwas von den Ziebeln belegen.",
+                "Zu einer Rolle zusammen binden oder stecken.",
+                "Rouladen scharf im Schnellkochtopf anbraten.",
+                "1/4 Liter Wasser aufgießen,",
+                "Topf schließen und auf Stufe 2 ",
+                "20 min garen."
+            ]
         },
         {
             "Bild": [
@@ -1361,12 +1397,19 @@
             "Notes": "",
             "Serves": 5,
             "Kapitel": "Plätzchen",
-            "Dauer": 60,
+            "Dauer": 10,
             "Zutaten": [
-                ""
+                "375 g Butter",
+                "200 g Zucker",
+                "5 Eigelb",
+                "500 g Mehl"
             ],
             "Anleitung": [
-                ""
+                "Warme Butter, Eigelb und Zucker schaumig rühren.",
+                "Mehl unterrühren",
+                "Teig über Nacht im Kühlschrank ruhen lassen.",
+                "Teig auf Mehl dünn ausrollen und ausstechen",
+                "Auf Backpapier bei 160°C für 10 min backen."
             ]
         },
         {
@@ -2209,13 +2252,33 @@
             "Serves": 8,
             "Dauer": 150,
             "Zutaten": [
-                ""
+                "Kartoffeln",
+                "Süßkartoffeln",
+                "Möhren",
+                "Steckrübe",
+                "Knollensellerie",
+                "Pastinaten",
+                "Petersilienwurzel",
+                "Bohnen (aus der Dose oder vorgeweicht)",
+                "Zwiebeln",
+                "Öl",
+                "Tomaten (passiert oder gewürfelt)",
+                "Tomatenmark",
+                "Samal Olek",
+                "Chilipulver"
             ],
             "Anleitung": [
-                ""
+                "Knollen waschen, schälen und klein würfeln.",
+                "Zwiebeln schälen und grob würfeln.",
+                "Öl erhitzen und Knollen daran kurz andünsten dann Zwiebeln dazugeben und glasig dünsten.",
+                "Tomatenmark dazugeben und etwas anbraten",
+                "Tomaten zugeben und alles umrühren.",
+                "Bohnen aus der Dose vorher waschen und zur Suppe geben.",
+                "Alle solange bei niedriger Hitze so lange garen, bis die Knollen gar sind.",
+                "Mit Salz und Pfeffer, sowie Chili und Sambal Olek abschmecken."
             ],
             "Bild": [],
-            "Notes": ""
+            "Notes": "Bei den Knollen kann man verwenden, was gerade zur Verfügung steht. Zwiebeln machen die Sauce sämiger. Steckrübe schmeckt am Anfang etwas vor, daher gerne auch eine Chilischote mitkochen. Kann mit Rotwein oder rotem Balsamico-Essig noch verfeinert werden."
         },
         {
             "Name": "Schnelles Puten-Chili",
@@ -3309,13 +3372,57 @@
         {
             "Name": "Italienische Lasagne ",
             "Kapitel": "Auflauf",
-            "Serves": 3,
-            "Dauer": 60,
+            "Serves": 6,
+            "Dauer": 120,
             "Zutaten": [
-                ""
+                "1 kg Lasagneplatten",
+                "300 g Gouda, gerieben",
+                "200 g Kochschinkenin Streifen geschnitten",
+                "Für die Sauce: (Bolognese)",
+                "500 g Rinderhackfleisch",
+                "125 ml Rotwein",
+                "125 ml Olivenöl",
+                "5 kleine Möhren",
+                "1/4 Knolle Sellerie, einige Blätter vom Grün zur Seite legen",
+                "2 m.-große Zwiebeln",
+                "2 Zehen Knoblauch",
+                "5 Blätter Basilikum",
+                "etwas Petersilie",
+                "3 Pck. Tomate(n), passiert",
+                "1 Tube Tomatenmark",
+                "Salz und Pfeffer",
+                "Für die Sauce: (Béchamel)",
+                "125 g Butter oder Margarine",
+                "8 EL Mehl",
+                "1 Liter Milch",
+                "etwas Muskat",
+                "etwas Salz",
+                "etwas Zucker",
+                "Außerdem:",
+                "Käse, geriebener"
             ],
             "Anleitung": [
-                ""
+                "Möhren, Sellerie, Zwiebeln und Knoblauch schälen, Selleriegrün, Petersilie und Basilikum zufügen und in einer Küchenmaschine ganz fein hacken.",
+                "In einem Topf das Olivenöl heiß werden lassen und das Hackfleisch so lange anbraten, bis man kein rohes Fleisch mehr sieht.",
+                "Nun das gemahlene Gemüse hinzufügen und ca. 15 Min. unter ständigen Wenden braten.",
+                "Mit dem Rotwein ablöschen und weitere 10 Min. köcheln lassen.",
+                "Die passierten Tomaten und das Tomatenmark hinzufügen und mit Salz, Pfeffer und Zucker nach Geschmack würzen. ",
+                "Alles ca. 1 Stunde auf mittlerer Hitze kochen lassen. ",
+                "In einem etwas höheren Topf die Butter (oder Margarine) zerlassen und das Mehl hinzufügen.",
+                "Beide Zutaten durch stetes Rühren miteinander gut verbinden. ",
+                "Unter ständigen Rühren mit dem Schneebesen nun die Milch nach und nach hinzufügen. Die Sauce Béchamel muss etwas zähflüssig sein. ",
+                "Den Topf von der Herdplatte nehmen und die Sauce mit Muskat und Salz abschmecken.",
+                "Die Nudelplatten in einem hohen Topf mit Wasser, Salz und ein Glas Pflanzenöl ca. 6 Min. kochen.",
+                "Die Teigplatten müssen einzeln in kochende Wasser geben werden, da sie sonst zusammen kleben. ",
+                "Nach der Kochzeit die Nudeln unter fließendem kaltem Wasser abkühlen lassen und in einem Nudelsieb abtropfen lassen.",
+                "Alternativ kann man auch Nudelplatten verwenden, die nicht vorher abgekocht werden müssen.",
+                "In eine Backform (am besten länglich oder oval) etwas Bolognesesauce füllen, dann eine Lage Lasagneplatten einschichten. ",
+                "Diese dünn mit Béchamelsauce bestreichen. ",
+                "Erneut Bolognesesauce darauf verteilen und diese dann mit etwas von dem Schinken belegen. ",
+                "Diese Reihenfolge so lange immer wiederholen, bis alle Teigplatten verbraucht sind. ",
+                "Die letzte Schicht sollte aus Béchamelsauce, Bolognesesauce und dem geriebenen Käse bestehen. ",
+                "Im vorgeheizten Backofen bei 200 °C ca. 40 Min. backen. ",
+                "Der Käse sollte eine leichte goldgelbe Kruste bilden."
             ],
             "Notes": ""
         },
@@ -3325,10 +3432,18 @@
             "Serves": 10,
             "Dauer": 60,
             "Zutaten": [
-                ""
+                "2,5 kg Weißkraut",
+                "10 Wachholderbeeren",
+                "2 Lorbeerblätter",
+                "Kümmel (nach Geschmack)",
+                "50 g unraffiniertes Meersalz"
             ],
             "Anleitung": [
-                ""
+                "Weißkraut hobeln",
+                "Weißkraut mit dem Salz in einer großen Edelstahlschüssel portionsweiße stampfen.",
+                "Portionsweise in einen Gärtopf einstampfen.",
+                "Zwischen den Lagen Wacholderbeeren, Lorbeerblätter und Kümmel geben.",
+                "Mindestens 6 Wochen gären lassen."
             ],
             "Notes": ""
         },
@@ -3338,10 +3453,21 @@
             "Serves": 4,
             "Dauer": 15,
             "Zutaten": [
-                ""
+                "1 Kopf Blaukraut",
+                "1 EL Salz",
+                "200 ml kochendes Essigwasser",
+                "2 Äpfel",
+                "1/2 Zwiebel",
+                "1 Prise Zucker",
+                "3 EL Öl"
             ],
             "Anleitung": [
-                ""
+                "Blaukraut putzen und fein hobeln.",
+                "Mit etwas Saltz lagenweise gut stampfen.",
+                "1/2 Stunde ziehen lassen.",
+                "Mit Essigwasser überbrühen, etwas ziehen lassen und abseihen.",
+                "Mit fein gehacketer Zwiebel und geriebenen Apfel vermischen.",
+                "Mit Öl verfeinern."
             ],
             "Notes": ""
         },
@@ -3385,56 +3511,96 @@
             "Notes": ""
         },
         {
-            "Name": "Bärlauch Pesto",
+            "Name": "Bärlauchpesto",
             "Kapitel": "Beilagen & Dips",
-            "Serves": 5,
-            "Dauer": 60,
+            "Serves": 4,
+            "Dauer": 15,
             "Zutaten": [
-                ""
+                "75 g Pinienkerne",
+                "25 g Mandel(n)geschält und evtl. grob gehackt",
+                "100 g Parmesan",
+                "75 g Bärlauch",
+                "2 Zehen Knoblauch",
+                "1 TL, gestr. Salz",
+                "100 ml Rapsöl oder Sonnenblumenöl",
+                "150 ml Olivenöl"
             ],
             "Anleitung": [
-                ""
+                "Bärlauch waschen, ",
+                "Stiele abschneiden und ",
+                "am besten in der Salatschleuder trocken schleudern. ",
+                "Pinienkerne und Mandeln in einer Pfanne trocken anrösten. ",
+                "Parmesan in grobe Stücke schneiden, ",
+                "Knoblauch schälen.",
+                "Alles zusammen in einen Mixer geben und fein pürieren. ",
+                "Bei Bedarf etwas mehr Öl zugeben, so wie man die Konsistenz am liebsten mag."
             ],
-            "Notes": ""
+            "Notes": "Schmeckt lecker mit Nudeln oder auch auf Baguette oder Ciabatta."
         },
         {
-            "Name": "Girsch Pesto",
+            "Name": "Giersch-Pesto",
             "Kapitel": "Beilagen & Dips",
             "Serves": 5,
-            "Dauer": 60,
+            "Dauer": 15,
             "Zutaten": [
-                ""
+                "100 g Giersch",
+                "6 Zehen Knoblauch",
+                "100 g Parmesan, gerieben",
+                "250 ml Olivenöl",
+                "75 g Pinienkerne"
             ],
             "Anleitung": [
-                ""
+                "Den Giersch und die Wildkräuter gut waschen, trocken schütteln und von dickeren Stängeln befreien. ",
+                "Die Knoblauchzehen abziehen. ",
+                "Die Kräuter und Knoblauch fein hacken. ",
+                "Die Pinienkerne (evtl. mit etwas Öl) anrösten und ebenfalls hacken.",
+                "Alle Zutaten in einer Schüssel mit dem Parmesan oder Pecorino mischen. ",
+                "Das Olivenöl nach und nach unterrühren, bis alles gut vermengt ist. ",
+                "Das Pesto in ein verschließbares Glas geben und mit eventuell übrig gebliebenem Öl bedecken - so hält es sich länger."
             ],
-            "Notes": ""
+            "Notes": "Beim Pflücken des Giersch möglichst nur kleine, frische Blätter ernten, da die Großen mitunter recht bitter schmecken. Wer möchte, mischt den Giersch noch mit anderen Wildkräutern oder nimmt nur Wildkräuter.\n\nDie Knoblauchmenge erscheint sehr groß, aber da Giersch einen würzigeren Eigengeschmack hat als Basilikum, ist sie nicht übertrieben. Aus demselben Grund ist die Käsemenge hier reichlicher bemessen, als bei Basilikumpesto."
         },
         {
-            "Name": "Apfelkuchen",
+            "Name": "Apfel-Streuselkuchen",
             "Kapitel": "Kuchen und Torten",
             "Serves": 8,
             "Dauer": 70,
             "Zutaten": [
-                ""
+                "Grundrezept Hefeteig",
+                "Grundrezept Streusel",
+                "4-5 Äpfel",
+                "etwas Butter"
             ],
             "Anleitung": [
-                ""
+                "Hefeteig und Streusel herstellen.",
+                "Äpfel ggf. schälen und in feine Spalten schneiden",
+                "Hefeteig auf dem einem gefettetem Blech ausrollen und ",
+                "zugedeckt an einem warmen Ort nocht etwas gehen lassen.",
+                "Äpfel auf dem Teig verteilen.",
+                "Streusel auf den Äpfel verteilen.",
+                "In den Ofen schieben und backen."
             ],
-            "Notes": ""
+            "Notes": "Backen bei 200-210°C Ober/Unterhitze ca. 20-25 Minuten."
         },
         {
-            "Name": "Husaren Krapfen",
+            "Name": "Husarenkrapfen",
             "Kapitel": "Plätzchen",
-            "Serves": 20,
-            "Dauer": 40,
+            "Serves": 5,
+            "Dauer": 10,
             "Zutaten": [
-                ""
+                "150 g Butter",
+                "100 g Zucker",
+                "250 g Mehl",
+                "2 Eigelb",
+                "Erdbeermarmelade"
             ],
             "Anleitung": [
                 ""
             ],
-            "Notes": ""
+            "Notes": "",
+            "Bild": [
+                "Butterplätzchen.jpg"
+            ]
         },
         {
             "Name": "Butterbier",
@@ -3521,6 +3687,38 @@
                 "Suppe pürieren, Milch und Zitronensaft einrühren, abschmecken."
             ],
             "Notes": "Optional: Crème fraîche, Cumin, Chili."
+        },
+        {
+            "Name": "Chili con carne",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 8,
+            "Dauer": 150,
+            "Zutaten": [
+                "3 Zwiebeln",
+                "3 Knoblauchzehen",
+                "250 g Möhren",
+                "200 g Sellerie",
+                "Paprika",
+                "750 g Tomaten",
+                "4 EL Öl",
+                "500 g Rinderhack",
+                "1/4 l Rotwein",
+                "1/4 l Brühe",
+                "Thymian",
+                "Chilipulver",
+                "Salz, Pfeffer",
+                "Kidneybohnen",
+                "frische Kräuter"
+            ],
+            "Anleitung": [
+                "Gemüse hacken, Tomaten häuten.",
+                "Hackfleisch anbraten, Zwiebeln und Knoblauch zugeben.",
+                "Gemüse und Tomaten einrühren.",
+                "Mit Wein und Brühe ablöschen, würzen.",
+                "1-1,5 Std. schmoren, Bohnen zugeben, weitere 15 Min. kochen."
+            ],
+            "Bild": [],
+            "Notes": "Lecker, aber mild – nachwürzen!"
         }
     ]
 }
