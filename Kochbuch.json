@@ -1,5 +1,5 @@
 {
-    "total": 117,
+    "total": 131,
     "documents": [
         {
             "Zutaten": [
@@ -46,7 +46,7 @@
             ],
             "Bild": [],
             "Name": "Nürnberger Busserl",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 1,
             "Dauer": 30,
             "Notes": "Kleine Honigplätzchen, typisch weihnachtlich."
@@ -74,7 +74,7 @@
             ],
             "Bild": [],
             "Name": "Hildatörtchen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 65,
             "Dauer": 45,
             "Notes": "Klassische Doppelkekse mit Marmeladefüllung."
@@ -137,7 +137,7 @@
             ],
             "Bild": [],
             "Name": "Nürnberger Lebkuchen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 20,
             "Dauer": 40,
             "Notes": "Schwache Hitze verwenden, damit die Lebkuchen nicht zu dunkel werden."
@@ -160,7 +160,7 @@
             ],
             "Bild": [],
             "Name": "Bischofshütchen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 30,
             "Dauer": 45,
             "Notes": "Makronenmasse vorsichtig unterheben, damit die Masse luftig bleibt."
@@ -183,7 +183,7 @@
             ],
             "Bild": [],
             "Name": "Ischler Plätzchen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 30,
             "Dauer": 50,
             "Notes": "Kalt lagern, schmecken nach einigen Tagen noch besser."
@@ -204,7 +204,7 @@
             ],
             "Bild": [],
             "Name": "Spitzbuben",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 60,
             "Dauer": 50,
             "Notes": "Plätzchen lassen sich gut einfrieren."
@@ -227,7 +227,7 @@
             ],
             "Bild": [],
             "Name": "Zimtsterne",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 40,
             "Dauer": 40,
             "Notes": "Schwache Hitze verwenden, damit die Baiserhaube nicht bräunt."
@@ -253,7 +253,7 @@
             ],
             "Bild": [],
             "Name": "Nougatecken",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 30,
             "Dauer": 45,
             "Notes": "Nougatmasse vorher glatt rühren, nicht zu heiß verwenden."
@@ -278,7 +278,7 @@
             ],
             "Bild": [],
             "Name": "Kirsch-Nuss-Kuchen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 8,
             "Dauer": 75,
             "Notes": "Eier trennen und Eiweiß steif schlagen für lockere Konsistenz."
@@ -305,7 +305,7 @@
             ],
             "Bild": [],
             "Name": "Ostpreußischer Pfefferkuchen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 12,
             "Dauer": 60,
             "Notes": "Gewürzkuchen entfaltet sein volles Aroma erst nach einem Tag."
@@ -332,7 +332,7 @@
             ],
             "Bild": [],
             "Name": "Gewürzkuchen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 8,
             "Dauer": 70,
             "Notes": "Teig entfaltet erst nach einem Tag sein volles Aroma."
@@ -359,7 +359,7 @@
             ],
             "Bild": [],
             "Name": "Klassischer Marmorkuchen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 8,
             "Dauer": 70,
             "Notes": "Garprobe mit Holzspieß durchführen."
@@ -387,7 +387,7 @@
             ],
             "Bild": [],
             "Name": "Tiroler Schokoladenkuchen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 8,
             "Dauer": 80,
             "Notes": "Teig vorsichtig unterheben, um die Luftigkeit zu erhalten."
@@ -414,7 +414,7 @@
             ],
             "Bild": [],
             "Name": "Gefüllte Mandelstangen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 30,
             "Dauer": 45,
             "Notes": "Teig kaltstellen erleichtert das Ausrollen. Mandeln gleichmäßig verteilen."
@@ -442,7 +442,7 @@
             ],
             "Bild": [],
             "Name": "Gefüllte Schokoladenhörnchen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 30,
             "Dauer": 50,
             "Notes": "Hörnchen auf Pergamentpapier spritzen, damit sie nicht kleben."
@@ -464,7 +464,7 @@
             ],
             "Bild": [],
             "Name": "Nußstangen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 30,
             "Dauer": 40,
             "Notes": "Kaltstellen erleichtert das Formen der Rollen."
@@ -488,7 +488,7 @@
             ],
             "Bild": [],
             "Name": "Butterblumen (Butterplätzchen)",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 30,
             "Dauer": 40,
             "Notes": "Kaltstellen erleichtert das Ausrollen."
@@ -606,26 +606,6 @@
             "Notes": "Passt hervorragend zu Pasta, Kartoffeln, gegrilltem Gemüse oder als Brotaufstrich. Im Kühlschrank mit Öl bedeckt ca. 1 Woche haltbar."
         },
         {
-            "Name": "Kräutertoast àl Ida",
-            "Zutaten": [
-                "4 Toastscheiben",
-                "2 Ecken Kräuterschmelzkäse (je ca. 60 g)",
-                "50 g Butter, geschmolzen",
-                "150 g gekochter Schinken, klein geschnitten",
-                "Schnittlauch, fein gehackt"
-            ],
-            "Anleitung": [
-                "Den Kräuterschmelzkäse mit der geschmolzenen Butter verrühren.",
-                "Den klein geschnittenen Schinken und den gehackten Schnittlauch untermischen.",
-                "Die Mischung gleichmäßig auf die Toastscheiben streichen.",
-                "Die Toasts bei 250°C etwa 10-15 Minuten überbacken, bis sie goldbraun sind."
-            ],
-            "Serves": 2,
-            "Dauer": 20,
-            "Notes": "Schmeckt besonders gut frisch aus dem Ofen. Optional mit etwas Paprikapulver oder Pfeffer würzen.",
-            "Kapitel": "Schnelle Küche"
-        },
-        {
             "Bild": [],
             "Name": "Dattelcreme",
             "Notes": "von Felix G.",
@@ -685,7 +665,7 @@
             "Name": "Gefüllte Plätzchen",
             "Notes": "",
             "Serves": 1,
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Dauer": 60,
             "Zutaten": [
                 "120g Zucker",
@@ -785,38 +765,17 @@
             ]
         },
         {
-            "Bild": [
-                "Klöße Grün1.jpg",
-                "Klöße Grün2.jpg"
-            ],
-            "Name": "Grüne Klöße",
-            "Notes": "Das Wasser darf nur am Anfang sprudeln. Zum Ziehen lassen den Topf nicht zudecken!",
+            "Bild": [],
+            "Name": "Kartoffelsalat",
+            "Notes": "",
             "Serves": 5,
             "Kapitel": "Beilagen & Dips",
             "Dauer": 60,
             "Zutaten": [
-                "20 Kartoffeln, mehlig kochende",
-                "Salz",
-                "Wasser",
-                "Knödelhilfe",
-                "Kartoffelmehl",
-                "gerötete Weißbrotwürfel (\"Greebala\")"
+                ""
             ],
             "Anleitung": [
-                "2/3 der Kartoffen in etwas Wasser und Knödekhilfein eine Schüssel reiben.",
-                "Gut durchmischen",
-                "Den Rest der Kartoffen schälen und kochen",
-                "Die geriebenen Kartoffeln gut auspressen,",
-                "in eine Schüssel geben und auflockern und salzen.",
-                "Mit kochendem Wasser brühen (nicht zuviel sonst wird der Teig zu weich)",
-                "Gekochte Kartoffeln durch die Presse darauf geben",
-                "ca. 2 EL Kartoffelmehl überstreuen und ",
-                "das Ganze erst mit Holzlöffel dann mit den Händen kräftig durchkneten.",
-                "Mit nassen Händen Klöße formen.",
-                "In die Mitte der Klöße \"Greebala\" geben.",
-                "Die Klöße in reichlich kochendes Salzwasser gleiten lassen ",
-                "Temperatur reduzieren und",
-                "in ca. 25min fertig ziehen lassen."
+                ""
             ]
         },
         {
@@ -847,7 +806,7 @@
             "Name": "Nußkranz",
             "Notes": "",
             "Serves": 4,
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Dauer": 60,
             "Zutaten": [
                 "Etwas Fett",
@@ -873,7 +832,7 @@
             "Name": "Oma's Quarktorte",
             "Notes": "",
             "Serves": 8,
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Dauer": 90,
             "Zutaten": [
                 "125g Butter",
@@ -895,7 +854,7 @@
             "Name": "Ottilien Kuchen",
             "Notes": "",
             "Serves": 8,
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Dauer": 60,
             "Zutaten": [
                 "250g Butter",
@@ -1057,7 +1016,7 @@
             "Name": "Rotweinkuchen",
             "Notes": "",
             "Serves": 9,
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Dauer": 120,
             "Zutaten": [
                 "200g Butter",
@@ -1099,7 +1058,7 @@
             "Name": "Schoko-Mandel-Plätzchen",
             "Notes": "",
             "Serves": 5,
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Dauer": 30,
             "Zutaten": [
                 "500g Schokolade (Vollmilch oder Zartbitter)",
@@ -1339,7 +1298,7 @@
             "Bild": [
                 "Zuchiniauflauf (Mama).jpg"
             ],
-            "Name": "Zucchini-Auflauf á la Mami",
+            "Name": "Zucchini-Auflauf ála Mami",
             "Notes": "",
             "Serves": 4,
             "Kapitel": "Auflauf",
@@ -1401,10 +1360,14 @@
             "Name": "Butterplätzchen",
             "Notes": "",
             "Serves": 5,
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Dauer": 60,
-            "Zutaten": [],
-            "Anleitung": []
+            "Zutaten": [
+                ""
+            ],
+            "Anleitung": [
+                ""
+            ]
         },
         {
             "Name": "Gemüsetörtchen mit Lachs",
@@ -1524,7 +1487,7 @@
             "Dauer": 30
         },
         {
-            "Name": "Grundrezept Quarkblätterteig",
+            "Name": "Quarkblätterteig",
             "Zutaten": [
                 "250 g Magerquark",
                 "250 g Mehl",
@@ -1568,7 +1531,7 @@
                 "Warm oder kalt servieren."
             ],
             "Notes": "Ergibt ca. 8 Stücke. Backzeit insgesamt ca. 30 Minuten.",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 8,
             "Dauer": 30
         },
@@ -1599,7 +1562,7 @@
                 "Orangenschale darüberstreuen."
             ],
             "Notes": "Backzeit ca. 20 Minuten. Ergibt ein Blech.",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 1,
             "Dauer": 20
         },
@@ -1630,7 +1593,7 @@
                 "Bei mittlerer Hitze 15–20 Minuten backen."
             ],
             "Notes": "Klassisches Weihnachtsgebäck. Backzeit: 15–20 Minuten.",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 1,
             "Dauer": 20
         },
@@ -1655,7 +1618,7 @@
                 "Weitere 15 Min. backen."
             ],
             "Notes": "Ergibt ein Blech.",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 1,
             "Dauer": 45
         },
@@ -1680,7 +1643,7 @@
                 "Mit Zitronensaft und Zucker tränken."
             ],
             "Notes": "Ergibt eine Springform.",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 1,
             "Dauer": 60
         },
@@ -1705,7 +1668,7 @@
             "Dauer": 10
         },
         {
-            "Name": "Grundrezept Brandteig",
+            "Name": "Brandteig",
             "Zutaten": [
                 "1/4 l Wasser",
                 "1 Prise Salz",
@@ -1752,7 +1715,7 @@
                 "Deckel aufsetzen, mit Puderzucker bestäuben."
             ],
             "Notes": "Ergibt ca. 10 Stück.",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 10,
             "Dauer": 45
         },
@@ -1789,12 +1752,12 @@
                 "Schnitten füllen, Deckel aufsetzen."
             ],
             "Notes": "Ergibt ca. 12 Stück.",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 12,
             "Dauer": 35
         },
         {
-            "Name": "Grundrezept Blätterteig",
+            "Name": "Blätterteig",
             "Zutaten": [
                 "75 g Mehl",
                 "200 g Sanella (gut gekühlt)",
@@ -1839,7 +1802,7 @@
                 "Abtropfen lassen, mit Puderzucker bestäuben."
             ],
             "Notes": "Ergibt ca. 25 Stück.",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 25,
             "Dauer": 60
         },
@@ -1847,13 +1810,24 @@
             "Bild": [
                 "Kräuertoast (Ida).jpg"
             ],
-            "Name": "Kräuertoast (Ida)",
-            "Notes": "",
-            "Serves": 1,
+            "Name": "Kräutertoast àl'Ida",
+            "Notes": "Schmeckt besonders gut frisch aus dem Ofen. Optional mit etwas Paprikapulver oder Pfeffer würzen.",
+            "Serves": 2,
             "Kapitel": "Schnelle Küche",
             "Dauer": 20,
-            "Zutaten": [],
-            "Anleitung": []
+            "Zutaten": [
+                "4 Toastscheiben",
+                "2 Ecken Kräuterschmelzkäse (je ca. 60 g)",
+                "50 g Butter, geschmolzen",
+                "150 g gekochter Schinken, klein geschnitten",
+                "Schnittlauch, fein gehackt"
+            ],
+            "Anleitung": [
+                "Den Kräuterschmelzkäse mit der geschmolzenen Butter verrühren.",
+                "Den klein geschnittenen Schinken und den gehackten Schnittlauch untermischen.",
+                "Die Mischung gleichmäßig auf die Toastscheiben streichen.",
+                "Die Toasts bei 250°C etwa 10-15 Minuten überbacken, bis sie goldbraun sind."
+            ]
         },
         {
             "Zutaten": [
@@ -2015,7 +1989,7 @@
             ],
             "Bild": [],
             "Name": "Marzipanschnitten",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 12,
             "Dauer": 50,
             "Notes": "Weihnachtlich und aromatisch."
@@ -2044,7 +2018,7 @@
             ],
             "Bild": [],
             "Name": "Gewürzschnitten",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 12,
             "Dauer": 45,
             "Notes": "Würzig und festlich."
@@ -2075,7 +2049,7 @@
             ],
             "Bild": [],
             "Name": "Maulwurftorte",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Kuchen und Torten",
             "Serves": 12,
             "Dauer": 90,
             "Notes": "Optisch beeindruckend."
@@ -2230,36 +2204,18 @@
             "Notes": "Wieder machen! Tipp: Für Kinder Wein durch Brühe ersetzen."
         },
         {
-            "Name": "Chili con carne",
+            "Name": "Chili sin carne",
             "Kapitel": "Suppen und Eintöpfe",
             "Serves": 8,
             "Dauer": 150,
             "Zutaten": [
-                "3 Zwiebeln",
-                "3 Knoblauchzehen",
-                "250 g Möhren",
-                "200 g Sellerie",
-                "Paprika",
-                "750 g Tomaten",
-                "4 EL Öl",
-                "500 g Rinderhack",
-                "1/4 l Rotwein",
-                "1/4 l Brühe",
-                "Thymian",
-                "Chilipulver",
-                "Salz, Pfeffer",
-                "Kidneybohnen",
-                "frische Kräuter"
+                ""
             ],
             "Anleitung": [
-                "Gemüse hacken, Tomaten häuten.",
-                "Hackfleisch anbraten, Zwiebeln und Knoblauch zugeben.",
-                "Gemüse und Tomaten einrühren.",
-                "Mit Wein und Brühe ablöschen, würzen.",
-                "1-1,5 Std. schmoren, Bohnen zugeben, weitere 15 Min. kochen."
+                ""
             ],
             "Bild": [],
-            "Notes": "Lecker, aber mild – nachwürzen!"
+            "Notes": ""
         },
         {
             "Name": "Schnelles Puten-Chili",
@@ -2639,7 +2595,7 @@
         },
         {
             "Name": "Shahi Korma (Lamm in Mandel-Joghurtsauce)",
-            "Kapitel": "Fisch & Meeresfrüchte",
+            "Kapitel": "Fleischgerichte",
             "Serves": 4,
             "Dauer": 60,
             "Zutaten": [
@@ -2954,7 +2910,7 @@
         },
         {
             "Name": "Anzac Biscuits",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Plätzchen",
             "Serves": 1,
             "Dauer": 30,
             "Zutaten": [
@@ -3119,31 +3075,38 @@
             "Notes": "Am besten einen Tag vorher zubereiten für intensiven Geschmack."
         },
         {
-            "Name": "Kürbissuppe",
+            "Name": "Kürbissuppe mit Orangen-Gremolata",
             "Kapitel": "Suppen und Eintöpfe",
             "Serves": 4,
-            "Dauer": 35,
+            "Dauer": 60,
             "Zutaten": [
-                "1 EL Sonnenblumenöl",
+                "1 kg Kürbis",
+                "2 Zwiebeln",
+                "30g Ingwer",
                 "2 EL Butter",
-                "1 große Zwiebel, in Scheiben",
-                "700 g Kürbisstücke",
-                "450 g Kartoffelscheiben",
                 "600 ml Gemüsebrühe",
-                "600 ml Milch",
-                "1 TL Estragon",
-                "1 TL Zitronensaft",
-                "Muskat",
-                "Salz und schwarzer Pfeffer"
+                "1 rote Peperoni",
+                "1/2 Bund Petersilie",
+                "Orangenschale (aus den Backzutaten)",
+                "Saft einer Orange",
+                "125 g Sahne",
+                "Salz",
+                "Peffer"
             ],
             "Anleitung": [
-                "Öl und Butter erhitzen, Zwiebel 4–5 Minuten dünsten.",
-                "Kürbis und Kartoffeln zugeben, 10 Minuten dünsten.",
-                "Brühe, Muskat, Estragon und Gewürze einrühren, 10 Minuten köcheln.",
-                "Suppe pürieren, Milch und Zitronensaft einrühren, abschmecken."
+                "Butter erhitzen",
+                "Zwiebel 4–5 Minuten dünsten.",
+                "Kürbis und Ingwer zugeben",
+                "10 Minuten dünsten und danach Gemüsebrühe angießen.",
+                "Bei schwacher Hitze 20 min garen.",
+                "Suppe pürieren, Sahne und Orangensaft einrühren und mit Salz und Peffer abschmecken.",
+                "Peperoni fein hacken und mit Orangenschale und Petersilie zur Gremolata vermengen.",
+                "Gremolata separat servieren und Suppe auf dem Teller damit bestreuen."
             ],
-            "Bild": [],
-            "Notes": "Optional: Crème fraîche, Cumin, Chili."
+            "Bild": [
+                "Kürbissuppe.jpeg"
+            ],
+            "Notes": "Vorsicht! Gremolata abhängig von der Peperoni ggf. sehr scharf."
         },
         {
             "Name": "Lauchsuppe mit Thymian",
@@ -3233,7 +3196,7 @@
             "Notes": "Indisch inspiriert, würzig und leicht cremig. Perfekt mit Naan-Brot."
         },
         {
-            "Name": "Nasi Goreng ala Papa",
+            "Name": "Nasi Goreng àla Papa",
             "Kapitel": "Vegetarische Gerichte",
             "Serves": 5,
             "Dauer": 30,
@@ -3276,6 +3239,288 @@
                 "Vor dem Servieren noch die Eier auf dem Essen verteilen."
             ],
             "Notes": "Vorsicht mit der Fischsauce. Die ist sehr geschmacksbestimmend."
+        },
+        {
+            "Name": "China-Topf",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 4,
+            "Dauer": 25,
+            "Zutaten": [
+                "100 g Glasnudeln",
+                "1 Bund Frühlingszwiebeln",
+                "1 große rote Paprika",
+                "1 walnussgroßes Stück Ingwer",
+                "1 EL Sesamöl",
+                "200 g Rinderhackfleisch oder eine große Zucchini",
+                "Pfeffer",
+                "Sojasuace",
+                "1 Liter Gemüsebrühe",
+                "1 Bund Petersilie"
+            ],
+            "Anleitung": [
+                "Glasnudeln nach Anleitung vorbereiten",
+                "Frühlingszwiebeln waschen, putzen und in dünne Ringe schneiden",
+                "Zucchini und Paprika waschen, putzen und klein Würfeln",
+                "Ingwer schälen und in Scheiben schneiden",
+                "Öl in Wok erhitzen und ",
+                "Hackfleisch krümelig und leich braun anbraten alternativ Zucchini andünsten",
+                "Frühlingszwiebeln, Paprika und Ingwer zugeben und 3 min mitbraten",
+                "Glasnudeln und 2 EL Sojasauce dazugeben",
+                "mit der Gemüsebrühe auffüllen und zum Kochen bringen",
+                "5 min köcheln lassen.",
+                "Petersilie kleinschneiden und vor dem Servieren auf das Essen streuen."
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Zupfbrot",
+            "Kapitel": "Beilagen & Dips",
+            "Serves": 8,
+            "Dauer": 60,
+            "Zutaten": [
+                "1 Päckchen Hefe",
+                "500g Weizenmehl (Type 550)",
+                "2 TL Salz",
+                "1 TL Zucker",
+                "50g Olivenöl zzgl. etwas mehr zum Bestreichen",
+                "150g weiche Butter",
+                "1 Schalotte, fein gehackt",
+                "1 Bund Petersilie, fein gehackt",
+                "2 Knoblauchzehen, durchgepresst",
+                "1 Prise Kräutersalz",
+                "Pfeffer"
+            ],
+            "Anleitung": [
+                "Hefe und Mehl verrühren.",
+                "Salz, Zucker und 270ml Wasser dazugeben.",
+                "Mit dem Knethaken eines Rührgeräts durcharbeiten.",
+                "Zuletzt das Öl hinzufügen; weiterkneten, bis ich der Teig vom Schüsselrand löst.",
+                "DEn Teig nochmals kräftig mit den Händen durchkneten, zu einer Kugel formen und mit etwas Öl bestreichen.",
+                "Zugedeckt an einem warmen Ort 1 Stunde gehen lassen.",
+                "Die weiche Butter sehr cremig rühren und die Schalotte mit Petersilie und Knoblauch unterrühren.",
+                "Mit Kräutersalz und Pfeffer abschmecken; beiseitestellen und eine Kastenform (30 cm) mit Backpapier auslegen.",
+                "Den Teig kräftig aud einer bemehlten Arbeitsfläche durchkneten und ca.30*50 cm groß ausrollen und gleichmäßig mit der Kräuterbutter bestreichen.",
+                "Dann quer in 7 Streifen schneiden (ca.30*7cm) und mit der Füllung nach oben in zwei \"Stapeln\" übereinander legen.Diese \"Stapel\" jeweils quer in vier Stücke (7,5*7cm) schneiden.Anschließend alle Teigstücke hochkant in die vorbereitete Backform stellen und abgedeckt 30 Minuten ruhen lassen.",
+                "Den Backofen auf 200°C vorheizen.Die Backform hineinstellen, Hitze auf 180°C reduzieren und 30-35 Minuten backen.",
+                "Das Brot aus dem Ofen nehmen, 15 Minuten ruhen lassen und vorsichtig aus der Backform heben."
+            ],
+            "Notes": "Schmeckt am besten lauwarm."
+        },
+        {
+            "Name": "Italienische Lasagne ",
+            "Kapitel": "Auflauf",
+            "Serves": 3,
+            "Dauer": 60,
+            "Zutaten": [
+                ""
+            ],
+            "Anleitung": [
+                ""
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Sauerkraut",
+            "Kapitel": "Fermentiertes Gemüse",
+            "Serves": 10,
+            "Dauer": 60,
+            "Zutaten": [
+                ""
+            ],
+            "Anleitung": [
+                ""
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Blaukraut",
+            "Kapitel": "Rohkost und Salate",
+            "Serves": 4,
+            "Dauer": 15,
+            "Zutaten": [
+                ""
+            ],
+            "Anleitung": [
+                ""
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Lachs mit Zitronencremesauce",
+            "Kapitel": "Fisch & Meeresfrüchte",
+            "Serves": 12,
+            "Dauer": 20,
+            "Zutaten": [
+                ""
+            ],
+            "Anleitung": [
+                ""
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Hamburger àla Tobias",
+            "Kapitel": "Fleischgerichte",
+            "Serves": 4,
+            "Dauer": 90,
+            "Zutaten": [
+                ""
+            ],
+            "Anleitung": [
+                ""
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Gemüsespieße für Heilig Abend",
+            "Kapitel": "Fleischgerichte",
+            "Serves": 4,
+            "Dauer": 90,
+            "Zutaten": [
+                ""
+            ],
+            "Anleitung": [
+                ""
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Bärlauch Pesto",
+            "Kapitel": "Beilagen & Dips",
+            "Serves": 5,
+            "Dauer": 60,
+            "Zutaten": [
+                ""
+            ],
+            "Anleitung": [
+                ""
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Girsch Pesto",
+            "Kapitel": "Beilagen & Dips",
+            "Serves": 5,
+            "Dauer": 60,
+            "Zutaten": [
+                ""
+            ],
+            "Anleitung": [
+                ""
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Apfelkuchen",
+            "Kapitel": "Kuchen und Torten",
+            "Serves": 8,
+            "Dauer": 70,
+            "Zutaten": [
+                ""
+            ],
+            "Anleitung": [
+                ""
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Husaren Krapfen",
+            "Kapitel": "Plätzchen",
+            "Serves": 20,
+            "Dauer": 40,
+            "Zutaten": [
+                ""
+            ],
+            "Anleitung": [
+                ""
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Butterbier",
+            "Kapitel": "Getränke",
+            "Serves": 4,
+            "Dauer": 0,
+            "Zutaten": [
+                "1 TL Butter",
+                "2 EL Rohrzucker",
+                "1 Vanilleschote",
+                "500 ml Milch",
+                "100 ml Sahne",
+                "1 EL Zimt",
+                "1/2 EL Kakaopulver",
+                "1/2 Päckchen Vannilezucker",
+                "250 ml Malzbier"
+            ],
+            "Anleitung": [
+                "In einem Topf bei niedriger Hitze die Butter schmelzen.",
+                "Rohrzucker hinzufügen und unter ständigem Rühren leicht karamelisieren lassen.",
+                "Vanilleschote der Länge nach aufschlitzen und Mark auskratzen.",
+                "Schote, Mark, Milch, Hälfte der Sahne, Zimt, Kakaopulver und Vannilezucker in den Topf geben.",
+                "Gründlich vermengen und kurz köcheln lassen.",
+                "Topf vom Herd nehmen und das Malzbier einrühren.",
+                "Das Butterbier noch einmal kurz erwärmen, aber KEINESFALS kochen.",
+                "Danach vom Herd nehmen und etwas abkühlen lassen.",
+                "Restliche Sahne steif schlagen.",
+                "Das warme Butterbier in hitzebeständige Gläser(oder Krüge) füllen und mit einem Löffel die geschlagene Sahne daraufgeben."
+            ],
+            "Notes": "Am besten sofort nach dem zubereiten servieren."
+        },
+        {
+            "Name": "Felsenkekse",
+            "Kapitel": "Plätzchen",
+            "Serves": 12,
+            "Dauer": 30,
+            "Zutaten": [
+                "225g Mehl",
+                "1 Päkchen Backpulver",
+                "110g sehr kalte Butter",
+                "110g Zucker",
+                "1 TL Zimt",
+                "1 Prise Muskatnuss",
+                "1 Prise Salz",
+                "1 Ei",
+                "1-2 EL Milch",
+                "110g Sultaninen"
+            ],
+            "Anleitung": [
+                "Backofen auf 180° vorheizen.",
+                "Gesiebtes Mehl in einer Schüssel mit Backpulver mischen.",
+                "Die Butter in kleine Stücke schneiden und in das Mehl einkneten, bis die Masse geschmeidig aussieht.",
+                "Den Zucker und die Gewürze dazugeben und grob einarbeiten.",
+                "Das Ei verquirlen und mit etwas Milch der Teigmischung zufügen.",
+                "Alles mit einem Teigschaber verrühren, bis der Teig von der Konsistenz her an grobes Paniermehl erinnert.",
+                "Tischtenisballgroße Teigportionen auf einem Backblech (mit Backpapier) verteilen.",
+                "Im vorgeheizten Backofen 17-20 Minuten backen bis die Kekse goldbraun sind.",
+                "Aus dem Ofen nehmen und abkühlen lassen."
+            ],
+            "Notes": ""
+        },
+        {
+            "Name": "Kürbissuppe",
+            "Kapitel": "Suppen und Eintöpfe",
+            "Serves": 4,
+            "Dauer": 35,
+            "Zutaten": [
+                "1 EL Sonnenblumenöl",
+                "2 EL Butter",
+                "1 große Zwiebel, in Scheiben",
+                "700 g Kürbisstücke",
+                "450 g Kartoffelscheiben",
+                "600 ml Gemüsebrühe",
+                "600 ml Milch",
+                "1 TL Estragon",
+                "1 TL Zitronensaft",
+                "Muskat",
+                "Salz und schwarzer Pfeffer"
+            ],
+            "Anleitung": [
+                "Öl und Butter erhitzen, Zwiebel 4–5 Minuten dünsten.",
+                "Kürbis und Kartoffeln zugeben, 10 Minuten dünsten.",
+                "Brühe, Muskat, Estragon und Gewürze einrühren, 10 Minuten köcheln.",
+                "Suppe pürieren, Milch und Zitronensaft einrühren, abschmecken."
+            ],
+            "Notes": "Optional: Crème fraîche, Cumin, Chili."
         }
     ]
 }

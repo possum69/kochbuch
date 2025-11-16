@@ -129,9 +129,13 @@ class RecipeBook:
         delete_button = ttk.Button(button_frame, text="Löschen", command=self.delete_recipe, style="Delete.TButton")
         delete_button.pack(side=tk.LEFT, padx=5)
         
-        # Delete button
+        # Delete image button
         image_delete_button = ttk.Button(button_frame, text="Bilder löschen", command=self.delete_image, style="Delete.TButton")
         image_delete_button.pack(side=tk.LEFT, padx=5)
+
+        # Add image button
+        add_image_button = ttk.Button(button_frame, text="Bild hinzufügen", command=self.add_image)
+        add_image_button.pack(side=tk.LEFT, padx=5)
         
         # Create a style for the delete button
         style = ttk.Style()
@@ -345,6 +349,46 @@ class RecipeBook:
         except Exception as e:
             messagebox.showerror("Error", f"Could not save recipe: {e}")                
 
+    def add_image(self):
+        selection = self.recipe_list.selection()
+        if not selection:
+            messagebox.showwarning("Warnung", "Bitte wählen Sie ein Rezept zum Speichern aus.")
+            return
+
+        recipe_name = self.recipe_list.item(selection[0])['values'][0]
+        recipe_index = next((i for i, r in enumerate(self.recipes) if r['Name'] == recipe_name), None)
+        
+        if recipe_index is not None:
+            # Open file dialog to select image
+            file_path = filedialog.askopenfilename(title="Bild auswählen", 
+                                                   filetypes=[("Image Files", "*.png;*.jpg;*.jpeg;*.gif;*.bmp")])
+            if file_path:
+                image_name = os.path.basename(file_path)
+                dest_path = os.path.join(IMAGE_PATH, image_name)
+                
+                # Copy image to Bilder directory
+                try:
+                    os.makedirs(IMAGE_PATH, exist_ok=True)
+                    with open(file_path, 'rb') as src_file:
+                        with open(dest_path, 'wb') as dest_file:
+                            dest_file.write(src_file.read())
+                    
+                    # Update recipe data
+                    current_images = self.recipes[recipe_index].get('Bild', [])
+                    current_images.append(image_name)
+                    self.recipes[recipe_index]['Bild'] = current_images
+
+                    # Save to file
+                    with open('Kochbuch.json', 'w', encoding='utf-8') as f:
+                        json.dump({'total': self.total_recipes, 'documents': self.recipes}, 
+                                f, ensure_ascii=False, indent=4)
+                    messagebox.showinfo("Success", "Image added successfully!")
+                    
+                    # Refresh the recipe list
+                    self.populate_recipe_list(self.search_var.get())
+                except Exception as e:
+                    messagebox.showerror("Error", f"Could not add image: {e}")
+                    
 if __name__ == "__main__":
     root = tk.Tk()
     app = RecipeBook(root)
