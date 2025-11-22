@@ -106,7 +106,7 @@ class KochbuchTex(Kochbuch):
                             for image_file in image_files:
                                 file_path = f"{PICTURES_PATH}/{image_file}"
                                 if os.path.isfile(file_path):
-                                    f.write(f"\\includegraphics[height=0.5\\textheight]{{{KochbuchTex.latex_escape(file_path)}}}\n")
+                                    f.write(f"\\includegraphics[width=0.8\\textwidth]{{{KochbuchTex.latex_escape(file_path)}}}\n")
                             f.write(f"\\caption{{{title_tex}}}\n")
                             f.write("\\end{figure}\n")
 

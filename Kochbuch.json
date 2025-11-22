@@ -25,7 +25,7 @@
         },
         {
             "Zutaten": [
-                "500 g Farinzucker",
+                "500 g Zucker",
                 "3 EL Honig",
                 "4 Eier",
                 "20 g Zimt",
@@ -36,20 +36,22 @@
                 "Honigwasser zum Bestreichen"
             ],
             "Anleitung": [
-                "Farinzucker, Honig und Eier schaumig rühren.",
-                "Zimt, Mehl, Backpulver, Zitronat und Mandeln oder Nüsse hinzufügen und vermengen.",
+                "Zucker, Honig und Eier schaumig rühren.",
+                "Zimt, Mehl, Backpulver, Zitronat und Nüsse hinzufügen und vermengen.",
                 "Mit Knethaken einen Teig herstellen.",
                 "Mit leicht bemehlten Händen kleine Kugeln formen.",
                 "Auf gefettetes Blech oder Backpapier legen und mit Honigwasser bestreichen.",
-                "Bei Mittelhitze (150°C) 15-20 Minuten backen.",
+                "Bei Mittelhitze (150°C/Umluft) 20-25 Minuten backen.",
                 "Noch heiß nochmals mit Honigwasser bestreichen."
             ],
-            "Bild": [],
+            "Bild": [
+                "Nürnberger Busserl.jpeg"
+            ],
             "Name": "Nürnberger Busserl",
-            "Kapitel": "Plätzchen",
-            "Serves": 1,
-            "Dauer": 30,
-            "Notes": "Kleine Honigplätzchen, typisch weihnachtlich."
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
+            "Serves": 80,
+            "Dauer": 60,
+            "Notes": "Feiner mit Orangat und Mandeln. Unbedingt Imkerhonig verwenden, dann ist die Konsistenz luftiger."
         },
         {
             "Zutaten": [
@@ -68,13 +70,13 @@
                 "In der Mitte eine Vertiefung machen, Eigelb und Butter hineingeben.",
                 "Die Masse verkneten und kalt stellen.",
                 "Den Teig messerrückendick ausrollen.",
-                "Kleine Plätzchen ausstechen und bei Mittelhitze ca. 15 Minuten backen.",
-                "Je zwei Plätzchen mit Marmelade zusammensetzen.",
+                "Kleine Advent, Weihnachten und Plätzchen ausstechen und bei Mittelhitze ca. 15 Minuten backen.",
+                "Je zwei Advent, Weihnachten und Plätzchen mit Marmelade zusammensetzen.",
                 "Mit Puderzucker übersieben."
             ],
             "Bild": [],
             "Name": "Hildatörtchen",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 65,
             "Dauer": 45,
             "Notes": "Klassische Doppelkekse mit Marmeladefüllung."
@@ -87,34 +89,35 @@
                 "1 TL Kardamom",
                 "abgeriebene Schale einer halben Zitrone (ungespritzt)",
                 "50 g Orangeat (gewürfelt)",
-                "50 g Sukkade (gewürfelt)",
+                "50 g Sukkade aka Zitronat (gewürfelt)",
                 "75 g gehackte Mandeln",
-                "125 g Rosinen",
-                "125 g Korinthen",
+                "250 g Rosinen, Sultaninen oder Korinthen",
                 "200 g Zucker",
-                "250 g Magerquark (gut ausgedrückt)",
-                "175 g Sanella oder Butter in Flöckchen",
+                "250 g Magerquark",
+                "175 g Butter in Flöckchen",
                 "2 Eier",
                 "2 EL Rum",
-                "50 g zerlassene Sanella oder Butter",
+                "50 g zerlassene Butter",
                 "Puderzucker zum Bestäuben"
             ],
             "Anleitung": [
                 "Mehl, Backpulver, Salz und Kardamom auf ein Backbrett geben und vermischen.",
                 "Zitronenschale, Orangeat, Sukkade, Mandeln, Rosinen, Korinthen und Zucker daraufgeben.",
-                "Magerquark und Sanella in Flöckchen darüber verteilen, eine Mulde eindrücken.",
-                "Eier, Rum und zerlassene Sanella hineingeben.",
+                "Magerquark und Butter in Flöckchen darüber verteilen, eine Mulde eindrücken.",
+                "Eier, Rum und zerlassene Butter hineingeben.",
                 "Alles mit einem Messer durcharbeiten, dann rasch zusammenkneten.",
                 "Einen Stollen formen und auf ein gefettetes Blech legen.",
-                "Im vorgeheizten Ofen bei 175-200 °C (Gas 2-3) ca. 60 Minuten backen.",
-                "Noch heiß mit Butter oder Sanella bepinseln und mit Puderzucker bestäuben."
+                "Im vorgeheizten Ofen bei 175 °C (Umluft) 60 Minuten backen.",
+                "Noch heiß mit Butter bepinseln und mit Puderzucker bestäuben."
             ],
-            "Bild": [],
+            "Bild": [
+                "Quarkstollen.JPG"
+            ],
             "Name": "Quarkstollen",
-            "Kapitel": "Süßspeisen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 25,
             "Dauer": 90,
-            "Notes": "Saftiger Stollen mit Quark statt Hefe."
+            "Notes": "1 Rezept passt in eine Kitchen Aid Schüssel, bei zwei läuft das Mehl über!"
         },
         {
             "Zutaten": [
@@ -137,7 +140,7 @@
             ],
             "Bild": [],
             "Name": "Nürnberger Lebkuchen",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 20,
             "Dauer": 40,
             "Notes": "Schwache Hitze verwenden, damit die Lebkuchen nicht zu dunkel werden."
@@ -154,13 +157,13 @@
             ],
             "Anleitung": [
                 "Mürbteig herstellen: Mehl sieben, Zucker und Ei in die Mitte geben, Butter/Margarine zerschneiden und zu einem glatten Teig kneten. Kalt stellen.",
-                "Teig dünn ausrollen, kleine runde Plätzchen ausstechen.",
+                "Teig dünn ausrollen, kleine runde Advent, Weihnachten und Plätzchen ausstechen.",
                 "Eiweiß steif schlagen, Zucker dazugeben, geriebene Nüsse unterheben.",
-                "Plätzchen mit 1 TL Makronenmasse belegen, bei 180-200°C 20-25 Minuten backen."
+                "Advent, Weihnachten und Plätzchen mit 1 TL Makronenmasse belegen, bei 180-200°C 20-25 Minuten backen."
             ],
             "Bild": [],
             "Name": "Bischofshütchen",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 30,
             "Dauer": 45,
             "Notes": "Makronenmasse vorsichtig unterheben, damit die Masse luftig bleibt."
@@ -178,12 +181,12 @@
             ],
             "Anleitung": [
                 "Mürbteig herstellen: Mehl, Zucker, Mandeln mischen, Butter und Zitronensaft zugeben, zu einem glatten Teig kneten. Kalt stellen.",
-                "Teig 0,5 cm dick ausrollen, Plätzchen ausstechen und bei mittlerer Hitze ca. 15 Minuten backen.",
-                "Plätzchen mit Marmelade aufeinander setzen, oben und seitlich mit Schokoladenglasur bestreichen und nach Belieben mit Pistazien oder Mandeln bestreuen."
+                "Teig 0,5 cm dick ausrollen, Advent, Weihnachten und Plätzchen ausstechen und bei mittlerer Hitze ca. 15 Minuten backen.",
+                "Advent, Weihnachten und Plätzchen mit Marmelade aufeinander setzen, oben und seitlich mit Schokoladenglasur bestreichen und nach Belieben mit Pistazien oder Mandeln bestreuen."
             ],
             "Bild": [],
-            "Name": "Ischler Plätzchen",
-            "Kapitel": "Plätzchen",
+            "Name": "Ischler Advent, Weihnachten und Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 30,
             "Dauer": 50,
             "Notes": "Kalt lagern, schmecken nach einigen Tagen noch besser."
@@ -199,15 +202,15 @@
             ],
             "Anleitung": [
                 "Mürbteig herstellen: Mehl, Zucker, Nüsse mischen, Butter und Ei dazugeben, zu einem glatten Teig kneten. 1 Stunde kaltstellen.",
-                "Teig 0,5 cm dick ausrollen, Plätzchen ausstechen und bei mittlerer Hitze 15-20 Minuten backen.",
-                "Je 2 Plätzchen mit Marmelade zusammensetzen."
+                "Teig 0,5 cm dick ausrollen, Advent, Weihnachten und Plätzchen ausstechen und bei mittlerer Hitze 15-20 Minuten backen.",
+                "Je 2 Advent, Weihnachten und Plätzchen mit Marmelade zusammensetzen."
             ],
             "Bild": [],
             "Name": "Spitzbuben",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 60,
             "Dauer": 50,
-            "Notes": "Plätzchen lassen sich gut einfrieren."
+            "Notes": "Advent, Weihnachten und Plätzchen lassen sich gut einfrieren."
         },
         {
             "Zutaten": [
@@ -222,12 +225,12 @@
                 "Eiweiß sehr steif schlagen, Zucker und Zimt einrühren.",
                 "Mandeln langsam unterheben, Teig kaltstellen.",
                 "Teig 1 cm dick ausrollen, Sternchen ausstechen, auf Backpapier setzen.",
-                "Baiser aus 1 Eiweiß und 50 g Puderzucker herstellen, Plätzchen damit bestreichen.",
+                "Baiser aus 1 Eiweiß und 50 g Puderzucker herstellen, Advent, Weihnachten und Plätzchen damit bestreichen.",
                 "Bei schwacher Hitze ca. 20 Minuten backen, mehr trocknen als backen."
             ],
             "Bild": [],
             "Name": "Zimtsterne",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 40,
             "Dauer": 40,
             "Notes": "Schwache Hitze verwenden, damit die Baiserhaube nicht bräunt."
@@ -248,12 +251,12 @@
                 "Mehl und Backpulver mischen, Zucker, Vanillin-Zucker und Ei einarbeiten.",
                 "Margarine und Haselnüsse daraufgeben, alle Zutaten schnell zu einem glatten Teig verkneten, kaltstellen.",
                 "Teig dünn ausrollen, Ecken ausstechen, bei mittlerer Hitze ca. 10 Minuten backen.",
-                "Nougatmasse im Wasserbad erwärmen, Hälfte der Plätzchen damit bestreichen, andere Hälfte darauflegen.",
-                "Kuvertüre im Wasserbad schmelzen, Enden der Plätzchen eintauchen."
+                "Nougatmasse im Wasserbad erwärmen, Hälfte der Advent, Weihnachten und Plätzchen damit bestreichen, andere Hälfte darauflegen.",
+                "Kuvertüre im Wasserbad schmelzen, Enden der Advent, Weihnachten und Plätzchen eintauchen."
             ],
             "Bild": [],
             "Name": "Nougatecken",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 30,
             "Dauer": 45,
             "Notes": "Nougatmasse vorher glatt rühren, nicht zu heiß verwenden."
@@ -300,12 +303,12 @@
                 "Honig, Zucker, Butter/Margarine zusammen erwärmen und verrühren, dann abkühlen lassen.",
                 "Mehl, Nüsse, Zitronat, Kakao, Gewürz, Backpulver mischen.",
                 "Abgekühlte Honigmasse dazugeben und alles gut verkneten.",
-                "Teig kaltstellen, ca. 1 cm dick ausrollen, Plätzchen ausstechen.",
+                "Teig kaltstellen, ca. 1 cm dick ausrollen, Advent, Weihnachten und Plätzchen ausstechen.",
                 "Bei mittlerer Hitze 15-20 Minuten backen."
             ],
             "Bild": [],
             "Name": "Ostpreußischer Pfefferkuchen",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 12,
             "Dauer": 60,
             "Notes": "Gewürzkuchen entfaltet sein volles Aroma erst nach einem Tag."
@@ -414,7 +417,7 @@
             ],
             "Bild": [],
             "Name": "Gefüllte Mandelstangen",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 30,
             "Dauer": 45,
             "Notes": "Teig kaltstellen erleichtert das Ausrollen. Mandeln gleichmäßig verteilen."
@@ -437,12 +440,12 @@
                 "Mehl, Speisestärke, Kakao mischen, sieben und esslöffelweise unterrühren.",
                 "Teig in Spritzbeutel mit glatter Lochtülle füllen, Hörnchen in Form kleiner Halbmonde oder Stangen auf Backblech spritzen.",
                 "Bei 175-200°C ca. 10-15 Minuten backen.",
-                "Nougatmasse im Wasserbad geschmeidig rühren, Hälfte der Plätzchen damit bestreichen, andere Hälfte fest dagegen drücken.",
-                "Kuvertüre im Wasserbad schmelzen, Enden der Plätzchen eintauchen."
+                "Nougatmasse im Wasserbad geschmeidig rühren, Hälfte der Advent, Weihnachten und Plätzchen damit bestreichen, andere Hälfte fest dagegen drücken.",
+                "Kuvertüre im Wasserbad schmelzen, Enden der Advent, Weihnachten und Plätzchen eintauchen."
             ],
             "Bild": [],
             "Name": "Gefüllte Schokoladenhörnchen",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 30,
             "Dauer": 50,
             "Notes": "Hörnchen auf Pergamentpapier spritzen, damit sie nicht kleben."
@@ -464,7 +467,7 @@
             ],
             "Bild": [],
             "Name": "Nußstangen",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 30,
             "Dauer": 40,
             "Notes": "Kaltstellen erleichtert das Formen der Rollen."
@@ -487,8 +490,8 @@
                 "Noch warm in Zucker wenden oder mit Puderzucker bestreuen."
             ],
             "Bild": [],
-            "Name": "Butterblumen (Butterplätzchen)",
-            "Kapitel": "Plätzchen",
+            "Name": "Butterblumen (ButterAdvent, Weihnachten und Plätzchen)",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 30,
             "Dauer": 40,
             "Notes": "Kaltstellen erleichtert das Ausrollen."
@@ -660,12 +663,12 @@
         },
         {
             "Bild": [
-                "Gefüllte Plätzchen.jpg"
+                "Gefüllte Advent, Weihnachten und Plätzchen.jpg"
             ],
-            "Name": "Gefüllte Plätzchen",
+            "Name": "Gefüllte Advent, Weihnachten und Plätzchen",
             "Notes": "",
             "Serves": 1,
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Dauer": 60,
             "Zutaten": [
                 "120g Zucker",
@@ -688,10 +691,10 @@
             "Anleitung": [
                 "Mürbteig herstellen",
                 "Teig ausrollen",
-                "runde Plätzchen ausstechen",
+                "runde Advent, Weihnachten und Plätzchen ausstechen",
                 "bei mittlerer Hitze 15-20 min Backen",
                 "Die Zutaten für die Füllung gut vermischen und",
-                "zwei Plätzchen damit zusammensitzen.",
+                "zwei Advent, Weihnachten und Plätzchen damit zusammensitzen.",
                 "Mit Guß bestreichen und mit Haselnüssen garnieren."
             ]
         },
@@ -1089,12 +1092,12 @@
         },
         {
             "Bild": [
-                "Schoko-Mandel-Plätzchen.jpg"
+                "Schoko-Mandel-Advent, Weihnachten und Plätzchen.jpg"
             ],
-            "Name": "Schoko-Mandel-Plätzchen",
+            "Name": "Schoko-Mandel-Advent, Weihnachten und Plätzchen",
             "Notes": "",
             "Serves": 5,
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Dauer": 30,
             "Zutaten": [
                 "500g Schokolade (Vollmilch oder Zartbitter)",
@@ -1391,12 +1394,12 @@
         },
         {
             "Bild": [
-                "Butterplätzchen.jpg"
+                "ButterAdvent, Weihnachten und Plätzchen.jpg"
             ],
-            "Name": "Butterplätzchen",
+            "Name": "ButterAdvent, Weihnachten und Plätzchen",
             "Notes": "",
             "Serves": 5,
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Dauer": 10,
             "Zutaten": [
                 "375 g Butter",
@@ -1632,11 +1635,11 @@
                 "Mandeln, Haselnüsse, Zitronat, Kakao, Lebkuchen-Gewürz und Triebkraft dazugeben.",
                 "Alles gut vermischen und die abgekühlte Masse sowie Eigelb unterkneten.",
                 "Teig kalt stellen.",
-                "Teig ½ cm dick ausrollen, Plätzchen ausstechen.",
+                "Teig ½ cm dick ausrollen, Advent, Weihnachten und Plätzchen ausstechen.",
                 "Bei mittlerer Hitze 15–20 Minuten backen."
             ],
             "Notes": "Klassisches Weihnachtsgebäck. Backzeit: 15–20 Minuten.",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 1,
             "Dauer": 20
         },
@@ -2032,7 +2035,7 @@
             ],
             "Bild": [],
             "Name": "Marzipanschnitten",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 12,
             "Dauer": 50,
             "Notes": "Weihnachtlich und aromatisch."
@@ -2061,7 +2064,7 @@
             ],
             "Bild": [],
             "Name": "Gewürzschnitten",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 12,
             "Dauer": 45,
             "Notes": "Würzig und festlich."
@@ -2875,35 +2878,20 @@
             "Notes": "Ideal für Pfannkuchen, Kartoffelpuffer oder Milchreis."
         },
         {
-            "Name": "Grünes Gemüse-Curry mit Süßkartoffel und Aubergine",
+            "Name": "Wirsing-Risotto",
             "Kapitel": "Vegetarische Gerichte",
             "Serves": 4,
             "Dauer": 30,
             "Zutaten": [
-                "1 EL Öl",
-                "1 mittelgroße Zwiebel (gehackt)",
-                "1–2 EL grüne Currypaste (Fertigpaste)",
-                "375 ml Kokosmilch",
-                "250 ml Wasser",
-                "1 mittelgroße Süßkartoffel (ca. 300 g, gewürfelt)",
-                "1 mittelgroße Aubergine (ca. 200 g, geviertelt und in Scheiben geschnitten)",
-                "6 Kaffir-Limettenblätter",
-                "2 EL Fischsauce",
-                "2 EL Limettensaft",
-                "2 TL Limettenschale",
-                "2 TL brauner Zucker",
-                "frische Korianderblätter zum Garnieren"
+                ""
             ],
             "Anleitung": [
-                "Öl in einer Pfanne erhitzen, Zwiebel glasig dünsten.",
-                "Currypaste zugeben, kurz anrösten.",
-                "Kokosmilch und Wasser angießen, Süßkartoffel und Aubergine zugeben.",
-                "Kaffir-Limettenblätter, Fischsauce, Limettensaft, Limettenschale und Zucker einrühren.",
-                "Bei mittlerer Hitze ca. 15–20 Minuten köcheln lassen, bis Gemüse weich ist.",
-                "Mit frischem Koriander garnieren und servieren."
+                ""
             ],
-            "Bild": [],
-            "Notes": "Gut zu variieren mit anderem Gemüse oder auch Pilz-Fleisch'."
+            "Bild": [
+                "Wirsingrisotto.jpeg"
+            ],
+            "Notes": ""
         },
         {
             "Name": "Rogan Josh",
@@ -2973,7 +2961,7 @@
         },
         {
             "Name": "Anzac Biscuits",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 1,
             "Dauer": 30,
             "Zutaten": [
@@ -3584,7 +3572,7 @@
         },
         {
             "Name": "Husarenkrapfen",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 5,
             "Dauer": 10,
             "Zutaten": [
@@ -3599,7 +3587,7 @@
             ],
             "Notes": "",
             "Bild": [
-                "Butterplätzchen.jpg"
+                "ButterAdvent, Weihnachten und Plätzchen.jpg"
             ]
         },
         {
@@ -3634,7 +3622,7 @@
         },
         {
             "Name": "Felsenkekse",
-            "Kapitel": "Plätzchen",
+            "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 12,
             "Dauer": 30,
             "Zutaten": [
@@ -3719,6 +3707,36 @@
             ],
             "Bild": [],
             "Notes": "Lecker, aber mild – nachwürzen!"
+        },
+        {
+            "Name": "Grünes Gemüse-Curry mit Süßkartoffel und Aubergine",
+            "Kapitel": "Vegetarische Gerichte",
+            "Serves": 4,
+            "Dauer": 30,
+            "Zutaten": [
+                "1 EL Öl",
+                "1 mittelgroße Zwiebel (gehackt)",
+                "1–2 EL grüne Currypaste (Fertigpaste)",
+                "375 ml Kokosmilch",
+                "250 ml Wasser",
+                "1 mittelgroße Süßkartoffel (ca. 300 g, gewürfelt)",
+                "1 mittelgroße Aubergine (ca. 200 g, geviertelt und in Scheiben geschnitten)",
+                "6 Kaffir-Limettenblätter",
+                "2 EL Fischsauce",
+                "2 EL Limettensaft",
+                "2 TL Limettenschale",
+                "2 TL brauner Zucker",
+                "frische Korianderblätter zum Garnieren"
+            ],
+            "Anleitung": [
+                "Öl in einer Pfanne erhitzen, Zwiebel glasig dünsten.",
+                "Currypaste zugeben, kurz anrösten.",
+                "Kokosmilch und Wasser angießen, Süßkartoffel und Aubergine zugeben.",
+                "Kaffir-Limettenblätter, Fischsauce, Limettensaft, Limettenschale und Zucker einrühren.",
+                "Bei mittlerer Hitze ca. 15–20 Minuten köcheln lassen, bis Gemüse weich ist.",
+                "Mit frischem Koriander garnieren und servieren."
+            ],
+            "Notes": "Gut zu variieren mit anderem Gemüse oder auch Pilz-Fleisch'."
         }
     ]
 }

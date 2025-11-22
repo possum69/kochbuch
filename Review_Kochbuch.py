@@ -369,25 +369,27 @@ class RecipeBook:
                 # Copy image to Bilder directory
                 try:
                     os.makedirs(IMAGE_PATH, exist_ok=True)
-                    with open(file_path, 'rb') as src_file:
-                        with open(dest_path, 'wb') as dest_file:
-                            dest_file.write(src_file.read())
-                    
-                    # Update recipe data
-                    current_images = self.recipes[recipe_index].get('Bild', [])
-                    current_images.append(image_name)
-                    self.recipes[recipe_index]['Bild'] = current_images
-
-                    # Save to file
-                    with open('Kochbuch.json', 'w', encoding='utf-8') as f:
-                        json.dump({'total': self.total_recipes, 'documents': self.recipes}, 
-                                f, ensure_ascii=False, indent=4)
-                    messagebox.showinfo("Success", "Image added successfully!")
-                    
-                    # Refresh the recipe list
-                    self.populate_recipe_list(self.search_var.get())
+                    if file_path != dest_path:
+                        with open(file_path, 'rb') as src_file:
+                            with open(dest_path, 'wb') as dest_file:
+                                dest_file.write(src_file.read())
                 except Exception as e:
-                    messagebox.showerror("Error", f"Could not add image: {e}")
+                    pass
+                    #messagebox.showerror("Error", f"Could not add image: {e}")
+
+                # Update recipe data
+                current_images = self.recipes[recipe_index].get('Bild', [])
+                current_images.append(image_name)
+                self.recipes[recipe_index]['Bild'] = current_images
+
+                # Save to file
+                with open('Kochbuch.json', 'w', encoding='utf-8') as f:
+                    json.dump({'total': self.total_recipes, 'documents': self.recipes}, 
+                            f, ensure_ascii=False, indent=4)
+                messagebox.showinfo("Success", "Image added successfully!")
+                
+                # Refresh the recipe list
+                self.populate_recipe_list(self.search_var.get())
                     
 if __name__ == "__main__":
     root = tk.Tk()
