@@ -131,6 +131,7 @@ def main():
     os.system("move Kochbuch.pdf Output")
     os.system("move Kochbuch.tex Output")
     os.system("copy *.json Output")
+    os.system("copy Kochbuch.json viewer\\assets\\recipes.json")
 
 if __name__ == "__main__":
     main()
