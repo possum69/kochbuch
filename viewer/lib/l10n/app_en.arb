@@ -6,5 +6,6 @@
  "serves": "Serves",
  "duration": "Time",
  "minutes": "minutes",
- "chapter": "Chapter"
+ "chapter": "Chapter",
+ "notes": "Notes:"
 }

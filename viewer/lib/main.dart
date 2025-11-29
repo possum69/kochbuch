@@ -83,8 +83,11 @@ class _RecipeHomePageState extends State<RecipeHomePage> {
     final docs = data['documents'] as List;
     setState(() {
       allRecipes = docs.map((e) => Recipe.fromJson(e)).toList();
+      // Sort all recipes by name
+      allRecipes.sort((a, b) => a.title.toLowerCase().compareTo(b.title.toLowerCase()));
     });
   }
+
 
   @override
   Widget build(BuildContext context) {
@@ -171,13 +174,28 @@ class RecipeDetailPage extends StatelessWidget {
 
             ListView(
               padding: const EdgeInsets.all(16),
-              children: recipe.steps
-                  .map((s) => Padding(
-                padding: const EdgeInsets.only(bottom: 12.0),
-                child: Text('• $s'),
-              ))
-                  .toList(),
-            ),
+              children: [
+                // Display each step
+                ...recipe.steps.map((s) => Padding(
+                  padding: const EdgeInsets.only(bottom: 12.0),
+                  child: Text('• $s'),
+                )),
+
+                // Add some spacing before notes
+                const SizedBox(height: 16),
+
+                // Show notes if not empty
+                if (recipe.notes.isNotEmpty) ...[
+                  Text(
+                    AppLocalizations.of(context)!.notes,
+                    style: TextStyle(fontWeight: FontWeight.bold),
+                  ),
+                  const SizedBox(height: 8),
+                  Text(recipe.notes),
+                ],
+              ],
+            )
+
           ],
         ),
       ),

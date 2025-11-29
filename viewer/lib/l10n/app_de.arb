@@ -6,5 +6,6 @@
  "serves": "Portionen",
  "duration": "Zeit",
  "minutes": "Minuten",
- "chapter": "Kapitel"
+ "chapter": "Kapitel",
+ "notes": "Anmerkungen:"
 }
