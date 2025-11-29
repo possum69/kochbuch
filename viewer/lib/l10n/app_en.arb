@@ -1,0 +1,10 @@
+{
+ "appTitle": "Cooking Book",
+ "searchHint": "Search recipes...",
+ "ingredientsTab": "Ingredients",
+ "stepsTab": "Steps",
+ "serves": "Serves",
+ "duration": "Time",
+ "minutes": "minutes",
+ "chapter": "Chapter"
+}

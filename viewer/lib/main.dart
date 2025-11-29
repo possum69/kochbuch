@@ -1,5 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter/services.dart' show rootBundle;
 
 void main() {
@@ -45,8 +47,16 @@ class RecipeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Cooking Book',
-      theme: ThemeData(primarySwatch: Colors.green),
+      localizationsDelegates: const [
+        AppLocalizations.delegate,
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+      ],
+      supportedLocales: const [
+        Locale('en'),
+        Locale('de'),
+      ],
       home: RecipeHomePage(),
     );
   }
@@ -83,15 +93,17 @@ class _RecipeHomePageState extends State<RecipeHomePage> {
         .toList();
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Cooking Book')),
+      appBar: AppBar(
+        title: Text(AppLocalizations.of(context)!.appTitle),
+      ),
       body: Column(
         children: [
           Padding(
             padding: const EdgeInsets.all(12.0),
             child: TextField(
-              decoration: const InputDecoration(
+              decoration: InputDecoration(
                   border: OutlineInputBorder(),
-                  hintText: 'Search recipes...'
+                  hintText: AppLocalizations.of(context)!.searchHint
               ),
               onChanged: (value) {
                 setState(() => query = value);
@@ -135,9 +147,9 @@ class RecipeDetailPage extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           title: Text(recipe.title),
-          bottom: const TabBar(tabs: [
-            Tab(text: 'Ingredients'),
-            Tab(text: 'Steps'),
+          bottom: TabBar(tabs: [
+            Tab(text: AppLocalizations.of(context)!.ingredientsTab),
+            Tab(text: AppLocalizations.of(context)!.stepsTab),
           ]),
         ),
         body: TabBarView(
@@ -145,8 +157,8 @@ class RecipeDetailPage extends StatelessWidget {
             ListView(
               padding: const EdgeInsets.all(16),
               children: [
-                Text('Serves: ${recipe.serves}'),
-                Text('Time: ${recipe.duration} minutes'),
+                Text('${AppLocalizations.of(context)!.serves}: ${recipe.serves}'),
+                Text('${AppLocalizations.of(context)!.duration}: ${recipe.duration} ${AppLocalizations.of(context)!.minutes}'),
                 const SizedBox(height: 12),
                 ...recipe.ingredients
                     .map((i) => Padding(
