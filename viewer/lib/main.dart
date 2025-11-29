@@ -16,7 +16,7 @@ class Recipe {
   final List<String> ingredients;
   final List<String> steps;
   final List<String> images;
-  final String notes;
+  String notes;
 
   Recipe({
     required this.title,
@@ -138,10 +138,29 @@ class _RecipeHomePageState extends State<RecipeHomePage> {
   }
 }
 
-class RecipeDetailPage extends StatelessWidget {
+class RecipeDetailPage extends StatefulWidget {
   final Recipe recipe;
 
   const RecipeDetailPage({super.key, required this.recipe});
+
+  @override
+  State<RecipeDetailPage> createState() => _RecipeDetailPageState();
+}
+
+class _RecipeDetailPageState extends State<RecipeDetailPage> {
+  late TextEditingController _notesController;
+
+  @override
+  void initState() {
+    super.initState();
+    _notesController = TextEditingController(text: widget.recipe.notes);
+  }
+
+  @override
+  void dispose() {
+    _notesController.dispose();
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -149,7 +168,7 @@ class RecipeDetailPage extends StatelessWidget {
       length: 2,
       child: Scaffold(
         appBar: AppBar(
-          title: Text(recipe.title),
+          title: Text(widget.recipe.title),
           bottom: TabBar(tabs: [
             Tab(text: AppLocalizations.of(context)!.ingredientsTab),
             Tab(text: AppLocalizations.of(context)!.stepsTab),
@@ -160,10 +179,10 @@ class RecipeDetailPage extends StatelessWidget {
             ListView(
               padding: const EdgeInsets.all(16),
               children: [
-                Text('${AppLocalizations.of(context)!.serves}: ${recipe.serves}'),
-                Text('${AppLocalizations.of(context)!.duration}: ${recipe.duration} ${AppLocalizations.of(context)!.minutes}'),
+                Text('${AppLocalizations.of(context)!.serves}: ${widget.recipe.serves}'),
+                Text('${AppLocalizations.of(context)!.duration}: ${widget.recipe.duration} ${AppLocalizations.of(context)!.minutes}'),
                 const SizedBox(height: 12),
-                ...recipe.ingredients
+                ...widget.recipe.ingredients
                     .map((i) => Padding(
                   padding: const EdgeInsets.only(bottom: 8.0),
                   child: Text('- $i'),
@@ -176,7 +195,7 @@ class RecipeDetailPage extends StatelessWidget {
               padding: const EdgeInsets.all(16),
               children: [
                 // Display each step
-                ...recipe.steps.map((s) => Padding(
+                ...widget.recipe.steps.map((s) => Padding(
                   padding: const EdgeInsets.only(bottom: 12.0),
                   child: Text('• $s'),
                 )),
@@ -184,15 +203,23 @@ class RecipeDetailPage extends StatelessWidget {
                 // Add some spacing before notes
                 const SizedBox(height: 16),
 
-                // Show notes if not empty
-                if (recipe.notes.isNotEmpty) ...[
-                  Text(
-                    AppLocalizations.of(context)!.notes,
-                    style: TextStyle(fontWeight: FontWeight.bold),
+                const SizedBox(height: 16),
+
+                // Editable notes
+                Text(AppLocalizations.of(context)!.notes, style: TextStyle(fontWeight: FontWeight.bold)),
+                const SizedBox(height: 8),
+                TextField(
+                  controller: _notesController,
+                  maxLines: null,
+                  decoration: InputDecoration(
+                    border: OutlineInputBorder(),
+                    hintText: 'Add your own notes here...',
                   ),
-                  const SizedBox(height: 8),
-                  Text(recipe.notes),
-                ],
+                  onChanged: (value) {
+                    // Update the recipe object in memory
+                    widget.recipe.notes = value;
+                  },
+                ),
               ],
             )
 
