@@ -314,7 +314,7 @@
             "Kapitel": "Advent, Weihnachten und Plätzchen",
             "Serves": 150,
             "Dauer": 120,
-            "Notes": "Den Teig kann man nicht in der Küchenmaschine herstellen. Ausreichend große Schüssel, einen atabilen Kochlöffel und Handarbeit beim Kneten erforderlich!"
+            "Notes": "Den Teig kann man nicht in der Küchenmaschine herstellen. Ausreichend große Schüssel, einen stabilen Kochlöffel und Handarbeit beim Kneten erforderlich!"
         },
         {
             "Zutaten": [
@@ -3745,6 +3745,40 @@
                 "Mit frischem Koriander garnieren und servieren."
             ],
             "Notes": "Gut zu variieren mit anderem Gemüse oder auch Pilz-Fleisch'."
+        },
+        {
+            "Name": "Bauernsuppe",
+            "Kapitel": "Suppen",
+            "Serves": 4,
+            "Dauer": 60,
+            "Zutaten": [
+                "2 EL Olivenöl",
+                "1-2 Zwiebeln, grob gehackt",
+                "400 g Wurzelgemüse (Möhren, Rüben, Kartoffeln, Süßkartoffeln, Sellerie, etc.) geschält und 1 - 2cm klein geschnitten",
+                "400 g Tomaten aus der Dose",
+                "1 EL Tomatenmark",
+                "1 TL italienische Kräuter",
+                "1 TL Oregano",
+                "1 Paprika",
+                "1,5 Liter Gemüsebrühe oder Wasser + 4 TL Instantbrühe",
+                "1 Tasse Nudeln",
+                "400 g Bohnen aus der Dose (optional)",
+                "Parmesankäse zum Bestreuen",
+                "Salz und Peffer"
+            ],
+            "Anleitung": [
+                "Öl erhitzen",
+                "Zwiebeln glasig dünsten",
+                "Tomatenmark zugeben und etwas mit den Zwiebeln anbraten",
+                "Wurzelgemüse und Paprika dazu geben und etwas anbraten",
+                "mit Wasser oder Brühe ablöschen und Kräuter dazugeben",
+                "30 min köcheln",
+                "Nudeln dazugeben und weichkochen",
+                "zuletzt Bohnen in der Suppe erwärmen",
+                "mit Salz und Pfeffer abschmecken",
+                "Warm mit Parmesankäse servieren"
+            ],
+            "Notes": "Gutes Rezept um Gemüse aus dem Garten oder aus dem Kühlschrank loszuwerden. Bohnen sind nicht unbedingt notwendig. Nudeln auch nicht."
         }
     ]
 }
